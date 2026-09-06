@@ -2,7 +2,7 @@
 
 EmoTracker pack for Final Fantasy Crystal Chronicles
 
-Final Fantasy Crystal Chronicles Randomzier: https://github.com/EverydaySimpleDev/Chibi-Robo-Randomizer(https://github.com/EverydaySimpleDev/Final-Fantasy-Crystal-Chronicles-Randomizer
+Final Fantasy Crystal Chronicles Randomzier: https://github.com/EverydaySimpleDev/Final-Fantasy-Crystal-Chronicles-Randomizer
 
 Get EmoTracker here: https://emotracker.net/
 
