@@ -1,0 +1,857 @@
+[
+  {
+    "name": "Year Tracker",
+    "type": "progressive",
+    "codes": "year_tracker",
+    "allow_disabled": false,
+    "img": "images/items/year_1.png",
+    "stages": [
+      {
+        "name": "Year 1",
+        "img": "images/items/year_1.png"
+      },
+      {
+        "name": "Year 2",
+        "img": "images/items/year_2.png",
+        "codes": "year_tracker_y2"
+      },
+      {
+        "name": "Year 3",
+        "img": "images/items/year_3.png",
+        "codes": "year_tracker_y2,year_tracker_y3"
+      },
+      {
+        "name": "Year 4",
+        "img": "images/items/year_4.png",
+        "codes": "year_tracker_y2,year_tracker_y3,year_tracker_y4"
+      },
+      {
+        "name": "Year 5",
+        "img": "images/items/year_5.png",
+        "codes": "year_tracker_y2,year_tracker_y3,year_tracker_y4,year_tracker_y5"
+      },
+      {
+        "name": "Year 6",
+        "img": "images/items/year_6.png",
+        "codes": "year_tracker_y2,year_tracker_y3,year_tracker_y4,year_tracker_y5,year_tracker_y6"
+      },
+      {
+        "name": "Year 7",
+        "img": "images/items/year_7.png",
+        "codes": "year_tracker_y2,year_tracker_y3,year_tracker_y4,year_tracker_y5,year_tracker_y6,year_tracker_y7"
+      },
+      {
+        "name": "Year 8",
+        "img": "images/items/year_8.png",
+        "codes": "year_tracker_y2,year_tracker_y3,year_tracker_y4,year_tracker_y5,year_tracker_y6,year_tracker_y7,year_tracker_y8"
+      },
+      {
+        "name": "Year 9",
+        "img": "images/items/year_9.png",
+        "codes": "year_tracker_y2,year_tracker_y3,year_tracker_y4,year_tracker_y5,year_tracker_y6,year_tracker_y7,year_tracker_y8,year_tracker_y9"
+      },
+      {
+        "name": "Year 10",
+        "img": "images/items/year_10.png",
+        "codes": "year_tracker_y2,year_tracker_y3,year_tracker_y4,year_tracker_y5,year_tracker_y6,year_tracker_y7,year_tracker_y8,year_tracker_y9,year_tracker_y10"
+      }
+    ]
+  },
+  {
+    "name": "River Belle Path - Cycle",
+    "type": "progressive",
+    "codes": "cycle_rbp",
+    "allow_disabled": true,
+    "img": "images/items/cycle_cycle_rbp_1.png",
+    "stages": [
+      {
+        "name": "River Belle Path - Cycle 1",
+        "img": "images/items/cycle_cycle_rbp_1.png"
+      },
+      {
+        "name": "River Belle Path - Cycle 2",
+        "img": "images/items/cycle_cycle_rbp_2.png",
+        "codes": "cycle_rbp_c2"
+      },
+      {
+        "name": "River Belle Path - Cycle 3",
+        "img": "images/items/cycle_cycle_rbp_3.png",
+        "codes": "cycle_rbp_c2,cycle_rbp_c3"
+      }
+    ]
+  },
+  {
+    "name": "Goblin Wall - Cycle",
+    "type": "progressive",
+    "codes": "cycle_gw",
+    "allow_disabled": true,
+    "img": "images/items/cycle_cycle_gw_1.png",
+    "stages": [
+      {
+        "name": "Goblin Wall - Cycle 1",
+        "img": "images/items/cycle_cycle_gw_1.png"
+      },
+      {
+        "name": "Goblin Wall - Cycle 2",
+        "img": "images/items/cycle_cycle_gw_2.png",
+        "codes": "cycle_gw_c2"
+      },
+      {
+        "name": "Goblin Wall - Cycle 3",
+        "img": "images/items/cycle_cycle_gw_3.png",
+        "codes": "cycle_gw_c2,cycle_gw_c3"
+      }
+    ]
+  },
+  {
+    "name": "The Mine of Cathuriges - Cycle",
+    "type": "progressive",
+    "codes": "cycle_moc",
+    "allow_disabled": true,
+    "img": "images/items/cycle_cycle_moc_1.png",
+    "stages": [
+      {
+        "name": "The Mine of Cathuriges - Cycle 1",
+        "img": "images/items/cycle_cycle_moc_1.png"
+      },
+      {
+        "name": "The Mine of Cathuriges - Cycle 2",
+        "img": "images/items/cycle_cycle_moc_2.png",
+        "codes": "cycle_moc_c2"
+      },
+      {
+        "name": "The Mine of Cathuriges - Cycle 3",
+        "img": "images/items/cycle_cycle_moc_3.png",
+        "codes": "cycle_moc_c2,cycle_moc_c3"
+      }
+    ]
+  },
+  {
+    "name": "The Mushroom Forest - Cycle",
+    "type": "progressive",
+    "codes": "cycle_tmf",
+    "allow_disabled": true,
+    "img": "images/items/cycle_cycle_tmf_1.png",
+    "stages": [
+      {
+        "name": "The Mushroom Forest - Cycle 1",
+        "img": "images/items/cycle_cycle_tmf_1.png"
+      },
+      {
+        "name": "The Mushroom Forest - Cycle 2",
+        "img": "images/items/cycle_cycle_tmf_2.png",
+        "codes": "cycle_tmf_c2"
+      },
+      {
+        "name": "The Mushroom Forest - Cycle 3",
+        "img": "images/items/cycle_cycle_tmf_3.png",
+        "codes": "cycle_tmf_c2,cycle_tmf_c3"
+      }
+    ]
+  },
+  {
+    "name": "Moschet Manor - Cycle",
+    "type": "progressive",
+    "codes": "cycle_mm",
+    "allow_disabled": true,
+    "img": "images/items/cycle_cycle_mm_1.png",
+    "stages": [
+      {
+        "name": "Moschet Manor - Cycle 1",
+        "img": "images/items/cycle_cycle_mm_1.png"
+      },
+      {
+        "name": "Moschet Manor - Cycle 2",
+        "img": "images/items/cycle_cycle_mm_2.png",
+        "codes": "cycle_mm_c2"
+      },
+      {
+        "name": "Moschet Manor - Cycle 3",
+        "img": "images/items/cycle_cycle_mm_3.png",
+        "codes": "cycle_mm_c2,cycle_mm_c3"
+      }
+    ]
+  },
+  {
+    "name": "Veo Lu Sluice - Cycle",
+    "type": "progressive",
+    "codes": "cycle_vls",
+    "allow_disabled": true,
+    "img": "images/items/cycle_cycle_vls_1.png",
+    "stages": [
+      {
+        "name": "Veo Lu Sluice - Cycle 1",
+        "img": "images/items/cycle_cycle_vls_1.png"
+      },
+      {
+        "name": "Veo Lu Sluice - Cycle 2",
+        "img": "images/items/cycle_cycle_vls_2.png",
+        "codes": "cycle_vls_c2"
+      },
+      {
+        "name": "Veo Lu Sluice - Cycle 3",
+        "img": "images/items/cycle_cycle_vls_3.png",
+        "codes": "cycle_vls_c2,cycle_vls_c3"
+      }
+    ]
+  },
+  {
+    "name": "Daemon's Court - Cycle",
+    "type": "progressive",
+    "codes": "cycle_dc",
+    "allow_disabled": true,
+    "img": "images/items/cycle_cycle_dc_1.png",
+    "stages": [
+      {
+        "name": "Daemon's Court - Cycle 1",
+        "img": "images/items/cycle_cycle_dc_1.png"
+      },
+      {
+        "name": "Daemon's Court - Cycle 2",
+        "img": "images/items/cycle_cycle_dc_2.png",
+        "codes": "cycle_dc_c2"
+      },
+      {
+        "name": "Daemon's Court - Cycle 3",
+        "img": "images/items/cycle_cycle_dc_3.png",
+        "codes": "cycle_dc_c2,cycle_dc_c3"
+      }
+    ]
+  },
+  {
+    "name": "Selepation Cave - Cycle",
+    "type": "progressive",
+    "codes": "cycle_sc",
+    "allow_disabled": true,
+    "img": "images/items/cycle_cycle_sc_1.png",
+    "stages": [
+      {
+        "name": "Selepation Cave - Cycle 1",
+        "img": "images/items/cycle_cycle_sc_1.png"
+      },
+      {
+        "name": "Selepation Cave - Cycle 2",
+        "img": "images/items/cycle_cycle_sc_2.png",
+        "codes": "cycle_sc_c2"
+      },
+      {
+        "name": "Selepation Cave - Cycle 3",
+        "img": "images/items/cycle_cycle_sc_3.png",
+        "codes": "cycle_sc_c2,cycle_sc_c3"
+      }
+    ]
+  },
+  {
+    "name": "Conall Curach - Cycle",
+    "type": "progressive",
+    "codes": "cycle_cc",
+    "allow_disabled": true,
+    "img": "images/items/cycle_cycle_cc_1.png",
+    "stages": [
+      {
+        "name": "Conall Curach - Cycle 1",
+        "img": "images/items/cycle_cycle_cc_1.png"
+      },
+      {
+        "name": "Conall Curach - Cycle 2",
+        "img": "images/items/cycle_cycle_cc_2.png",
+        "codes": "cycle_cc_c2"
+      },
+      {
+        "name": "Conall Curach - Cycle 3",
+        "img": "images/items/cycle_cycle_cc_3.png",
+        "codes": "cycle_cc_c2,cycle_cc_c3"
+      }
+    ]
+  },
+  {
+    "name": "Rebena Te Ra - Cycle",
+    "type": "progressive",
+    "codes": "cycle_rtr",
+    "allow_disabled": true,
+    "img": "images/items/cycle_cycle_rtr_1.png",
+    "stages": [
+      {
+        "name": "Rebena Te Ra - Cycle 1",
+        "img": "images/items/cycle_cycle_rtr_1.png"
+      },
+      {
+        "name": "Rebena Te Ra - Cycle 2",
+        "img": "images/items/cycle_cycle_rtr_2.png",
+        "codes": "cycle_rtr_c2"
+      },
+      {
+        "name": "Rebena Te Ra - Cycle 3",
+        "img": "images/items/cycle_cycle_rtr_3.png",
+        "codes": "cycle_rtr_c2,cycle_rtr_c3"
+      }
+    ]
+  },
+  {
+    "name": "Lynari Desert - Cycle",
+    "type": "progressive",
+    "codes": "cycle_ld",
+    "allow_disabled": true,
+    "img": "images/items/cycle_cycle_ld_1.png",
+    "stages": [
+      {
+        "name": "Lynari Desert - Cycle 1",
+        "img": "images/items/cycle_cycle_ld_1.png"
+      },
+      {
+        "name": "Lynari Desert - Cycle 2",
+        "img": "images/items/cycle_cycle_ld_2.png",
+        "codes": "cycle_ld_c2"
+      },
+      {
+        "name": "Lynari Desert - Cycle 3",
+        "img": "images/items/cycle_cycle_ld_3.png",
+        "codes": "cycle_ld_c2,cycle_ld_c3"
+      }
+    ]
+  },
+  {
+    "name": "Tida - Cycle",
+    "type": "progressive",
+    "codes": "cycle_tida",
+    "allow_disabled": true,
+    "img": "images/items/cycle_cycle_tida_1.png",
+    "stages": [
+      {
+        "name": "Tida - Cycle 1",
+        "img": "images/items/cycle_cycle_tida_1.png"
+      },
+      {
+        "name": "Tida - Cycle 2",
+        "img": "images/items/cycle_cycle_tida_2.png",
+        "codes": "cycle_tida_c2"
+      },
+      {
+        "name": "Tida - Cycle 3",
+        "img": "images/items/cycle_cycle_tida_3.png",
+        "codes": "cycle_tida_c2,cycle_tida_c3"
+      }
+    ]
+  },
+  {
+    "name": "Mount Kilanda - Cycle",
+    "type": "progressive",
+    "codes": "cycle_mk",
+    "allow_disabled": true,
+    "img": "images/items/cycle_cycle_mk_1.png",
+    "stages": [
+      {
+        "name": "Mount Kilanda - Cycle 1",
+        "img": "images/items/cycle_cycle_mk_1.png"
+      },
+      {
+        "name": "Mount Kilanda - Cycle 2",
+        "img": "images/items/cycle_cycle_mk_2.png",
+        "codes": "cycle_mk_c2"
+      },
+      {
+        "name": "Mount Kilanda - Cycle 3",
+        "img": "images/items/cycle_cycle_mk_3.png",
+        "codes": "cycle_mk_c2,cycle_mk_c3"
+      }
+    ]
+  },
+  {
+    "name": "Shuriken",
+    "type": "toggle",
+    "img": "images/items/artifact_1.png",
+    "codes": "shuriken"
+  },
+  {
+    "name": "Maneater",
+    "type": "toggle",
+    "img": "images/items/artifact_1.png",
+    "codes": "maneater"
+  },
+  {
+    "name": "Double Axe",
+    "type": "toggle",
+    "img": "images/items/artifact_1.png",
+    "codes": "double_axe"
+  },
+  {
+    "name": "Ashura",
+    "type": "toggle",
+    "img": "images/items/artifact_1.png",
+    "codes": "ashura"
+  },
+  {
+    "name": "Kaiser Knuckles",
+    "type": "toggle",
+    "img": "images/items/artifact_1.png",
+    "codes": "kaiser_knuckles"
+  },
+  {
+    "name": "Flametongue",
+    "type": "toggle",
+    "img": "images/items/artifact_1.png",
+    "codes": "flametongue"
+  },
+  {
+    "name": "Ice Brand",
+    "type": "toggle",
+    "img": "images/items/artifact_1.png",
+    "codes": "ice_brand"
+  },
+  {
+    "name": "Loaded Dice",
+    "type": "toggle",
+    "img": "images/items/artifact_1.png",
+    "codes": "loaded_dice"
+  },
+  {
+    "name": "Ogrekiller",
+    "type": "toggle",
+    "img": "images/items/artifact_1.png",
+    "codes": "ogrekiller"
+  },
+  {
+    "name": "Engetsurin",
+    "type": "toggle",
+    "img": "images/items/artifact_1.png",
+    "codes": "engetsurin"
+  },
+  {
+    "name": "Sasuke's Blade",
+    "type": "toggle",
+    "img": "images/items/artifact_1.png",
+    "codes": "sasukes_blade"
+  },
+  {
+    "name": "Mjollnir",
+    "type": "toggle",
+    "img": "images/items/artifact_1.png",
+    "codes": "mjollnir"
+  },
+  {
+    "name": "Masquerade",
+    "type": "toggle",
+    "img": "images/items/artifact_1.png",
+    "codes": "masquerade"
+  },
+  {
+    "name": "Murasame",
+    "type": "toggle",
+    "img": "images/items/artifact_1.png",
+    "codes": "murasame"
+  },
+  {
+    "name": "Masamune",
+    "type": "toggle",
+    "img": "images/items/artifact_1.png",
+    "codes": "masamune"
+  },
+  {
+    "name": "Gekkabijin",
+    "type": "toggle",
+    "img": "images/items/artifact_1.png",
+    "codes": "gekkabijin"
+  },
+  {
+    "name": "Onion Sword",
+    "type": "toggle",
+    "img": "images/items/artifact_1.png",
+    "codes": "onion_sword"
+  },
+  {
+    "name": "Power Wristband",
+    "type": "toggle",
+    "img": "images/items/artifact_3.png",
+    "codes": "power_wristband"
+  },
+  {
+    "name": "Green Beret",
+    "type": "toggle",
+    "img": "images/items/artifact_3.png",
+    "codes": "green_beret"
+  },
+  {
+    "name": "Fang Charm",
+    "type": "toggle",
+    "img": "images/items/artifact_3.png",
+    "codes": "fang_charm"
+  },
+  {
+    "name": "Twisted Headband",
+    "type": "toggle",
+    "img": "images/items/artifact_3.png",
+    "codes": "twisted_headband"
+  },
+  {
+    "name": "Heavy Armband",
+    "type": "toggle",
+    "img": "images/items/artifact_3.png",
+    "codes": "heavy_armband"
+  },
+  {
+    "name": "Giant's Glove",
+    "type": "toggle",
+    "img": "images/items/artifact_3.png",
+    "codes": "giants_glove"
+  },
+  {
+    "name": "Dragon's Whisker",
+    "type": "toggle",
+    "img": "images/items/artifact_1.png",
+    "codes": "dragons_whisker"
+  },
+  {
+    "name": "Mage Masher",
+    "type": "toggle",
+    "img": "images/items/artifact_4.png",
+    "codes": "mage_masher"
+  },
+  {
+    "name": "Rune Staff",
+    "type": "toggle",
+    "img": "images/items/artifact_4.png",
+    "codes": "rune_staff"
+  },
+  {
+    "name": "Book of Light",
+    "type": "toggle",
+    "img": "images/items/artifact_4.png",
+    "codes": "book_of_light"
+  },
+  {
+    "name": "Sage's Staff",
+    "type": "toggle",
+    "img": "images/items/artifact_4.png",
+    "codes": "sages_staff"
+  },
+  {
+    "name": "Wonder Wand",
+    "type": "toggle",
+    "img": "images/items/artifact_4.png",
+    "codes": "wonder_wand"
+  },
+  {
+    "name": "Rune Bell",
+    "type": "toggle",
+    "img": "images/items/artifact_4.png",
+    "codes": "rune_bell"
+  },
+  {
+    "name": "Mage's Staff",
+    "type": "toggle",
+    "img": "images/items/artifact_4.png",
+    "codes": "mages_staff"
+  },
+  {
+    "name": "Noah's Lute",
+    "type": "toggle",
+    "img": "images/items/artifact_4.png",
+    "codes": "noahs_lute"
+  },
+  {
+    "name": "Galatyn",
+    "type": "toggle",
+    "img": "images/items/artifact_1.png",
+    "codes": "galatyn"
+  },
+  {
+    "name": "Tome of Ultima",
+    "type": "toggle",
+    "img": "images/items/artifact_4.png",
+    "codes": "tome_of_ultima"
+  },
+  {
+    "name": "Silver Bracer",
+    "type": "toggle",
+    "img": "images/items/artifact_5.png",
+    "codes": "silver_bracer"
+  },
+  {
+    "name": "Cat's Bell",
+    "type": "toggle",
+    "img": "images/items/artifact_7.png",
+    "codes": "cats_bell"
+  },
+  {
+    "name": "Faerie Ring",
+    "type": "toggle",
+    "img": "images/items/artifact_7.png",
+    "codes": "faerie_ring"
+  },
+  {
+    "name": "Winged Cap",
+    "type": "toggle",
+    "img": "images/items/artifact_7.png",
+    "codes": "winged_cap"
+  },
+  {
+    "name": "Candy Ring",
+    "type": "toggle",
+    "img": "images/items/artifact_7.png",
+    "codes": "candy_ring"
+  },
+  {
+    "name": "Kris",
+    "type": "toggle",
+    "img": "images/items/artifact_4.png",
+    "codes": "kris"
+  },
+  {
+    "name": "Red Slippers",
+    "type": "toggle",
+    "img": "images/items/artifact_7.png",
+    "codes": "red_slippers"
+  },
+  {
+    "name": "Dark Matter",
+    "type": "toggle",
+    "img": "images/items/artifact_4.png",
+    "codes": "dark_matter"
+  },
+  {
+    "name": "Gold Hairpin",
+    "type": "toggle",
+    "img": "images/items/artifact_4.png",
+    "codes": "gold_hairpin"
+  },
+  {
+    "name": "Taotie Motif",
+    "type": "toggle",
+    "img": "images/items/artifact_7.png",
+    "codes": "taotie_motif"
+  },
+  {
+    "name": "Ribbon",
+    "type": "toggle",
+    "img": "images/items/artifact_5.png",
+    "codes": "ribbon"
+  },
+  {
+    "name": "Main Gauche",
+    "type": "toggle",
+    "img": "images/items/artifact_0.png",
+    "codes": "main_gauche"
+  },
+  {
+    "name": "Chicken Knife",
+    "type": "toggle",
+    "img": "images/items/artifact_0.png",
+    "codes": "chicken_knife"
+  },
+  {
+    "name": "Save the Queen",
+    "type": "toggle",
+    "img": "images/items/artifact_0.png",
+    "codes": "save_the_queen"
+  },
+  {
+    "name": "Drill",
+    "type": "toggle",
+    "img": "images/items/artifact_0.png",
+    "codes": "drill"
+  },
+  {
+    "name": "Buckler",
+    "type": "toggle",
+    "img": "images/items/artifact_0.png",
+    "codes": "buckler"
+  },
+  {
+    "name": "Silver Spectacles",
+    "type": "toggle",
+    "img": "images/items/artifact_5.png",
+    "codes": "silver_spectacles"
+  },
+  {
+    "name": "Sparkling Bracer",
+    "type": "toggle",
+    "img": "images/items/artifact_5.png",
+    "codes": "sparkling_bracer"
+  },
+  {
+    "name": "Black Hood",
+    "type": "toggle",
+    "img": "images/items/artifact_5.png",
+    "codes": "black_hood"
+  },
+  {
+    "name": "Helm of Arai",
+    "type": "toggle",
+    "img": "images/items/artifact_5.png",
+    "codes": "helm_of_arai"
+  },
+  {
+    "name": "Elven Mantle",
+    "type": "toggle",
+    "img": "images/items/artifact_5.png",
+    "codes": "elven_mantle"
+  },
+  {
+    "name": "Wonder Bangle",
+    "type": "toggle",
+    "img": "images/items/artifact_5.png",
+    "codes": "wonder_bangle"
+  },
+  {
+    "name": "Ring of Protection",
+    "type": "toggle",
+    "img": "images/items/artifact_5.png",
+    "codes": "ring_of_protection"
+  },
+  {
+    "name": "Aegis",
+    "type": "toggle",
+    "img": "images/items/artifact_5.png",
+    "codes": "aegis"
+  },
+  {
+    "name": "Rat's Tail",
+    "type": "toggle",
+    "img": "images/items/artifact_7.png",
+    "codes": "rats_tail"
+  },
+  {
+    "name": "Teddy Bear",
+    "type": "toggle",
+    "img": "images/items/artifact_7.png",
+    "codes": "teddy_bear"
+  },
+  {
+    "name": "Moogle Pocket",
+    "type": "toggle",
+    "img": "images/items/artifact_6.png",
+    "codes": "moogle_pocket"
+  },
+  {
+    "name": "Chocobo Pocket",
+    "type": "toggle",
+    "img": "images/items/artifact_6.png",
+    "codes": "chocobo_pocket"
+  },
+  {
+    "name": "Gobbie Pocket",
+    "type": "toggle",
+    "img": "images/items/artifact_6.png",
+    "codes": "gobbie_pocket"
+  },
+  {
+    "name": "Ultimate Pocket",
+    "type": "toggle",
+    "img": "images/items/artifact_6.png",
+    "codes": "ultimate_pocket"
+  },
+  {
+    "name": "Ring of Fire",
+    "type": "toggle",
+    "img": "images/items/artifact_8.png",
+    "codes": "ring_of_fire"
+  },
+  {
+    "name": "Ring of Blizzard",
+    "type": "toggle",
+    "img": "images/items/artifact_9.png",
+    "codes": "ring_of_blizzard"
+  },
+  {
+    "name": "Ring of Thunder",
+    "type": "toggle",
+    "img": "images/items/artifact_12.png",
+    "codes": "ring_of_thunder"
+  },
+  {
+    "name": "Ring of Cure",
+    "type": "toggle",
+    "img": "images/items/artifact_11.png",
+    "codes": "ring_of_cure"
+  },
+  {
+    "name": "Ring of Life",
+    "type": "toggle",
+    "img": "images/items/artifact_10.png",
+    "codes": "ring_of_life"
+  },
+  {
+    "name": "Earth Pendant",
+    "type": "toggle",
+    "img": "images/items/artifact_13.png",
+    "codes": "earth_pendant"
+  },
+  {
+    "name": "Moon Pendant",
+    "type": "toggle",
+    "img": "images/items/artifact_14.png",
+    "codes": "moon_pendant"
+  },
+  {
+    "name": "Star Pendant",
+    "type": "toggle",
+    "img": "images/items/artifact_15.png",
+    "codes": "star_pendant"
+  },
+  {
+    "name": "Sun Pendant",
+    "type": "toggle",
+    "img": "images/items/artifact_8.png",
+    "codes": "sun_pendant"
+  },
+  {
+    "name": "Stone of Fire",
+    "type": "toggle",
+    "img": "images/items/stone_of_fire.png",
+    "codes": "stone_of_fire"
+  },
+  {
+    "name": "Stone of Blizzard",
+    "type": "toggle",
+    "img": "images/items/stone_of_blizzard.png",
+    "codes": "stone_of_blizzard"
+  },
+  {
+    "name": "Stone of Thunder",
+    "type": "toggle",
+    "img": "images/items/stone_of_thunder.png",
+    "codes": "stone_of_thunder"
+  },
+  {
+    "name": "Stone of Cure",
+    "type": "toggle",
+    "img": "images/items/stone_of_cure.png",
+    "codes": "stone_of_cure"
+  },
+  {
+    "name": "Stone of Clear",
+    "type": "toggle",
+    "img": "images/items/stone_of_clear.png",
+    "codes": "stone_of_clear"
+  },
+  {
+    "name": "Stone of Life",
+    "type": "toggle",
+    "img": "images/items/stone_of_life.png",
+    "codes": "stone_of_life"
+  },
+  {
+    "name": "Soul of the Lion",
+    "type": "toggle",
+    "img": "images/items/recipe.png",
+    "codes": "soul_of_the_lion"
+  },
+  {
+    "name": "Soul of the Dragon",
+    "type": "toggle",
+    "img": "images/items/recipe.png",
+    "codes": "soul_of_the_dragon"
+  },
+  {
+    "name": "Greatest Weapon",
+    "type": "toggle",
+    "img": "images/items/recipe.png",
+    "codes": "greatest_weapon"
+  },
+  {
+    "name": "Ring of Invincibility",
+    "type": "toggle",
+    "img": "images/items/recipe.png",
+    "codes": "ring_of_invincibility"
+  }
+]

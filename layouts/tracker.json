@@ -1,0 +1,314 @@
+{
+  "tracker_default": {
+    "type": "container",
+    "background": "#000000",
+    "content": {
+      "type": "dock",
+      "dropshadow": true,
+      "content": [
+        {
+          "type": "dock",
+          "dock": "left",
+          "v_alignment": "stretch",
+          "content": [
+            {
+              "type": "group",
+              "header": "Dungeon Cycles",
+              "dock": "top",
+              "content": {
+                "type": "itemgrid",
+                "item_margin": "4,1",
+                "h_alignment": "left",
+                "rows": [
+                  [
+                    "year_tracker",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                  ],
+                  [
+                    "cycle_rbp",
+                    "cycle_gw",
+                    "cycle_moc",
+                    "cycle_tmf",
+                    "cycle_mm",
+                    "cycle_vls",
+                    "cycle_dc"
+                  ],
+                  [
+                    "cycle_sc",
+                    "cycle_cc",
+                    "cycle_rtr",
+                    "cycle_ld",
+                    "cycle_tida",
+                    "cycle_mk",
+                    ""
+                  ]
+                ]
+              }
+            },
+            {
+              "type": "group",
+              "header": "Items",
+              "dock": "top",
+              "content": {
+                "type": "itemgrid",
+                "item_margin": "4,1",
+                "h_alignment": "left",
+                "rows": [
+                  [
+                    "shuriken",
+                    "maneater",
+                    "double_axe",
+                    "ashura",
+                    "kaiser_knuckles",
+                    "flametongue",
+                    "ice_brand",
+                    "loaded_dice",
+                    "ogrekiller"
+                  ],
+                  [
+                    "engetsurin",
+                    "sasukes_blade",
+                    "mjollnir",
+                    "masquerade",
+                    "murasame",
+                    "masamune",
+                    "gekkabijin",
+                    "onion_sword",
+                    "power_wristband"
+                  ],
+                  [
+                    "green_beret",
+                    "fang_charm",
+                    "twisted_headband",
+                    "heavy_armband",
+                    "giants_glove",
+                    "dragons_whisker",
+                    "mage_masher",
+                    "rune_staff",
+                    "book_of_light"
+                  ],
+                  [
+                    "sages_staff",
+                    "wonder_wand",
+                    "rune_bell",
+                    "mages_staff",
+                    "noahs_lute",
+                    "galatyn",
+                    "tome_of_ultima",
+                    "silver_bracer",
+                    "cats_bell"
+                  ],
+                  [
+                    "faerie_ring",
+                    "winged_cap",
+                    "candy_ring",
+                    "kris",
+                    "red_slippers",
+                    "dark_matter",
+                    "gold_hairpin",
+                    "taotie_motif",
+                    "ribbon"
+                  ],
+                  [
+                    "main_gauche",
+                    "chicken_knife",
+                    "save_the_queen",
+                    "drill",
+                    "buckler",
+                    "silver_spectacles",
+                    "sparkling_bracer",
+                    "black_hood",
+                    "helm_of_arai"
+                  ],
+                  [
+                    "elven_mantle",
+                    "wonder_bangle",
+                    "ring_of_protection",
+                    "aegis",
+                    "rats_tail",
+                    "teddy_bear",
+                    "moogle_pocket",
+                    "chocobo_pocket",
+                    "gobbie_pocket"
+                  ],
+                  [
+                    "ultimate_pocket",
+                    "ring_of_fire",
+                    "ring_of_blizzard",
+                    "ring_of_thunder",
+                    "ring_of_cure",
+                    "ring_of_life",
+                    "earth_pendant",
+                    "moon_pendant",
+                    "star_pendant"
+                  ],
+                  [
+                    "sun_pendant",
+                    "stone_of_fire",
+                    "stone_of_blizzard",
+                    "stone_of_thunder",
+                    "stone_of_cure",
+                    "stone_of_clear",
+                    "stone_of_life",
+                    "soul_of_the_lion",
+                    "soul_of_the_dragon"
+                  ],
+                  [
+                    "greatest_weapon",
+                    "ring_of_invincibility",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                  ]
+                ]
+              }
+            },
+            {
+              "type": "group",
+              "header": "Pinned Locations",
+              "content": {
+                "type": "recentpins",
+                "style": "wrap",
+                "h_alignment": "stretch",
+                "v_alignment": "stretch",
+                "orientation": "vertical",
+                "compact": true
+              }
+            }
+          ]
+        },
+        {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "River Belle Path",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "river_belle_path"
+                ]
+              }
+            },
+            {
+              "title": "Goblin Wall",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "goblin_wall"
+                ]
+              }
+            },
+            {
+              "title": "The Mine of Cathuriges",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "mine_of_cathuriges"
+                ]
+              }
+            },
+            {
+              "title": "The Mushroom Forest",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "mushroom_forest"
+                ]
+              }
+            },
+            {
+              "title": "Moschet Manor",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "moschet_manor"
+                ]
+              }
+            },
+            {
+              "title": "Veo Lu Sluice",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "veo_lu_sluice"
+                ]
+              }
+            },
+            {
+              "title": "Daemon's Court",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "daemons_court"
+                ]
+              }
+            },
+            {
+              "title": "Selepation Cave",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "selepation_cave"
+                ]
+              }
+            },
+            {
+              "title": "Conall Curach",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "conall_curach"
+                ]
+              }
+            },
+            {
+              "title": "Mount Vellenge",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "mount_vellenge"
+                ]
+              }
+            },
+            {
+              "title": "Lynari Desert",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "lynari_desert"
+                ]
+              }
+            },
+            {
+              "title": "Tida",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "tida"
+                ]
+              }
+            },
+            {
+              "title": "Mount Kilanda",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "mount_kilanda"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

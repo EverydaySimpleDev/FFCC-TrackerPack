@@ -1,0 +1,80 @@
+[
+  {
+    "name": "river_belle_path",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/river_belle_path_no_num.jpg"
+  },
+  {
+    "name": "goblin_wall",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/goblin_wall.jpg"
+  },
+  {
+    "name": "mine_of_cathuriges",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/mine_of_cathuriges.jpg"
+  },
+  {
+    "name": "mushroom_forest",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/mushroom_forest.jpg"
+  },
+  {
+    "name": "moschet_manor",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/moschet_manor.jpg"
+  },
+  {
+    "name": "veo_lu_sluice",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/veo_lu_sluice.jpg"
+  },
+  {
+    "name": "daemons_court",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/daemons_court.jpg"
+  },
+  {
+    "name": "selepation_cave",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/selepation_cave.jpg"
+  },
+  {
+    "name": "conall_curach",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/conall_curach.jpg"
+  },
+  {
+    "name": "mount_vellenge",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/mount_vellenge.jpg"
+  },
+  {
+    "name": "lynari_desert",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/lynari_desert.jpg"
+  },
+  {
+    "name": "tida",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/tida.jpg"
+  },
+  {
+    "name": "mount_kilanda",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/mount_kilanda.jpg"
+  }
+]

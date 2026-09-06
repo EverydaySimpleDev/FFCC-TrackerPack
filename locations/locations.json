@@ -1,0 +1,3864 @@
+[
+  {
+    "name": "FFCC Dungeons",
+    "children": [
+      {
+        "name": "River Belle Path",
+        "color": "#4488ff",
+        "children": [
+          {
+            "name": "River Belle Path - Chest 1",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_rbp_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_rbp_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "river_belle_path",
+                "x": 298,
+                "y": 641
+              }
+            ]
+          },
+          {
+            "name": "River Belle Path - Chest 2",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_rbp_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_rbp_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "river_belle_path",
+                "x": 373,
+                "y": 573
+              }
+            ]
+          },
+          {
+            "name": "River Belle Path - Chest 3",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_rbp_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_rbp_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "river_belle_path",
+                "x": 355,
+                "y": 432
+              }
+            ]
+          },
+          {
+            "name": "River Belle Path - Chest 4",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_rbp_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_rbp_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "river_belle_path",
+                "x": 373,
+                "y": 237
+              }
+            ]
+          },
+          {
+            "name": "River Belle Path - Chest 5",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_rbp_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_rbp_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "river_belle_path",
+                "x": 407,
+                "y": 210
+              }
+            ]
+          },
+          {
+            "name": "River Belle Path - Chest 6",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_rbp_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_rbp_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "river_belle_path",
+                "x": 238,
+                "y": 278
+              }
+            ]
+          },
+          {
+            "name": "River Belle Path - Chest 7",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_rbp_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_rbp_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "river_belle_path",
+                "x": 88,
+                "y": 122
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Goblin Wall",
+        "color": "#44aa44",
+        "children": [
+          {
+            "name": "Goblin Wall - Chest 1",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y2"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_gw_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_gw_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "goblin_wall",
+                "x": 95,
+                "y": 783
+              }
+            ]
+          },
+          {
+            "name": "Goblin Wall - Chest 2",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y2"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_gw_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_gw_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "goblin_wall",
+                "x": 375,
+                "y": 800
+              }
+            ]
+          },
+          {
+            "name": "Goblin Wall - Chest 3",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y2"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_gw_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_gw_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "goblin_wall",
+                "x": 730,
+                "y": 788
+              }
+            ]
+          },
+          {
+            "name": "Goblin Wall - Chest 4",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y2"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_gw_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_gw_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "goblin_wall",
+                "x": 775,
+                "y": 685
+              }
+            ]
+          },
+          {
+            "name": "Goblin Wall - Chest 5",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y2"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_gw_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_gw_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "goblin_wall",
+                "x": 740,
+                "y": 600
+              }
+            ]
+          },
+          {
+            "name": "Goblin Wall - Chest 6",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y2"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_gw_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_gw_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "goblin_wall",
+                "x": 775,
+                "y": 640
+              }
+            ]
+          },
+          {
+            "name": "Goblin Wall - Chest 7",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y2"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_gw_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_gw_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "goblin_wall",
+                "x": 625,
+                "y": 285
+              }
+            ]
+          },
+          {
+            "name": "Goblin Wall - Chest 8",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y2"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_gw_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_gw_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "goblin_wall",
+                "x": 420,
+                "y": 200
+              }
+            ]
+          },
+          {
+            "name": "Goblin Wall - Chest 9",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y2"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_gw_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_gw_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "goblin_wall",
+                "x": 950,
+                "y": 90
+              }
+            ]
+          },
+          {
+            "name": "Goblin Wall - Chest 10",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y2"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_gw_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_gw_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "goblin_wall",
+                "x": 920,
+                "y": 75
+              }
+            ]
+          },
+          {
+            "name": "Goblin Wall - Chest 11",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y2"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_gw_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_gw_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "goblin_wall",
+                "x": 440,
+                "y": 218
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "The Mine of Cathuriges",
+        "color": "#888844",
+        "children": [
+          {
+            "name": "The Mine of Cathuriges - Chest 2",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_moc_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_moc_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mine_of_cathuriges",
+                "x": 403,
+                "y": 422
+              }
+            ]
+          },
+          {
+            "name": "The Mine of Cathuriges - Chest 3",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_moc_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_moc_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mine_of_cathuriges",
+                "x": 207,
+                "y": 116
+              }
+            ]
+          },
+          {
+            "name": "The Mine of Cathuriges - Chest 4",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_moc_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_moc_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mine_of_cathuriges",
+                "x": 200,
+                "y": 215
+              }
+            ]
+          },
+          {
+            "name": "The Mine of Cathuriges - Chest 6",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_moc_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_moc_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mine_of_cathuriges",
+                "x": 478,
+                "y": 262
+              }
+            ]
+          },
+          {
+            "name": "The Mine of Cathuriges - Chest 7",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_moc_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_moc_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mine_of_cathuriges",
+                "x": 315,
+                "y": 475
+              }
+            ]
+          },
+          {
+            "name": "The Mine of Cathuriges - Chest 10",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_moc_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_moc_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mine_of_cathuriges",
+                "x": 805,
+                "y": 295
+              }
+            ]
+          },
+          {
+            "name": "The Mine of Cathuriges - Chest 11",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_moc_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_moc_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mine_of_cathuriges",
+                "x": 840,
+                "y": 95
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "The Mushroom Forest",
+        "color": "#44aa88",
+        "children": [
+          {
+            "name": "The Mushroom Forest - Chest 2",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_tmf_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_tmf_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mushroom_forest",
+                "x": 456,
+                "y": 467
+              }
+            ]
+          },
+          {
+            "name": "The Mushroom Forest - Chest 3",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_tmf_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_tmf_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mushroom_forest",
+                "x": 445,
+                "y": 455
+              }
+            ]
+          },
+          {
+            "name": "The Mushroom Forest - Chest 4",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_tmf_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_tmf_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mushroom_forest",
+                "x": 452,
+                "y": 435
+              }
+            ]
+          },
+          {
+            "name": "The Mushroom Forest - Chest 5",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_tmf_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_tmf_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mushroom_forest",
+                "x": 462,
+                "y": 375
+              }
+            ]
+          },
+          {
+            "name": "The Mushroom Forest - Chest 6",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_tmf_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_tmf_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mushroom_forest",
+                "x": 455,
+                "y": 395
+              }
+            ]
+          },
+          {
+            "name": "The Mushroom Forest - Chest 7",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_tmf_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_tmf_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mushroom_forest",
+                "x": 120,
+                "y": 65
+              }
+            ]
+          },
+          {
+            "name": "The Mushroom Forest - Chest 8",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_tmf_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_tmf_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mushroom_forest",
+                "x": 470,
+                "y": 70
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Moschet Manor",
+        "color": "#aa4488",
+        "children": [
+          {
+            "name": "Moschet Manor - Chest 1",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y3"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_mm_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_mm_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "moschet_manor",
+                "x": 505,
+                "y": 647
+              }
+            ]
+          },
+          {
+            "name": "Moschet Manor - Chest 2",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y3"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_mm_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_mm_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "moschet_manor",
+                "x": 615,
+                "y": 648
+              }
+            ]
+          },
+          {
+            "name": "Moschet Manor - Chest 3",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y3"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_mm_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_mm_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "moschet_manor",
+                "x": 280,
+                "y": 498
+              }
+            ]
+          },
+          {
+            "name": "Moschet Manor - Chest 4",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y3"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_mm_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_mm_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "moschet_manor",
+                "x": 365,
+                "y": 398
+              }
+            ]
+          },
+          {
+            "name": "Moschet Manor - Chest 5",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y3"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_mm_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_mm_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "moschet_manor",
+                "x": 360,
+                "y": 178
+              }
+            ]
+          },
+          {
+            "name": "Moschet Manor - Chest 7",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y3"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_mm_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_mm_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "moschet_manor",
+                "x": 832,
+                "y": 442
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Veo Lu Sluice",
+        "color": "#4488aa",
+        "children": [
+          {
+            "name": "Veo Lu Sluice - Chest 1",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y2"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_vls_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_vls_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "veo_lu_sluice",
+                "x": 610,
+                "y": 117
+              }
+            ]
+          },
+          {
+            "name": "Veo Lu Sluice - Chest 2",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y2"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_vls_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_vls_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "veo_lu_sluice",
+                "x": 334,
+                "y": 237
+              }
+            ]
+          },
+          {
+            "name": "Veo Lu Sluice - Chest 3",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y2"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_vls_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_vls_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "veo_lu_sluice",
+                "x": 375,
+                "y": 468
+              }
+            ]
+          },
+          {
+            "name": "Veo Lu Sluice - Chest 4",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y2"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_vls_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_vls_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "veo_lu_sluice",
+                "x": 582,
+                "y": 422
+              }
+            ]
+          },
+          {
+            "name": "Veo Lu Sluice - Chest 5",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y2"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_vls_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_vls_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "veo_lu_sluice",
+                "x": 790,
+                "y": 635
+              }
+            ]
+          },
+          {
+            "name": "Veo Lu Sluice - Chest 8",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y2"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_vls_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_vls_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "veo_lu_sluice",
+                "x": 300,
+                "y": 720
+              }
+            ]
+          },
+          {
+            "name": "Veo Lu Sluice - Chest 9",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y2"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_vls_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_vls_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "veo_lu_sluice",
+                "x": 385,
+                "y": 720
+              }
+            ]
+          },
+          {
+            "name": "Veo Lu Sluice - Chest 10",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y2"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_vls_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_vls_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "veo_lu_sluice",
+                "x": 470,
+                "y": 720
+              }
+            ]
+          },
+          {
+            "name": "Veo Lu Sluice - Chest 11",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y2"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_vls_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_vls_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "veo_lu_sluice",
+                "x": 555,
+                "y": 720
+              }
+            ]
+          },
+          {
+            "name": "Veo Lu Sluice - Chest 13",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y2"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_vls_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_vls_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "veo_lu_sluice",
+                "x": 640,
+                "y": 720
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Daemon's Court",
+        "color": "#aa4444",
+        "children": [
+          {
+            "name": "Daemon's Court - Chest 1",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y3"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_dc_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_dc_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "daemons_court",
+                "x": 672,
+                "y": 574
+              }
+            ]
+          },
+          {
+            "name": "Daemon's Court - Chest 2",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y3"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_dc_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_dc_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "daemons_court",
+                "x": 398,
+                "y": 585
+              }
+            ]
+          },
+          {
+            "name": "Daemon's Court - Chest 3",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y3"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_dc_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_dc_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "daemons_court",
+                "x": 240,
+                "y": 125
+              }
+            ]
+          },
+          {
+            "name": "Daemon's Court - Chest 4",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y3"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_dc_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_dc_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "daemons_court",
+                "x": 480,
+                "y": 95
+              }
+            ]
+          },
+          {
+            "name": "Daemon's Court - Chest 5",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y3"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_dc_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_dc_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "daemons_court",
+                "x": 858,
+                "y": 330
+              }
+            ]
+          },
+          {
+            "name": "Daemon's Court - Chest 6",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y3"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_dc_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_dc_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "daemons_court",
+                "x": 868,
+                "y": 422
+              }
+            ]
+          },
+          {
+            "name": "Daemon's Court - Chest 7",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y3"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_dc_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_dc_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "daemons_court",
+                "x": 720,
+                "y": 125
+              }
+            ]
+          },
+          {
+            "name": "Daemon's Court - Chest 8",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y3"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_dc_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_dc_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "daemons_court",
+                "x": 273,
+                "y": 585
+              }
+            ]
+          },
+          {
+            "name": "Daemon's Court - Chest 9",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y3"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_dc_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_dc_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "daemons_court",
+                "x": 238,
+                "y": 356
+              }
+            ]
+          },
+          {
+            "name": "Daemon's Court - Chest 10",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y3"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_dc_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_dc_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "daemons_court",
+                "x": 148,
+                "y": 222
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Selepation Cave",
+        "color": "#888888",
+        "children": [
+          {
+            "name": "Selepation Cave - Chest 1",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y3"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_sc_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_sc_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "selepation_cave",
+                "x": 63,
+                "y": 338
+              }
+            ]
+          },
+          {
+            "name": "Selepation Cave - Chest 2",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y3"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_sc_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_sc_c3"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Selepation Cave - Chest 3",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y3"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_sc_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_sc_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "selepation_cave",
+                "x": 632,
+                "y": 177
+              }
+            ]
+          },
+          {
+            "name": "Selepation Cave - Chest 4",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y3"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_sc_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_sc_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "selepation_cave",
+                "x": 684,
+                "y": 390
+              }
+            ]
+          },
+          {
+            "name": "Selepation Cave - Chest 5",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y3"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_sc_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_sc_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "selepation_cave",
+                "x": 70,
+                "y": 400
+              }
+            ]
+          },
+          {
+            "name": "Selepation Cave - Chest 6",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y3"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_sc_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_sc_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "selepation_cave",
+                "x": 440,
+                "y": 177
+              }
+            ]
+          },
+          {
+            "name": "Selepation Cave - Chest 7",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y3"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_sc_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_sc_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "selepation_cave",
+                "x": 684,
+                "y": 408
+              }
+            ]
+          },
+          {
+            "name": "Selepation Cave - Chest 8",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y3"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_sc_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_sc_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "selepation_cave",
+                "x": 498,
+                "y": 432
+              }
+            ]
+          },
+          {
+            "name": "Selepation Cave - Chest 9",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y3"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_sc_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_sc_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "selepation_cave",
+                "x": 498,
+                "y": 397
+              }
+            ]
+          },
+          {
+            "name": "Selepation Cave - Chest 10",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y3"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_sc_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_sc_c3"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Conall Curach",
+        "color": "#44aaaa",
+        "children": [
+          {
+            "name": "Conall Curach - Chest 1",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y4"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_cc_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_cc_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "conall_curach",
+                "x": 740,
+                "y": 430
+              }
+            ]
+          },
+          {
+            "name": "Conall Curach - Chest 2",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y4"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_cc_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_cc_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "conall_curach",
+                "x": 355,
+                "y": 538
+              }
+            ]
+          },
+          {
+            "name": "Conall Curach - Chest 3",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y4"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_cc_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_cc_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "conall_curach",
+                "x": 437,
+                "y": 695
+              }
+            ]
+          },
+          {
+            "name": "Conall Curach - Chest 4",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y4"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_cc_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_cc_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "conall_curach",
+                "x": 345,
+                "y": 640
+              }
+            ]
+          },
+          {
+            "name": "Conall Curach - Chest 7",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y4"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_cc_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_cc_c3"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Conall Curach - Chest 8",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y4"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_cc_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_cc_c3"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Conall Curach - Chest 9",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y4"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_cc_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_cc_c3"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Conall Curach - Chest 10",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y4"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_cc_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_cc_c3"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Conall Curach - Chest 12",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y4"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_cc_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_cc_c3"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Conall Curach - Chest 13",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y4"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_cc_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_cc_c3"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Conall Curach - Chest 14",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y4"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_cc_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_cc_c3"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Conall Curach - Chest 16",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y4"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_cc_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_cc_c3"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Rebena Te Ra",
+        "color": "#aa8844",
+        "children": [
+          {
+            "name": "Rebena Te Ra - Chest 1",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y4,ring_of_fire,ring_of_blizzard,ring_of_thunder"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_rtr_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_rtr_c3"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Rebena Te Ra - Chest 2",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y4,ring_of_fire,ring_of_blizzard,ring_of_thunder"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_rtr_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_rtr_c3"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Rebena Te Ra - Chest 3",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y4,ring_of_fire,ring_of_blizzard,ring_of_thunder"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_rtr_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_rtr_c3"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Rebena Te Ra - Chest 4",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y4,ring_of_fire,ring_of_blizzard,ring_of_thunder"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_rtr_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_rtr_c3"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Rebena Te Ra - Chest 10",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y4,ring_of_fire,ring_of_blizzard,ring_of_thunder"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_rtr_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_rtr_c3"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Rebena Te Ra - Chest 12",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y4,ring_of_fire,ring_of_blizzard,ring_of_thunder"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_rtr_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_rtr_c3"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Rebena Te Ra - Chest 13",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y4,ring_of_fire,ring_of_blizzard,ring_of_thunder"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_rtr_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_rtr_c3"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Rebena Te Ra - Chest 14",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y4,ring_of_fire,ring_of_blizzard,ring_of_thunder"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_rtr_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_rtr_c3"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Rebena Te Ra - Chest 15",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y4,ring_of_fire,ring_of_blizzard,ring_of_thunder"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_rtr_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_rtr_c3"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Mount Vellenge",
+        "color": "#aa5500",
+        "children": [
+          {
+            "name": "Mount Vellenge - Chest 1",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y5,ring_of_fire,ring_of_blizzard,ring_of_thunder,ring_of_life"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mount_vellenge",
+                "x": 430,
+                "y": 250
+              }
+            ]
+          },
+          {
+            "name": "Mount Vellenge - Chest 2",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y5,ring_of_fire,ring_of_blizzard,ring_of_thunder,ring_of_life"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mount_vellenge",
+                "x": 510,
+                "y": 350
+              }
+            ]
+          },
+          {
+            "name": "Mount Vellenge - Chest 3",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y5,ring_of_fire,ring_of_blizzard,ring_of_thunder,ring_of_life"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mount_vellenge",
+                "x": 560,
+                "y": 450
+              }
+            ]
+          },
+          {
+            "name": "Mount Vellenge - Chest 5",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y5,ring_of_fire,ring_of_blizzard,ring_of_thunder,ring_of_life"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mount_vellenge",
+                "x": 380,
+                "y": 510
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Lynari Desert",
+        "color": "#ccaa44",
+        "children": [
+          {
+            "name": "Lynari Desert - Chest 1",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y5,ring_of_fire,ring_of_blizzard,ring_of_thunder,ring_of_life"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_ld_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_ld_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "lynari_desert",
+                "x": 275,
+                "y": 525
+              }
+            ]
+          },
+          {
+            "name": "Lynari Desert - Chest 2",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y5,ring_of_fire,ring_of_blizzard,ring_of_thunder,ring_of_life"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_ld_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_ld_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "lynari_desert",
+                "x": 410,
+                "y": 340
+              }
+            ]
+          },
+          {
+            "name": "Lynari Desert - Chest 3",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y5,ring_of_fire,ring_of_blizzard,ring_of_thunder,ring_of_life"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_ld_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_ld_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "lynari_desert",
+                "x": 385,
+                "y": 250
+              }
+            ]
+          },
+          {
+            "name": "Lynari Desert - Chest 4",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y5,ring_of_fire,ring_of_blizzard,ring_of_thunder,ring_of_life"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_ld_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_ld_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "lynari_desert",
+                "x": 480,
+                "y": 180
+              }
+            ]
+          },
+          {
+            "name": "Lynari Desert - Chest 6",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y5,ring_of_fire,ring_of_blizzard,ring_of_thunder,ring_of_life"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_ld_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_ld_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "lynari_desert",
+                "x": 485,
+                "y": 460
+              }
+            ]
+          },
+          {
+            "name": "Lynari Desert - Chest 9",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y5,ring_of_fire,ring_of_blizzard,ring_of_thunder,ring_of_life"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_ld_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_ld_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "lynari_desert",
+                "x": 680,
+                "y": 510
+              }
+            ]
+          },
+          {
+            "name": "Lynari Desert - Chest 11",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y5,ring_of_fire,ring_of_blizzard,ring_of_thunder,ring_of_life"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_ld_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_ld_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "lynari_desert",
+                "x": 740,
+                "y": 340
+              }
+            ]
+          },
+          {
+            "name": "Lynari Desert - Chest 12",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y5,ring_of_fire,ring_of_blizzard,ring_of_thunder,ring_of_life"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_ld_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_ld_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "lynari_desert",
+                "x": 720,
+                "y": 440
+              }
+            ]
+          },
+          {
+            "name": "Lynari Desert - Chest 13",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y5,ring_of_fire,ring_of_blizzard,ring_of_thunder,ring_of_life"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_ld_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_ld_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "lynari_desert",
+                "x": 720,
+                "y": 580
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Tida",
+        "color": "#8844aa",
+        "children": [
+          {
+            "name": "Tida - Chest 1",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y2,ring_of_fire"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_tida_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_tida_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "tida",
+                "x": 158,
+                "y": 215
+              }
+            ]
+          },
+          {
+            "name": "Tida - Chest 2",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y2,ring_of_fire"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_tida_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_tida_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "tida",
+                "x": 174,
+                "y": 228
+              }
+            ]
+          },
+          {
+            "name": "Tida - Chest 3",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y2,ring_of_fire"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_tida_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_tida_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "tida",
+                "x": 722,
+                "y": 118
+              }
+            ]
+          },
+          {
+            "name": "Tida - Chest 4",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y2,ring_of_fire"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_tida_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_tida_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "tida",
+                "x": 755,
+                "y": 160
+              }
+            ]
+          },
+          {
+            "name": "Tida - Chest 5",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y2,ring_of_fire"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_tida_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_tida_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "tida",
+                "x": 740,
+                "y": 262
+              }
+            ]
+          },
+          {
+            "name": "Tida - Chest 6",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y2,ring_of_fire"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_tida_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_tida_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "tida",
+                "x": 148,
+                "y": 558
+              }
+            ]
+          },
+          {
+            "name": "Tida - Chest 7",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y2,ring_of_fire"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_tida_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_tida_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "tida",
+                "x": 740,
+                "y": 455
+              }
+            ]
+          },
+          {
+            "name": "Tida - Chest 8",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y2,ring_of_fire"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_tida_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_tida_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "tida",
+                "x": 617,
+                "y": 648
+              }
+            ]
+          },
+          {
+            "name": "Tida - Chest 9",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y2,ring_of_fire"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_tida_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_tida_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "tida",
+                "x": 270,
+                "y": 735
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Mount Kilanda",
+        "color": "#dd6644",
+        "children": [
+          {
+            "name": "Mount Kilanda - Chest 1",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y4"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_mk_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_mk_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mount_kilanda",
+                "x": 270,
+                "y": 415
+              }
+            ]
+          },
+          {
+            "name": "Mount Kilanda - Chest 2",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y4"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_mk_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_mk_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mount_kilanda",
+                "x": 355,
+                "y": 375
+              }
+            ]
+          },
+          {
+            "name": "Mount Kilanda - Chest 3",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y4"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_mk_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_mk_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mount_kilanda",
+                "x": 432,
+                "y": 398
+              }
+            ]
+          },
+          {
+            "name": "Mount Kilanda - Chest 4",
+            "chest_unopened_img": "images/chest_unopened.png",
+            "chest_opened_img": "images/chest_opened.png",
+            "sections": [
+              {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "year_tracker_y4"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_mk_c2"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_mk_c3"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mount_kilanda",
+                "x": 264,
+                "y": 504
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
