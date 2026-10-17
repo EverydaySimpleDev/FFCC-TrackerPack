@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Show Hotspots",
+    "type": "toggle",
+    "codes": "show_hotspots",
+    "img": "images/options/show_hotspots.png",
+    "initial_active_state": true
+  },
+  {
+    "name": "Enemies",
+    "type": "progressive",
+    "codes": "show_enemies",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "name": "Enemies: Off",
+        "img": "images/options/show_enemies_0.png"
+      },
+      {
+        "name": "Enemies: All Cycles",
+        "img": "images/options/show_enemies_1.png"
+      },
+      {
+        "name": "Enemies: Cycle 1",
+        "img": "images/options/show_enemies_2.png"
+      },
+      {
+        "name": "Enemies: Cycle 2",
+        "img": "images/options/show_enemies_3.png"
+      },
+      {
+        "name": "Enemies: Cycle 3",
+        "img": "images/options/show_enemies_4.png"
+      }
+    ]
+  },
+  {
+    "name": "Auto Tab to Current Stage",
+    "type": "toggle",
+    "codes": "auto_tab",
+    "img": "images/options/auto_tab.png",
+    "initial_active_state": true
+  }
+]

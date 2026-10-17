@@ -82,4 +82,17 @@ ITEM_MAPPING = {
     [2322920] = {"soul_of_the_dragon", "toggle"},  -- Soul of the Dragon
     [2322924] = {"greatest_weapon", "toggle"},  -- Greatest Weapon
     [2322925] = {"ring_of_invincibility", "toggle"},  -- Ring of Invincibility
+    [2322960] = {"key_gw", "toggle"},  -- Goblin Wall Key
+    [2322961] = {"key_moc", "toggle"},  -- The Mine of Cathuriges Key
+    [2322962] = {"key_tmf", "toggle"},  -- The Mushroom Forest Key
+    [2322963] = {"key_tida", "toggle"},  -- Tida Key
+    [2322964] = {"key_mm", "toggle"},  -- Moschet Manor Key
+    [2322965] = {"key_mk", "toggle"},  -- Mount Kilanda Key
+    [2322966] = {"key_dc", "toggle"},  -- Daemon's Court Key
+    [2322967] = {"key_sc", "toggle"},  -- Selepation Cave Key
+    [2322968] = {"key_vls", "toggle"},  -- Veo Lu Sluice Key
+    [2322969] = {"key_ld", "toggle"},  -- Lynari Desert Key
+    [2322970] = {"key_cc", "toggle"},  -- Conall Curach Key
+    [2322971] = {"key_rtr", "toggle"},  -- Rebena Te Ra Key
+    [2322972] = {"key_mv", "toggle"},  -- Mount Vellenge Key
 }

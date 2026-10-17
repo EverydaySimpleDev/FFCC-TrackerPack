@@ -52,6 +52,53 @@
             },
             {
               "type": "group",
+              "header": "Stage Keys",
+              "dock": "top",
+              "content": {
+                "type": "itemgrid",
+                "item_margin": "4,1",
+                "h_alignment": "left",
+                "rows": [
+                  [
+                    "stage_keys_on",
+                    "key_gw",
+                    "key_moc",
+                    "key_tmf",
+                    "key_tida",
+                    "key_mm",
+                    "key_mk"
+                  ],
+                  [
+                    "key_dc",
+                    "key_sc",
+                    "key_vls",
+                    "key_ld",
+                    "key_cc",
+                    "key_rtr",
+                    "key_mv"
+                  ]
+                ]
+              }
+            },
+            {
+              "type": "group",
+              "header": "Map Options",
+              "dock": "top",
+              "content": {
+                "type": "itemgrid",
+                "item_margin": "4,1",
+                "h_alignment": "left",
+                "rows": [
+                  [
+                    "show_hotspots",
+                    "show_enemies",
+                    "auto_tab"
+                  ]
+                ]
+              }
+            },
+            {
+              "type": "group",
               "header": "Items",
               "dock": "top",
               "content": {
@@ -187,126 +234,8 @@
           ]
         },
         {
-          "type": "tabbed",
-          "tabs": [
-            {
-              "title": "River Belle Path",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "river_belle_path"
-                ]
-              }
-            },
-            {
-              "title": "Goblin Wall",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "goblin_wall"
-                ]
-              }
-            },
-            {
-              "title": "The Mine of Cathuriges",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "mine_of_cathuriges"
-                ]
-              }
-            },
-            {
-              "title": "The Mushroom Forest",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "mushroom_forest"
-                ]
-              }
-            },
-            {
-              "title": "Moschet Manor",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "moschet_manor"
-                ]
-              }
-            },
-            {
-              "title": "Veo Lu Sluice",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "veo_lu_sluice"
-                ]
-              }
-            },
-            {
-              "title": "Daemon's Court",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "daemons_court"
-                ]
-              }
-            },
-            {
-              "title": "Selepation Cave",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "selepation_cave"
-                ]
-              }
-            },
-            {
-              "title": "Conall Curach",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "conall_curach"
-                ]
-              }
-            },
-            {
-              "title": "Mount Vellenge",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "mount_vellenge"
-                ]
-              }
-            },
-            {
-              "title": "Lynari Desert",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "lynari_desert"
-                ]
-              }
-            },
-            {
-              "title": "Tida",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "tida"
-                ]
-              }
-            },
-            {
-              "title": "Mount Kilanda",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "mount_kilanda"
-                ]
-              }
-            }
-          ]
+          "type": "layout",
+          "key": "ffcc_dungeon_maps"
         }
       ]
     }

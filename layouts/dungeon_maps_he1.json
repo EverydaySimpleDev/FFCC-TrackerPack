@@ -1,0 +1,133 @@
+{
+  "ffcc_dungeon_maps": {
+    "type": "tabbed",
+    "tabs": [
+      {
+        "title": "River Belle Path",
+        "content": {
+          "type": "map",
+          "maps": [
+            "river_belle_path__he1"
+          ]
+        }
+      },
+      {
+        "title": "Goblin Wall",
+        "content": {
+          "type": "map",
+          "maps": [
+            "goblin_wall__he1"
+          ]
+        }
+      },
+      {
+        "title": "The Mine of Cathuriges",
+        "content": {
+          "type": "map",
+          "maps": [
+            "mine_of_cathuriges__he1"
+          ]
+        }
+      },
+      {
+        "title": "The Mushroom Forest",
+        "content": {
+          "type": "map",
+          "maps": [
+            "mushroom_forest__he1"
+          ]
+        }
+      },
+      {
+        "title": "Moschet Manor",
+        "content": {
+          "type": "map",
+          "maps": [
+            "moschet_manor__he1"
+          ]
+        }
+      },
+      {
+        "title": "Veo Lu Sluice",
+        "content": {
+          "type": "map",
+          "maps": [
+            "veo_lu_sluice__he1"
+          ]
+        }
+      },
+      {
+        "title": "Daemon's Court",
+        "content": {
+          "type": "map",
+          "maps": [
+            "daemons_court__he1"
+          ]
+        }
+      },
+      {
+        "title": "Selepation Cave",
+        "content": {
+          "type": "map",
+          "maps": [
+            "selepation_cave__he1"
+          ]
+        }
+      },
+      {
+        "title": "Conall Curach",
+        "content": {
+          "type": "map",
+          "maps": [
+            "conall_curach__he1"
+          ]
+        }
+      },
+      {
+        "title": "Mount Vellenge",
+        "content": {
+          "type": "map",
+          "maps": [
+            "mount_vellenge__he1"
+          ]
+        }
+      },
+      {
+        "title": "Lynari Desert",
+        "content": {
+          "type": "map",
+          "maps": [
+            "lynari_desert__he1"
+          ]
+        }
+      },
+      {
+        "title": "Tida",
+        "content": {
+          "type": "map",
+          "maps": [
+            "tida__he1"
+          ]
+        }
+      },
+      {
+        "title": "Mount Kilanda",
+        "content": {
+          "type": "map",
+          "maps": [
+            "mount_kilanda__he1"
+          ]
+        }
+      },
+      {
+        "title": "Rebena Te Ra",
+        "content": {
+          "type": "map",
+          "maps": [
+            "rebena_te_ra__he1"
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -3,78 +3,840 @@
     "name": "river_belle_path",
     "location_size": 18,
     "location_border_thickness": 2,
-    "img": "images/maps/river_belle_path_no_num.jpg"
+    "img": "images/maps/river_belle_path_stage.jpg"
   },
   {
     "name": "goblin_wall",
     "location_size": 18,
     "location_border_thickness": 2,
-    "img": "images/maps/goblin_wall.jpg"
+    "img": "images/maps/goblin_wall_stage.jpg"
   },
   {
     "name": "mine_of_cathuriges",
     "location_size": 18,
     "location_border_thickness": 2,
-    "img": "images/maps/mine_of_cathuriges.jpg"
+    "img": "images/maps/mine_of_cathuriges_stage.jpg"
   },
   {
     "name": "mushroom_forest",
     "location_size": 18,
     "location_border_thickness": 2,
-    "img": "images/maps/mushroom_forest.jpg"
+    "img": "images/maps/mushroom_forest_stage.jpg"
   },
   {
     "name": "moschet_manor",
     "location_size": 18,
     "location_border_thickness": 2,
-    "img": "images/maps/moschet_manor.jpg"
+    "img": "images/maps/moschet_manor_stage.jpg"
   },
   {
     "name": "veo_lu_sluice",
     "location_size": 18,
     "location_border_thickness": 2,
-    "img": "images/maps/veo_lu_sluice.jpg"
+    "img": "images/maps/veo_lu_sluice_stage.jpg"
   },
   {
     "name": "daemons_court",
     "location_size": 18,
     "location_border_thickness": 2,
-    "img": "images/maps/daemons_court.jpg"
+    "img": "images/maps/daemons_court_stage.jpg"
   },
   {
     "name": "selepation_cave",
     "location_size": 18,
     "location_border_thickness": 2,
-    "img": "images/maps/selepation_cave.jpg"
+    "img": "images/maps/selepation_cave_stage.jpg"
   },
   {
     "name": "conall_curach",
     "location_size": 18,
     "location_border_thickness": 2,
-    "img": "images/maps/conall_curach.jpg"
+    "img": "images/maps/conall_curach_stage.jpg"
   },
   {
     "name": "mount_vellenge",
     "location_size": 18,
     "location_border_thickness": 2,
-    "img": "images/maps/mount_vellenge.jpg"
+    "img": "images/maps/mount_vellenge_stage.jpg"
   },
   {
     "name": "lynari_desert",
     "location_size": 18,
     "location_border_thickness": 2,
-    "img": "images/maps/lynari_desert.jpg"
+    "img": "images/maps/lynari_desert_stage.jpg"
   },
   {
     "name": "tida",
     "location_size": 18,
     "location_border_thickness": 2,
-    "img": "images/maps/tida.jpg"
+    "img": "images/maps/tida_stage.jpg"
   },
   {
     "name": "mount_kilanda",
     "location_size": 18,
     "location_border_thickness": 2,
-    "img": "images/maps/mount_kilanda.jpg"
+    "img": "images/maps/mount_kilanda_stage.jpg"
+  },
+  {
+    "name": "rebena_te_ra",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/rebena_te_ra_stage.jpg"
+  },
+  {
+    "name": "river_belle_path__e",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/river_belle_path_stage_e.jpg"
+  },
+  {
+    "name": "river_belle_path__e1",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/river_belle_path_stage_e1.jpg"
+  },
+  {
+    "name": "river_belle_path__e2",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/river_belle_path_stage_e2.jpg"
+  },
+  {
+    "name": "river_belle_path__e3",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/river_belle_path_stage_e3.jpg"
+  },
+  {
+    "name": "river_belle_path__h",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/river_belle_path_stage_h.jpg"
+  },
+  {
+    "name": "river_belle_path__he",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/river_belle_path_stage_he.jpg"
+  },
+  {
+    "name": "river_belle_path__he1",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/river_belle_path_stage_he1.jpg"
+  },
+  {
+    "name": "river_belle_path__he2",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/river_belle_path_stage_he2.jpg"
+  },
+  {
+    "name": "river_belle_path__he3",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/river_belle_path_stage_he3.jpg"
+  },
+  {
+    "name": "goblin_wall__e",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/goblin_wall_stage_e.jpg"
+  },
+  {
+    "name": "goblin_wall__e1",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/goblin_wall_stage_e1.jpg"
+  },
+  {
+    "name": "goblin_wall__e2",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/goblin_wall_stage_e2.jpg"
+  },
+  {
+    "name": "goblin_wall__e3",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/goblin_wall_stage_e3.jpg"
+  },
+  {
+    "name": "goblin_wall__h",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/goblin_wall_stage_h.jpg"
+  },
+  {
+    "name": "goblin_wall__he",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/goblin_wall_stage_he.jpg"
+  },
+  {
+    "name": "goblin_wall__he1",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/goblin_wall_stage_he1.jpg"
+  },
+  {
+    "name": "goblin_wall__he2",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/goblin_wall_stage_he2.jpg"
+  },
+  {
+    "name": "goblin_wall__he3",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/goblin_wall_stage_he3.jpg"
+  },
+  {
+    "name": "mine_of_cathuriges__e",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/mine_of_cathuriges_stage_e.jpg"
+  },
+  {
+    "name": "mine_of_cathuriges__e1",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/mine_of_cathuriges_stage_e1.jpg"
+  },
+  {
+    "name": "mine_of_cathuriges__e2",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/mine_of_cathuriges_stage_e2.jpg"
+  },
+  {
+    "name": "mine_of_cathuriges__e3",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/mine_of_cathuriges_stage_e3.jpg"
+  },
+  {
+    "name": "mine_of_cathuriges__h",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/mine_of_cathuriges_stage_h.jpg"
+  },
+  {
+    "name": "mine_of_cathuriges__he",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/mine_of_cathuriges_stage_he.jpg"
+  },
+  {
+    "name": "mine_of_cathuriges__he1",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/mine_of_cathuriges_stage_he1.jpg"
+  },
+  {
+    "name": "mine_of_cathuriges__he2",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/mine_of_cathuriges_stage_he2.jpg"
+  },
+  {
+    "name": "mine_of_cathuriges__he3",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/mine_of_cathuriges_stage_he3.jpg"
+  },
+  {
+    "name": "mushroom_forest__e",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/mushroom_forest_stage_e.jpg"
+  },
+  {
+    "name": "mushroom_forest__e1",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/mushroom_forest_stage_e1.jpg"
+  },
+  {
+    "name": "mushroom_forest__e2",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/mushroom_forest_stage_e2.jpg"
+  },
+  {
+    "name": "mushroom_forest__e3",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/mushroom_forest_stage_e3.jpg"
+  },
+  {
+    "name": "mushroom_forest__h",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/mushroom_forest_stage_h.jpg"
+  },
+  {
+    "name": "mushroom_forest__he",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/mushroom_forest_stage_he.jpg"
+  },
+  {
+    "name": "mushroom_forest__he1",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/mushroom_forest_stage_he1.jpg"
+  },
+  {
+    "name": "mushroom_forest__he2",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/mushroom_forest_stage_he2.jpg"
+  },
+  {
+    "name": "mushroom_forest__he3",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/mushroom_forest_stage_he3.jpg"
+  },
+  {
+    "name": "tida__e",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/tida_stage_e.jpg"
+  },
+  {
+    "name": "tida__e1",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/tida_stage_e1.jpg"
+  },
+  {
+    "name": "tida__e2",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/tida_stage_e2.jpg"
+  },
+  {
+    "name": "tida__e3",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/tida_stage_e3.jpg"
+  },
+  {
+    "name": "tida__h",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/tida_stage_h.jpg"
+  },
+  {
+    "name": "tida__he",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/tida_stage_he.jpg"
+  },
+  {
+    "name": "tida__he1",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/tida_stage_he1.jpg"
+  },
+  {
+    "name": "tida__he2",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/tida_stage_he2.jpg"
+  },
+  {
+    "name": "tida__he3",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/tida_stage_he3.jpg"
+  },
+  {
+    "name": "moschet_manor__e",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/moschet_manor_stage_e.jpg"
+  },
+  {
+    "name": "moschet_manor__e1",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/moschet_manor_stage_e1.jpg"
+  },
+  {
+    "name": "moschet_manor__e2",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/moschet_manor_stage_e2.jpg"
+  },
+  {
+    "name": "moschet_manor__e3",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/moschet_manor_stage_e3.jpg"
+  },
+  {
+    "name": "moschet_manor__h",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/moschet_manor_stage_h.jpg"
+  },
+  {
+    "name": "moschet_manor__he",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/moschet_manor_stage_he.jpg"
+  },
+  {
+    "name": "moschet_manor__he1",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/moschet_manor_stage_he1.jpg"
+  },
+  {
+    "name": "moschet_manor__he2",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/moschet_manor_stage_he2.jpg"
+  },
+  {
+    "name": "moschet_manor__he3",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/moschet_manor_stage_he3.jpg"
+  },
+  {
+    "name": "mount_kilanda__e",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/mount_kilanda_stage_e.jpg"
+  },
+  {
+    "name": "mount_kilanda__e1",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/mount_kilanda_stage_e1.jpg"
+  },
+  {
+    "name": "mount_kilanda__e2",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/mount_kilanda_stage_e2.jpg"
+  },
+  {
+    "name": "mount_kilanda__e3",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/mount_kilanda_stage_e3.jpg"
+  },
+  {
+    "name": "mount_kilanda__h",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/mount_kilanda_stage_h.jpg"
+  },
+  {
+    "name": "mount_kilanda__he",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/mount_kilanda_stage_he.jpg"
+  },
+  {
+    "name": "mount_kilanda__he1",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/mount_kilanda_stage_he1.jpg"
+  },
+  {
+    "name": "mount_kilanda__he2",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/mount_kilanda_stage_he2.jpg"
+  },
+  {
+    "name": "mount_kilanda__he3",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/mount_kilanda_stage_he3.jpg"
+  },
+  {
+    "name": "daemons_court__e",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/daemons_court_stage_e.jpg"
+  },
+  {
+    "name": "daemons_court__e1",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/daemons_court_stage_e1.jpg"
+  },
+  {
+    "name": "daemons_court__e2",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/daemons_court_stage_e2.jpg"
+  },
+  {
+    "name": "daemons_court__e3",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/daemons_court_stage_e3.jpg"
+  },
+  {
+    "name": "daemons_court__h",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/daemons_court_stage_h.jpg"
+  },
+  {
+    "name": "daemons_court__he",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/daemons_court_stage_he.jpg"
+  },
+  {
+    "name": "daemons_court__he1",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/daemons_court_stage_he1.jpg"
+  },
+  {
+    "name": "daemons_court__he2",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/daemons_court_stage_he2.jpg"
+  },
+  {
+    "name": "daemons_court__he3",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/daemons_court_stage_he3.jpg"
+  },
+  {
+    "name": "selepation_cave__e",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/selepation_cave_stage_e.jpg"
+  },
+  {
+    "name": "selepation_cave__e1",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/selepation_cave_stage_e1.jpg"
+  },
+  {
+    "name": "selepation_cave__e2",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/selepation_cave_stage_e2.jpg"
+  },
+  {
+    "name": "selepation_cave__e3",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/selepation_cave_stage_e3.jpg"
+  },
+  {
+    "name": "selepation_cave__h",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/selepation_cave_stage_h.jpg"
+  },
+  {
+    "name": "selepation_cave__he",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/selepation_cave_stage_he.jpg"
+  },
+  {
+    "name": "selepation_cave__he1",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/selepation_cave_stage_he1.jpg"
+  },
+  {
+    "name": "selepation_cave__he2",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/selepation_cave_stage_he2.jpg"
+  },
+  {
+    "name": "selepation_cave__he3",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/selepation_cave_stage_he3.jpg"
+  },
+  {
+    "name": "veo_lu_sluice__e",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/veo_lu_sluice_stage_e.jpg"
+  },
+  {
+    "name": "veo_lu_sluice__e1",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/veo_lu_sluice_stage_e1.jpg"
+  },
+  {
+    "name": "veo_lu_sluice__e2",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/veo_lu_sluice_stage_e2.jpg"
+  },
+  {
+    "name": "veo_lu_sluice__e3",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/veo_lu_sluice_stage_e3.jpg"
+  },
+  {
+    "name": "veo_lu_sluice__h",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/veo_lu_sluice_stage_h.jpg"
+  },
+  {
+    "name": "veo_lu_sluice__he",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/veo_lu_sluice_stage_he.jpg"
+  },
+  {
+    "name": "veo_lu_sluice__he1",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/veo_lu_sluice_stage_he1.jpg"
+  },
+  {
+    "name": "veo_lu_sluice__he2",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/veo_lu_sluice_stage_he2.jpg"
+  },
+  {
+    "name": "veo_lu_sluice__he3",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/veo_lu_sluice_stage_he3.jpg"
+  },
+  {
+    "name": "lynari_desert__e",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/lynari_desert_stage_e.jpg"
+  },
+  {
+    "name": "lynari_desert__e1",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/lynari_desert_stage_e1.jpg"
+  },
+  {
+    "name": "lynari_desert__e2",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/lynari_desert_stage_e2.jpg"
+  },
+  {
+    "name": "lynari_desert__e3",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/lynari_desert_stage_e3.jpg"
+  },
+  {
+    "name": "lynari_desert__h",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/lynari_desert_stage_h.jpg"
+  },
+  {
+    "name": "lynari_desert__he",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/lynari_desert_stage_he.jpg"
+  },
+  {
+    "name": "lynari_desert__he1",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/lynari_desert_stage_he1.jpg"
+  },
+  {
+    "name": "lynari_desert__he2",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/lynari_desert_stage_he2.jpg"
+  },
+  {
+    "name": "lynari_desert__he3",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/lynari_desert_stage_he3.jpg"
+  },
+  {
+    "name": "conall_curach__e",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/conall_curach_stage_e.jpg"
+  },
+  {
+    "name": "conall_curach__e1",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/conall_curach_stage_e1.jpg"
+  },
+  {
+    "name": "conall_curach__e2",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/conall_curach_stage_e2.jpg"
+  },
+  {
+    "name": "conall_curach__e3",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/conall_curach_stage_e3.jpg"
+  },
+  {
+    "name": "conall_curach__h",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/conall_curach_stage_h.jpg"
+  },
+  {
+    "name": "conall_curach__he",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/conall_curach_stage_he.jpg"
+  },
+  {
+    "name": "conall_curach__he1",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/conall_curach_stage_he1.jpg"
+  },
+  {
+    "name": "conall_curach__he2",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/conall_curach_stage_he2.jpg"
+  },
+  {
+    "name": "conall_curach__he3",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/conall_curach_stage_he3.jpg"
+  },
+  {
+    "name": "rebena_te_ra__e",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/rebena_te_ra_stage_e.jpg"
+  },
+  {
+    "name": "rebena_te_ra__e1",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/rebena_te_ra_stage_e1.jpg"
+  },
+  {
+    "name": "rebena_te_ra__e2",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/rebena_te_ra_stage_e2.jpg"
+  },
+  {
+    "name": "rebena_te_ra__e3",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/rebena_te_ra_stage_e3.jpg"
+  },
+  {
+    "name": "rebena_te_ra__h",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/rebena_te_ra_stage_h.jpg"
+  },
+  {
+    "name": "rebena_te_ra__he",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/rebena_te_ra_stage_he.jpg"
+  },
+  {
+    "name": "rebena_te_ra__he1",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/rebena_te_ra_stage_he1.jpg"
+  },
+  {
+    "name": "rebena_te_ra__he2",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/rebena_te_ra_stage_he2.jpg"
+  },
+  {
+    "name": "rebena_te_ra__he3",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/rebena_te_ra_stage_he3.jpg"
+  },
+  {
+    "name": "mount_vellenge__e",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/mount_vellenge_stage_e.jpg"
+  },
+  {
+    "name": "mount_vellenge__e1",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/mount_vellenge_stage_e1.jpg"
+  },
+  {
+    "name": "mount_vellenge__e2",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/mount_vellenge_stage_e2.jpg"
+  },
+  {
+    "name": "mount_vellenge__e3",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/mount_vellenge_stage_e3.jpg"
+  },
+  {
+    "name": "mount_vellenge__h",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/mount_vellenge_stage_h.jpg"
+  },
+  {
+    "name": "mount_vellenge__he",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/mount_vellenge_stage_he.jpg"
+  },
+  {
+    "name": "mount_vellenge__he1",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/mount_vellenge_stage_he1.jpg"
+  },
+  {
+    "name": "mount_vellenge__he2",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/mount_vellenge_stage_he2.jpg"
+  },
+  {
+    "name": "mount_vellenge__he3",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/mount_vellenge_stage_he3.jpg"
   }
 ]

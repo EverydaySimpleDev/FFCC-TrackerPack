@@ -43,6 +43,12 @@ function onClear(slot_data)
         local obj = Tracker:FindObjectForCode(code)
         if obj then obj.CurrentStage = 0 end
     end
+    -- Stage keys only gate the dungeons when the seed has them
+    local keys = Tracker:FindObjectForCode("stage_keys_on")
+    if keys then
+        local on = slot_data and slot_data["stage_keys"]
+        keys.Active = on == true or (type(on) == "number" and on ~= 0)
+    end
     LOCAL_ITEMS = {}; GLOBAL_ITEMS = {}
 end
 
@@ -95,3 +101,4 @@ end
 
 if AUTOTRACKER_ENABLE_ITEM_TRACKING    then Archipelago:AddItemHandler   ("item handler",     onItem)     end
 if AUTOTRACKER_ENABLE_LOCATION_TRACKING then Archipelago:AddLocationHandler("location handler", onLocation) end
+Archipelago:AddClearHandler("clear handler", onClear)

@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Stage Keys Required",
+    "type": "toggle",
+    "codes": "stage_keys_on",
+    "img": "images/keys/stage_keys_on.png",
+    "initial_active_state": false
+  },
+  {
+    "name": "Goblin Wall Key",
+    "type": "toggle",
+    "codes": "key_gw",
+    "img": "images/keys/key_gw.png"
+  },
+  {
+    "name": "The Mine of Cathuriges Key",
+    "type": "toggle",
+    "codes": "key_moc",
+    "img": "images/keys/key_moc.png"
+  },
+  {
+    "name": "The Mushroom Forest Key",
+    "type": "toggle",
+    "codes": "key_tmf",
+    "img": "images/keys/key_tmf.png"
+  },
+  {
+    "name": "Tida Key",
+    "type": "toggle",
+    "codes": "key_tida",
+    "img": "images/keys/key_tida.png"
+  },
+  {
+    "name": "Moschet Manor Key",
+    "type": "toggle",
+    "codes": "key_mm",
+    "img": "images/keys/key_mm.png"
+  },
+  {
+    "name": "Mount Kilanda Key",
+    "type": "toggle",
+    "codes": "key_mk",
+    "img": "images/keys/key_mk.png"
+  },
+  {
+    "name": "Daemon's Court Key",
+    "type": "toggle",
+    "codes": "key_dc",
+    "img": "images/keys/key_dc.png"
+  },
+  {
+    "name": "Selepation Cave Key",
+    "type": "toggle",
+    "codes": "key_sc",
+    "img": "images/keys/key_sc.png"
+  },
+  {
+    "name": "Veo Lu Sluice Key",
+    "type": "toggle",
+    "codes": "key_vls",
+    "img": "images/keys/key_vls.png"
+  },
+  {
+    "name": "Lynari Desert Key",
+    "type": "toggle",
+    "codes": "key_ld",
+    "img": "images/keys/key_ld.png"
+  },
+  {
+    "name": "Conall Curach Key",
+    "type": "toggle",
+    "codes": "key_cc",
+    "img": "images/keys/key_cc.png"
+  },
+  {
+    "name": "Rebena Te Ra Key",
+    "type": "toggle",
+    "codes": "key_rtr",
+    "img": "images/keys/key_rtr.png"
+  },
+  {
+    "name": "Mount Vellenge Key",
+    "type": "toggle",
+    "codes": "key_mv",
+    "img": "images/keys/key_mv.png"
+  }
+]

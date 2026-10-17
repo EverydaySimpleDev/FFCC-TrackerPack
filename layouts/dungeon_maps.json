@@ -1,0 +1,133 @@
+{
+  "ffcc_dungeon_maps": {
+    "type": "tabbed",
+    "tabs": [
+      {
+        "title": "River Belle Path",
+        "content": {
+          "type": "map",
+          "maps": [
+            "river_belle_path"
+          ]
+        }
+      },
+      {
+        "title": "Goblin Wall",
+        "content": {
+          "type": "map",
+          "maps": [
+            "goblin_wall"
+          ]
+        }
+      },
+      {
+        "title": "The Mine of Cathuriges",
+        "content": {
+          "type": "map",
+          "maps": [
+            "mine_of_cathuriges"
+          ]
+        }
+      },
+      {
+        "title": "The Mushroom Forest",
+        "content": {
+          "type": "map",
+          "maps": [
+            "mushroom_forest"
+          ]
+        }
+      },
+      {
+        "title": "Moschet Manor",
+        "content": {
+          "type": "map",
+          "maps": [
+            "moschet_manor"
+          ]
+        }
+      },
+      {
+        "title": "Veo Lu Sluice",
+        "content": {
+          "type": "map",
+          "maps": [
+            "veo_lu_sluice"
+          ]
+        }
+      },
+      {
+        "title": "Daemon's Court",
+        "content": {
+          "type": "map",
+          "maps": [
+            "daemons_court"
+          ]
+        }
+      },
+      {
+        "title": "Selepation Cave",
+        "content": {
+          "type": "map",
+          "maps": [
+            "selepation_cave"
+          ]
+        }
+      },
+      {
+        "title": "Conall Curach",
+        "content": {
+          "type": "map",
+          "maps": [
+            "conall_curach"
+          ]
+        }
+      },
+      {
+        "title": "Mount Vellenge",
+        "content": {
+          "type": "map",
+          "maps": [
+            "mount_vellenge"
+          ]
+        }
+      },
+      {
+        "title": "Lynari Desert",
+        "content": {
+          "type": "map",
+          "maps": [
+            "lynari_desert"
+          ]
+        }
+      },
+      {
+        "title": "Tida",
+        "content": {
+          "type": "map",
+          "maps": [
+            "tida"
+          ]
+        }
+      },
+      {
+        "title": "Mount Kilanda",
+        "content": {
+          "type": "map",
+          "maps": [
+            "mount_kilanda"
+          ]
+        }
+      },
+      {
+        "title": "Rebena Te Ra",
+        "content": {
+          "type": "map",
+          "maps": [
+            "rebena_te_ra"
+          ]
+        }
+      }
+    ]
+  }
+}
