@@ -82,6 +82,23 @@
             },
             {
               "type": "group",
+              "header": "Equipment",
+              "dock": "top",
+              "content": {
+                "type": "itemgrid",
+                "item_margin": "4,1",
+                "h_alignment": "left",
+                "rows": [
+                  [
+                    "prog_weapon",
+                    "prog_armor",
+                    "prog_tribal"
+                  ]
+                ]
+              }
+            },
+            {
+              "type": "group",
               "header": "Map Options",
               "dock": "top",
               "content": {
@@ -196,21 +213,10 @@
                   ],
                   [
                     "sun_pendant",
-                    "stone_of_fire",
-                    "stone_of_blizzard",
-                    "stone_of_thunder",
-                    "stone_of_cure",
-                    "stone_of_clear",
-                    "stone_of_life",
                     "soul_of_the_lion",
-                    "soul_of_the_dragon"
-                  ],
-                  [
+                    "soul_of_the_dragon",
                     "greatest_weapon",
                     "ring_of_invincibility",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",

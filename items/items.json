@@ -795,42 +795,6 @@
     "codes": "sun_pendant"
   },
   {
-    "name": "Stone of Fire",
-    "type": "toggle",
-    "img": "images/items/stone_of_fire.png",
-    "codes": "stone_of_fire"
-  },
-  {
-    "name": "Stone of Blizzard",
-    "type": "toggle",
-    "img": "images/items/stone_of_blizzard.png",
-    "codes": "stone_of_blizzard"
-  },
-  {
-    "name": "Stone of Thunder",
-    "type": "toggle",
-    "img": "images/items/stone_of_thunder.png",
-    "codes": "stone_of_thunder"
-  },
-  {
-    "name": "Stone of Cure",
-    "type": "toggle",
-    "img": "images/items/stone_of_cure.png",
-    "codes": "stone_of_cure"
-  },
-  {
-    "name": "Stone of Clear",
-    "type": "toggle",
-    "img": "images/items/stone_of_clear.png",
-    "codes": "stone_of_clear"
-  },
-  {
-    "name": "Stone of Life",
-    "type": "toggle",
-    "img": "images/items/stone_of_life.png",
-    "codes": "stone_of_life"
-  },
-  {
     "name": "Soul of the Lion",
     "type": "toggle",
     "img": "images/items/recipe.png",

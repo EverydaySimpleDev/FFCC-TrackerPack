@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Progressive Weapon",
+    "type": "consumable",
+    "codes": "prog_weapon",
+    "img": "images/equipment/prog_weapon.png",
+    "max_quantity": 6
+  },
+  {
+    "name": "Progressive Armor",
+    "type": "consumable",
+    "codes": "prog_armor",
+    "img": "images/equipment/prog_armor.png",
+    "max_quantity": 6
+  },
+  {
+    "name": "Progressive Tribal Gear",
+    "type": "consumable",
+    "codes": "prog_tribal",
+    "img": "images/equipment/prog_tribal.png",
+    "max_quantity": 6
+  }
+]

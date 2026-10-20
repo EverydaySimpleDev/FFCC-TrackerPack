@@ -29,9 +29,12 @@ local function on_cycles(key, value)
     for dungeon, cycle in pairs(value) do
         local code = CYCLE_CODES[dungeon]
         local obj = code and Tracker:FindObjectForCode(code)
-        if obj and type(cycle) == "number" and cycle >= 2 then
+        -- numbers from the server can arrive as floats (2.0), and a float
+        -- CurrentStage is ignored, which left the icon on Cycle 1
+        local stage = type(cycle) == "number" and math.floor(cycle) - 1 or 0
+        if obj and stage >= 1 then
             if not obj.Active then obj.Active = true end
-            if obj.CurrentStage < cycle - 1 then obj.CurrentStage = cycle - 1 end
+            if obj.CurrentStage < stage then obj.CurrentStage = stage end
         end
     end
 end

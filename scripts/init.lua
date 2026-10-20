@@ -1,5 +1,6 @@
 Tracker:AddItems("items/items.json")
 Tracker:AddItems("items/stage_keys.json")
+Tracker:AddItems("items/equipment.json")
 Tracker:AddItems("items/map_options.json")
 ScriptHost:LoadScript("scripts/logic.lua")
 Tracker:AddMaps("maps/maps.json")

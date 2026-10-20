@@ -49,6 +49,10 @@ function onClear(slot_data)
         local on = slot_data and slot_data["stage_keys"]
         keys.Active = on == true or (type(on) == "number" and on ~= 0)
     end
+    -- which dungeon each world-map spot leads to (Shuffle Loading Zones)
+    SetWorldZones(slot_data and slot_data["world_zones"])
+    local timed = slot_data and slot_data["rebena_te_ra_timed_chests"]
+    TIMED_CHESTS_ON = timed == true or (type(timed) == "number" and timed ~= 0)
     LOCAL_ITEMS = {}; GLOBAL_ITEMS = {}
 end
 

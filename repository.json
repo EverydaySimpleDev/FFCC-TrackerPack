@@ -5,7 +5,7 @@
       "name": "Final Fantasy Crystal Chronicles Randomizer Map Tracker",
       "author": "EverydaySimpleDev",
       "game_name": "Final Fantasy Crystal Chronicles",
-      "version": "0.3.1",
+      "version": "0.3.4",
       "flags": ["Map", "Pins"],
       "required_app_version": "2.3.8.8",
       "uid": "ffcc_randomizer_everydaysimpledev",

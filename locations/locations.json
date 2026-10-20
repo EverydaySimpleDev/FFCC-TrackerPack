@@ -13,20 +13,23 @@
             "sections": [
               {
                 "name": "Cycle 1",
-                "item_count": 1
+                "item_count": 1,
+                "access_rules": [
+                  "$river|rbp"
+                ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_rbp_c2"
+                  "cycle_rbp_c2,$river|rbp"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_rbp_c3"
+                  "cycle_rbp_c3,$river|rbp"
                 ]
               }
             ],
@@ -90,20 +93,23 @@
             "sections": [
               {
                 "name": "Cycle 1",
-                "item_count": 1
+                "item_count": 1,
+                "access_rules": [
+                  "$river|rbp"
+                ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_rbp_c2"
+                  "cycle_rbp_c2,$river|rbp"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_rbp_c3"
+                  "cycle_rbp_c3,$river|rbp"
                 ]
               }
             ],
@@ -167,20 +173,23 @@
             "sections": [
               {
                 "name": "Cycle 1",
-                "item_count": 1
+                "item_count": 1,
+                "access_rules": [
+                  "$river|rbp"
+                ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_rbp_c2"
+                  "cycle_rbp_c2,$river|rbp"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_rbp_c3"
+                  "cycle_rbp_c3,$river|rbp"
                 ]
               }
             ],
@@ -244,20 +253,23 @@
             "sections": [
               {
                 "name": "Cycle 1",
-                "item_count": 1
+                "item_count": 1,
+                "access_rules": [
+                  "$river|rbp"
+                ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_rbp_c2"
+                  "cycle_rbp_c2,$river|rbp"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_rbp_c3"
+                  "cycle_rbp_c3,$river|rbp"
                 ]
               }
             ],
@@ -321,20 +333,23 @@
             "sections": [
               {
                 "name": "Cycle 1",
-                "item_count": 1
+                "item_count": 1,
+                "access_rules": [
+                  "$river|rbp"
+                ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_rbp_c2"
+                  "cycle_rbp_c2,$river|rbp"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_rbp_c3"
+                  "cycle_rbp_c3,$river|rbp"
                 ]
               }
             ],
@@ -398,20 +413,23 @@
             "sections": [
               {
                 "name": "Cycle 1",
-                "item_count": 1
+                "item_count": 1,
+                "access_rules": [
+                  "$river|rbp"
+                ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_rbp_c2"
+                  "cycle_rbp_c2,$river|rbp"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_rbp_c3"
+                  "cycle_rbp_c3,$river|rbp"
                 ]
               }
             ],
@@ -475,20 +493,23 @@
             "sections": [
               {
                 "name": "Cycle 1",
-                "item_count": 1
+                "item_count": 1,
+                "access_rules": [
+                  "$river|rbp"
+                ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_rbp_c2"
+                  "cycle_rbp_c2,$river|rbp"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_rbp_c3"
+                  "cycle_rbp_c3,$river|rbp"
                 ]
               }
             ],
@@ -560,21 +581,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|gw"
+                  "$stage_key|gw,$river|gw"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_gw_c2,$stage_key|gw"
+                  "cycle_gw_c2,$stage_key|gw,$river|gw"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_gw_c3,$stage_key|gw"
+                  "cycle_gw_c3,$stage_key|gw,$river|gw"
                 ]
               }
             ],
@@ -640,21 +661,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|gw"
+                  "$stage_key|gw,$river|gw"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_gw_c2,$stage_key|gw"
+                  "cycle_gw_c2,$stage_key|gw,$river|gw"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_gw_c3,$stage_key|gw"
+                  "cycle_gw_c3,$stage_key|gw,$river|gw"
                 ]
               }
             ],
@@ -720,21 +741,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|gw"
+                  "$stage_key|gw,$river|gw"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_gw_c2,$stage_key|gw"
+                  "cycle_gw_c2,$stage_key|gw,$river|gw"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_gw_c3,$stage_key|gw"
+                  "cycle_gw_c3,$stage_key|gw,$river|gw"
                 ]
               }
             ],
@@ -800,21 +821,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|gw"
+                  "$stage_key|gw,$river|gw"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_gw_c2,$stage_key|gw"
+                  "cycle_gw_c2,$stage_key|gw,$river|gw"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_gw_c3,$stage_key|gw"
+                  "cycle_gw_c3,$stage_key|gw,$river|gw"
                 ]
               }
             ],
@@ -880,21 +901,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|gw"
+                  "$stage_key|gw,$river|gw"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_gw_c2,$stage_key|gw"
+                  "cycle_gw_c2,$stage_key|gw,$river|gw"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_gw_c3,$stage_key|gw"
+                  "cycle_gw_c3,$stage_key|gw,$river|gw"
                 ]
               }
             ],
@@ -960,14 +981,14 @@
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_gw_c2,$stage_key|gw"
+                  "cycle_gw_c2,$stage_key|gw,$river|gw"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_gw_c3,$stage_key|gw"
+                  "cycle_gw_c3,$stage_key|gw,$river|gw"
                 ]
               }
             ],
@@ -1033,21 +1054,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|gw"
+                  "$stage_key|gw,$river|gw"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_gw_c2,$stage_key|gw"
+                  "cycle_gw_c2,$stage_key|gw,$river|gw"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_gw_c3,$stage_key|gw"
+                  "cycle_gw_c3,$stage_key|gw,$river|gw"
                 ]
               }
             ],
@@ -1113,21 +1134,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|gw"
+                  "$stage_key|gw,$river|gw"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_gw_c2,$stage_key|gw"
+                  "cycle_gw_c2,$stage_key|gw,$river|gw"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_gw_c3,$stage_key|gw"
+                  "cycle_gw_c3,$stage_key|gw,$river|gw"
                 ]
               }
             ],
@@ -1193,14 +1214,14 @@
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_gw_c2,$stage_key|gw"
+                  "cycle_gw_c2,$stage_key|gw,$river|gw"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_gw_c3,$stage_key|gw"
+                  "cycle_gw_c3,$stage_key|gw,$river|gw"
                 ]
               }
             ],
@@ -1266,14 +1287,14 @@
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_gw_c2,$stage_key|gw"
+                  "cycle_gw_c2,$stage_key|gw,$river|gw"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_gw_c3,$stage_key|gw"
+                  "cycle_gw_c3,$stage_key|gw,$river|gw"
                 ]
               }
             ],
@@ -1339,21 +1360,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|gw"
+                  "$stage_key|gw,$river|gw"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_gw_c2,$stage_key|gw"
+                  "cycle_gw_c2,$stage_key|gw,$river|gw"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_gw_c3,$stage_key|gw"
+                  "cycle_gw_c3,$stage_key|gw,$river|gw"
                 ]
               }
             ],
@@ -1419,21 +1440,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|gw"
+                  "$stage_key|gw,$river|gw"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_gw_c2,$stage_key|gw"
+                  "cycle_gw_c2,$stage_key|gw,$river|gw"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_gw_c3,$stage_key|gw"
+                  "cycle_gw_c3,$stage_key|gw,$river|gw"
                 ]
               }
             ],
@@ -1499,21 +1520,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|gw"
+                  "$stage_key|gw,$river|gw"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_gw_c2,$stage_key|gw"
+                  "cycle_gw_c2,$stage_key|gw,$river|gw"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_gw_c3,$stage_key|gw"
+                  "cycle_gw_c3,$stage_key|gw,$river|gw"
                 ]
               }
             ],
@@ -1579,21 +1600,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|gw"
+                  "$stage_key|gw,$river|gw"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_gw_c2,$stage_key|gw"
+                  "cycle_gw_c2,$stage_key|gw,$river|gw"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_gw_c3,$stage_key|gw"
+                  "cycle_gw_c3,$stage_key|gw,$river|gw"
                 ]
               }
             ],
@@ -1665,21 +1686,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|moc"
+                  "$stage_key|moc,$river|moc"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_moc_c2,$stage_key|moc"
+                  "cycle_moc_c2,$stage_key|moc,$river|moc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_moc_c3,$stage_key|moc"
+                  "cycle_moc_c3,$stage_key|moc,$river|moc"
                 ]
               }
             ],
@@ -1745,21 +1766,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|moc"
+                  "$stage_key|moc,$river|moc"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_moc_c2,$stage_key|moc"
+                  "cycle_moc_c2,$stage_key|moc,$river|moc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_moc_c3,$stage_key|moc"
+                  "cycle_moc_c3,$stage_key|moc,$river|moc"
                 ]
               }
             ],
@@ -1825,14 +1846,14 @@
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_moc_c2,$stage_key|moc"
+                  "cycle_moc_c2,$stage_key|moc,$river|moc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_moc_c3,$stage_key|moc"
+                  "cycle_moc_c3,$stage_key|moc,$river|moc"
                 ]
               }
             ],
@@ -1898,14 +1919,14 @@
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_moc_c2,$stage_key|moc"
+                  "cycle_moc_c2,$stage_key|moc,$river|moc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_moc_c3,$stage_key|moc"
+                  "cycle_moc_c3,$stage_key|moc,$river|moc"
                 ]
               }
             ],
@@ -1971,14 +1992,14 @@
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_moc_c2,$stage_key|moc"
+                  "cycle_moc_c2,$stage_key|moc,$river|moc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_moc_c3,$stage_key|moc"
+                  "cycle_moc_c3,$stage_key|moc,$river|moc"
                 ]
               }
             ],
@@ -2044,21 +2065,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|moc"
+                  "$stage_key|moc,$river|moc"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_moc_c2,$stage_key|moc"
+                  "cycle_moc_c2,$stage_key|moc,$river|moc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_moc_c3,$stage_key|moc"
+                  "cycle_moc_c3,$stage_key|moc,$river|moc"
                 ]
               }
             ],
@@ -2124,21 +2145,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|moc"
+                  "$stage_key|moc,$river|moc"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_moc_c2,$stage_key|moc"
+                  "cycle_moc_c2,$stage_key|moc,$river|moc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_moc_c3,$stage_key|moc"
+                  "cycle_moc_c3,$stage_key|moc,$river|moc"
                 ]
               }
             ],
@@ -2204,21 +2225,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|moc"
+                  "$stage_key|moc,$river|moc"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_moc_c2,$stage_key|moc"
+                  "cycle_moc_c2,$stage_key|moc,$river|moc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_moc_c3,$stage_key|moc"
+                  "cycle_moc_c3,$stage_key|moc,$river|moc"
                 ]
               }
             ],
@@ -2284,21 +2305,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|moc"
+                  "$stage_key|moc,$river|moc"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_moc_c2,$stage_key|moc"
+                  "cycle_moc_c2,$stage_key|moc,$river|moc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_moc_c3,$stage_key|moc"
+                  "cycle_moc_c3,$stage_key|moc,$river|moc"
                 ]
               }
             ],
@@ -2364,21 +2385,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|moc"
+                  "$stage_key|moc,$river|moc"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_moc_c2,$stage_key|moc"
+                  "cycle_moc_c2,$stage_key|moc,$river|moc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_moc_c3,$stage_key|moc"
+                  "cycle_moc_c3,$stage_key|moc,$river|moc"
                 ]
               }
             ],
@@ -2444,21 +2465,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|moc"
+                  "$stage_key|moc,$river|moc"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_moc_c2,$stage_key|moc"
+                  "cycle_moc_c2,$stage_key|moc,$river|moc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_moc_c3,$stage_key|moc"
+                  "cycle_moc_c3,$stage_key|moc,$river|moc"
                 ]
               }
             ],
@@ -2524,14 +2545,14 @@
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_moc_c2,$stage_key|moc"
+                  "cycle_moc_c2,$stage_key|moc,$river|moc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_moc_c3,$stage_key|moc"
+                  "cycle_moc_c3,$stage_key|moc,$river|moc"
                 ]
               }
             ],
@@ -2597,14 +2618,14 @@
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_moc_c2,$stage_key|moc"
+                  "cycle_moc_c2,$stage_key|moc,$river|moc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_moc_c3,$stage_key|moc"
+                  "cycle_moc_c3,$stage_key|moc,$river|moc"
                 ]
               }
             ],
@@ -2670,14 +2691,14 @@
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_moc_c2,$stage_key|moc"
+                  "cycle_moc_c2,$stage_key|moc,$river|moc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_moc_c3,$stage_key|moc"
+                  "cycle_moc_c3,$stage_key|moc,$river|moc"
                 ]
               }
             ],
@@ -2749,21 +2770,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|tmf"
+                  "$stage_key|tmf,$river|tmf"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_tmf_c2,$stage_key|tmf"
+                  "cycle_tmf_c2,$stage_key|tmf,$river|tmf"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_tmf_c3,$stage_key|tmf"
+                  "cycle_tmf_c3,$stage_key|tmf,$river|tmf"
                 ]
               }
             ],
@@ -2829,21 +2850,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|tmf"
+                  "$stage_key|tmf,$river|tmf"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_tmf_c2,$stage_key|tmf"
+                  "cycle_tmf_c2,$stage_key|tmf,$river|tmf"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_tmf_c3,$stage_key|tmf"
+                  "cycle_tmf_c3,$stage_key|tmf,$river|tmf"
                 ]
               }
             ],
@@ -2909,21 +2930,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|tmf"
+                  "$stage_key|tmf,$river|tmf"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_tmf_c2,$stage_key|tmf"
+                  "cycle_tmf_c2,$stage_key|tmf,$river|tmf"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_tmf_c3,$stage_key|tmf"
+                  "cycle_tmf_c3,$stage_key|tmf,$river|tmf"
                 ]
               }
             ],
@@ -2989,21 +3010,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|tmf"
+                  "$stage_key|tmf,$river|tmf"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_tmf_c2,$stage_key|tmf"
+                  "cycle_tmf_c2,$stage_key|tmf,$river|tmf"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_tmf_c3,$stage_key|tmf"
+                  "cycle_tmf_c3,$stage_key|tmf,$river|tmf"
                 ]
               }
             ],
@@ -3069,14 +3090,14 @@
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_tmf_c2,$stage_key|tmf"
+                  "cycle_tmf_c2,$stage_key|tmf,$river|tmf"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_tmf_c3,$stage_key|tmf"
+                  "cycle_tmf_c3,$stage_key|tmf,$river|tmf"
                 ]
               }
             ],
@@ -3142,14 +3163,14 @@
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_tmf_c2,$stage_key|tmf"
+                  "cycle_tmf_c2,$stage_key|tmf,$river|tmf"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_tmf_c3,$stage_key|tmf"
+                  "cycle_tmf_c3,$stage_key|tmf,$river|tmf"
                 ]
               }
             ],
@@ -3215,14 +3236,14 @@
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_tmf_c2,$stage_key|tmf"
+                  "cycle_tmf_c2,$stage_key|tmf,$river|tmf"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_tmf_c3,$stage_key|tmf"
+                  "cycle_tmf_c3,$stage_key|tmf,$river|tmf"
                 ]
               }
             ],
@@ -3288,14 +3309,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|tmf"
+                  "$stage_key|tmf,$river|tmf"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_tmf_c2,$stage_key|tmf"
+                  "cycle_tmf_c2,$stage_key|tmf,$river|tmf"
+                ]
+              },
+              {
+                "name": "Cycle 3",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_tmf_c3,$stage_key|tmf,$river|tmf"
                 ]
               }
             ],
@@ -3361,7 +3389,7 @@
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_tmf_c3,$stage_key|tmf"
+                  "cycle_tmf_c3,$stage_key|tmf,$river|tmf"
                 ]
               }
             ],
@@ -3433,21 +3461,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|tida"
+                  "$stage_key|tida,$river|tida"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_tida_c2,$stage_key|tida"
+                  "cycle_tida_c2,$stage_key|tida,$river|tida"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_tida_c3,$stage_key|tida"
+                  "cycle_tida_c3,$stage_key|tida,$river|tida"
                 ]
               }
             ],
@@ -3513,21 +3541,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|tida"
+                  "$stage_key|tida,$river|tida"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_tida_c2,$stage_key|tida"
+                  "cycle_tida_c2,$stage_key|tida,$river|tida"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_tida_c3,$stage_key|tida"
+                  "cycle_tida_c3,$stage_key|tida,$river|tida"
                 ]
               }
             ],
@@ -3593,21 +3621,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|tida"
+                  "$stage_key|tida,$river|tida"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_tida_c2,$stage_key|tida"
+                  "cycle_tida_c2,$stage_key|tida,$river|tida"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_tida_c3,$stage_key|tida"
+                  "cycle_tida_c3,$stage_key|tida,$river|tida"
                 ]
               }
             ],
@@ -3673,21 +3701,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|tida"
+                  "$stage_key|tida,$river|tida"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_tida_c2,$stage_key|tida"
+                  "cycle_tida_c2,$stage_key|tida,$river|tida"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_tida_c3,$stage_key|tida"
+                  "cycle_tida_c3,$stage_key|tida,$river|tida"
                 ]
               }
             ],
@@ -3753,21 +3781,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|tida"
+                  "$stage_key|tida,$river|tida"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_tida_c2,$stage_key|tida"
+                  "cycle_tida_c2,$stage_key|tida,$river|tida"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_tida_c3,$stage_key|tida"
+                  "cycle_tida_c3,$stage_key|tida,$river|tida"
                 ]
               }
             ],
@@ -3833,21 +3861,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|tida"
+                  "$stage_key|tida,$river|tida"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_tida_c2,$stage_key|tida"
+                  "cycle_tida_c2,$stage_key|tida,$river|tida"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_tida_c3,$stage_key|tida"
+                  "cycle_tida_c3,$stage_key|tida,$river|tida"
                 ]
               }
             ],
@@ -3913,21 +3941,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|tida"
+                  "$stage_key|tida,$river|tida"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_tida_c2,$stage_key|tida"
+                  "cycle_tida_c2,$stage_key|tida,$river|tida"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_tida_c3,$stage_key|tida"
+                  "cycle_tida_c3,$stage_key|tida,$river|tida"
                 ]
               }
             ],
@@ -3993,21 +4021,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|tida"
+                  "$stage_key|tida,$river|tida"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_tida_c2,$stage_key|tida"
+                  "cycle_tida_c2,$stage_key|tida,$river|tida"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_tida_c3,$stage_key|tida"
+                  "cycle_tida_c3,$stage_key|tida,$river|tida"
                 ]
               }
             ],
@@ -4073,21 +4101,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|tida"
+                  "$stage_key|tida,$river|tida"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_tida_c2,$stage_key|tida"
+                  "cycle_tida_c2,$stage_key|tida,$river|tida"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_tida_c3,$stage_key|tida"
+                  "cycle_tida_c3,$stage_key|tida,$river|tida"
                 ]
               }
             ],
@@ -4153,21 +4181,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|tida"
+                  "$stage_key|tida,$river|tida"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_tida_c2,$stage_key|tida"
+                  "cycle_tida_c2,$stage_key|tida,$river|tida"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_tida_c3,$stage_key|tida"
+                  "cycle_tida_c3,$stage_key|tida,$river|tida"
                 ]
               }
             ],
@@ -4233,21 +4261,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|tida"
+                  "$stage_key|tida,$river|tida"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_tida_c2,$stage_key|tida"
+                  "cycle_tida_c2,$stage_key|tida,$river|tida"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_tida_c3,$stage_key|tida"
+                  "cycle_tida_c3,$stage_key|tida,$river|tida"
                 ]
               }
             ],
@@ -4313,21 +4341,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|tida"
+                  "$stage_key|tida,$river|tida"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_tida_c2,$stage_key|tida"
+                  "cycle_tida_c2,$stage_key|tida,$river|tida"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_tida_c3,$stage_key|tida"
+                  "cycle_tida_c3,$stage_key|tida,$river|tida"
                 ]
               }
             ],
@@ -4393,21 +4421,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|tida"
+                  "$stage_key|tida,$river|tida"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_tida_c2,$stage_key|tida"
+                  "cycle_tida_c2,$stage_key|tida,$river|tida"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_tida_c3,$stage_key|tida"
+                  "cycle_tida_c3,$stage_key|tida,$river|tida"
                 ]
               }
             ],
@@ -4479,74 +4507,74 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|mm"
+                  "$stage_key|mm,$river|mm"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_mm_c2,$stage_key|mm"
+                  "cycle_mm_c2,$stage_key|mm,$river|mm"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_mm_c3,$stage_key|mm"
+                  "cycle_mm_c3,$stage_key|mm,$river|mm"
                 ]
               }
             ],
             "map_locations": [
               {
                 "map": "moschet_manor",
-                "x": 160,
-                "y": 778
+                "x": 1054,
+                "y": 1680
               },
               {
                 "map": "moschet_manor__e",
-                "x": 160,
-                "y": 778
+                "x": 1054,
+                "y": 1680
               },
               {
                 "map": "moschet_manor__e1",
-                "x": 160,
-                "y": 778
+                "x": 1054,
+                "y": 1680
               },
               {
                 "map": "moschet_manor__e2",
-                "x": 160,
-                "y": 778
+                "x": 1054,
+                "y": 1680
               },
               {
                 "map": "moschet_manor__e3",
-                "x": 160,
-                "y": 778
+                "x": 1054,
+                "y": 1680
               },
               {
                 "map": "moschet_manor__h",
-                "x": 160,
-                "y": 778
+                "x": 1054,
+                "y": 1680
               },
               {
                 "map": "moschet_manor__he",
-                "x": 160,
-                "y": 778
+                "x": 1054,
+                "y": 1680
               },
               {
                 "map": "moschet_manor__he1",
-                "x": 160,
-                "y": 778
+                "x": 1054,
+                "y": 1680
               },
               {
                 "map": "moschet_manor__he2",
-                "x": 160,
-                "y": 778
+                "x": 1054,
+                "y": 1680
               },
               {
                 "map": "moschet_manor__he3",
-                "x": 160,
-                "y": 778
+                "x": 1054,
+                "y": 1680
               }
             ]
           },
@@ -4559,74 +4587,74 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|mm"
+                  "$stage_key|mm,$river|mm"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_mm_c2,$stage_key|mm"
+                  "cycle_mm_c2,$stage_key|mm,$river|mm"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_mm_c3,$stage_key|mm"
+                  "cycle_mm_c3,$stage_key|mm,$river|mm"
                 ]
               }
             ],
             "map_locations": [
               {
                 "map": "moschet_manor",
-                "x": 562,
-                "y": 776
+                "x": 1456,
+                "y": 1678
               },
               {
                 "map": "moschet_manor__e",
-                "x": 562,
-                "y": 776
+                "x": 1456,
+                "y": 1678
               },
               {
                 "map": "moschet_manor__e1",
-                "x": 562,
-                "y": 776
+                "x": 1456,
+                "y": 1678
               },
               {
                 "map": "moschet_manor__e2",
-                "x": 562,
-                "y": 776
+                "x": 1456,
+                "y": 1678
               },
               {
                 "map": "moschet_manor__e3",
-                "x": 562,
-                "y": 776
+                "x": 1456,
+                "y": 1678
               },
               {
                 "map": "moschet_manor__h",
-                "x": 562,
-                "y": 776
+                "x": 1456,
+                "y": 1678
               },
               {
                 "map": "moschet_manor__he",
-                "x": 562,
-                "y": 776
+                "x": 1456,
+                "y": 1678
               },
               {
                 "map": "moschet_manor__he1",
-                "x": 562,
-                "y": 776
+                "x": 1456,
+                "y": 1678
               },
               {
                 "map": "moschet_manor__he2",
-                "x": 562,
-                "y": 776
+                "x": 1456,
+                "y": 1678
               },
               {
                 "map": "moschet_manor__he3",
-                "x": 562,
-                "y": 776
+                "x": 1456,
+                "y": 1678
               }
             ]
           },
@@ -4639,74 +4667,74 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|mm"
+                  "$stage_key|mm,$river|mm"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_mm_c2,$stage_key|mm"
+                  "cycle_mm_c2,$stage_key|mm,$river|mm"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_mm_c3,$stage_key|mm"
+                  "cycle_mm_c3,$stage_key|mm,$river|mm"
                 ]
               }
             ],
             "map_locations": [
               {
                 "map": "moschet_manor",
-                "x": 1153,
-                "y": 446
+                "x": 412,
+                "y": 2252
               },
               {
                 "map": "moschet_manor__e",
-                "x": 1153,
-                "y": 446
+                "x": 412,
+                "y": 2252
               },
               {
                 "map": "moschet_manor__e1",
-                "x": 1153,
-                "y": 446
+                "x": 412,
+                "y": 2252
               },
               {
                 "map": "moschet_manor__e2",
-                "x": 1153,
-                "y": 446
+                "x": 412,
+                "y": 2252
               },
               {
                 "map": "moschet_manor__e3",
-                "x": 1153,
-                "y": 446
+                "x": 412,
+                "y": 2252
               },
               {
                 "map": "moschet_manor__h",
-                "x": 1153,
-                "y": 446
+                "x": 412,
+                "y": 2252
               },
               {
                 "map": "moschet_manor__he",
-                "x": 1153,
-                "y": 446
+                "x": 412,
+                "y": 2252
               },
               {
                 "map": "moschet_manor__he1",
-                "x": 1153,
-                "y": 446
+                "x": 412,
+                "y": 2252
               },
               {
                 "map": "moschet_manor__he2",
-                "x": 1153,
-                "y": 446
+                "x": 412,
+                "y": 2252
               },
               {
                 "map": "moschet_manor__he3",
-                "x": 1153,
-                "y": 446
+                "x": 412,
+                "y": 2252
               }
             ]
           },
@@ -4719,74 +4747,74 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|mm"
+                  "$stage_key|mm,$river|mm"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_mm_c2,$stage_key|mm"
+                  "cycle_mm_c2,$stage_key|mm,$river|mm"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_mm_c3,$stage_key|mm"
+                  "cycle_mm_c3,$stage_key|mm,$river|mm"
                 ]
               }
             ],
             "map_locations": [
               {
                 "map": "moschet_manor",
-                "x": 2106,
-                "y": 430
+                "x": 523,
+                "y": 1334
               },
               {
                 "map": "moschet_manor__e",
-                "x": 2106,
-                "y": 430
+                "x": 523,
+                "y": 1334
               },
               {
                 "map": "moschet_manor__e1",
-                "x": 2106,
-                "y": 430
+                "x": 523,
+                "y": 1334
               },
               {
                 "map": "moschet_manor__e2",
-                "x": 2106,
-                "y": 430
+                "x": 523,
+                "y": 1334
               },
               {
                 "map": "moschet_manor__e3",
-                "x": 2106,
-                "y": 430
+                "x": 523,
+                "y": 1334
               },
               {
                 "map": "moschet_manor__h",
-                "x": 2106,
-                "y": 430
+                "x": 523,
+                "y": 1334
               },
               {
                 "map": "moschet_manor__he",
-                "x": 2106,
-                "y": 430
+                "x": 523,
+                "y": 1334
               },
               {
                 "map": "moschet_manor__he1",
-                "x": 2106,
-                "y": 430
+                "x": 523,
+                "y": 1334
               },
               {
                 "map": "moschet_manor__he2",
-                "x": 2106,
-                "y": 430
+                "x": 523,
+                "y": 1334
               },
               {
                 "map": "moschet_manor__he3",
-                "x": 2106,
-                "y": 430
+                "x": 523,
+                "y": 1334
               }
             ]
           },
@@ -4799,21 +4827,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|mm"
+                  "$stage_key|mm,$river|mm"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_mm_c2,$stage_key|mm"
+                  "cycle_mm_c2,$stage_key|mm,$river|mm"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_mm_c3,$stage_key|mm"
+                  "cycle_mm_c3,$stage_key|mm,$river|mm"
                 ]
               }
             ],
@@ -4821,52 +4849,52 @@
               {
                 "map": "moschet_manor",
                 "x": 342,
-                "y": 1468
+                "y": 566
               },
               {
                 "map": "moschet_manor__e",
                 "x": 342,
-                "y": 1468
+                "y": 566
               },
               {
                 "map": "moschet_manor__e1",
                 "x": 342,
-                "y": 1468
+                "y": 566
               },
               {
                 "map": "moschet_manor__e2",
                 "x": 342,
-                "y": 1468
+                "y": 566
               },
               {
                 "map": "moschet_manor__e3",
                 "x": 342,
-                "y": 1468
+                "y": 566
               },
               {
                 "map": "moschet_manor__h",
                 "x": 342,
-                "y": 1468
+                "y": 566
               },
               {
                 "map": "moschet_manor__he",
                 "x": 342,
-                "y": 1468
+                "y": 566
               },
               {
                 "map": "moschet_manor__he1",
                 "x": 342,
-                "y": 1468
+                "y": 566
               },
               {
                 "map": "moschet_manor__he2",
                 "x": 342,
-                "y": 1468
+                "y": 566
               },
               {
                 "map": "moschet_manor__he3",
                 "x": 342,
-                "y": 1468
+                "y": 566
               }
             ]
           },
@@ -4879,21 +4907,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|mm"
+                  "$stage_key|mm,$river|mm"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_mm_c2,$stage_key|mm"
+                  "cycle_mm_c2,$stage_key|mm,$river|mm"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_mm_c3,$stage_key|mm"
+                  "cycle_mm_c3,$stage_key|mm,$river|mm"
                 ]
               }
             ],
@@ -4901,52 +4929,52 @@
               {
                 "map": "moschet_manor",
                 "x": 2012,
-                "y": 1273
+                "y": 370
               },
               {
                 "map": "moschet_manor__e",
                 "x": 2012,
-                "y": 1273
+                "y": 370
               },
               {
                 "map": "moschet_manor__e1",
                 "x": 2012,
-                "y": 1273
+                "y": 370
               },
               {
                 "map": "moschet_manor__e2",
                 "x": 2012,
-                "y": 1273
+                "y": 370
               },
               {
                 "map": "moschet_manor__e3",
                 "x": 2012,
-                "y": 1273
+                "y": 370
               },
               {
                 "map": "moschet_manor__h",
                 "x": 2012,
-                "y": 1273
+                "y": 370
               },
               {
                 "map": "moschet_manor__he",
                 "x": 2012,
-                "y": 1273
+                "y": 370
               },
               {
                 "map": "moschet_manor__he1",
                 "x": 2012,
-                "y": 1273
+                "y": 370
               },
               {
                 "map": "moschet_manor__he2",
                 "x": 2012,
-                "y": 1273
+                "y": 370
               },
               {
                 "map": "moschet_manor__he3",
                 "x": 2012,
-                "y": 1273
+                "y": 370
               }
             ]
           },
@@ -4959,73 +4987,73 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|mm"
+                  "$stage_key|mm,$river|mm"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_mm_c2,$stage_key|mm"
+                  "cycle_mm_c2,$stage_key|mm,$river|mm"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_mm_c3,$stage_key|mm"
+                  "cycle_mm_c3,$stage_key|mm,$river|mm"
                 ]
               }
             ],
             "map_locations": [
               {
                 "map": "moschet_manor",
-                "x": 1254,
+                "x": 2097,
                 "y": 2221
               },
               {
                 "map": "moschet_manor__e",
-                "x": 1254,
+                "x": 2097,
                 "y": 2221
               },
               {
                 "map": "moschet_manor__e1",
-                "x": 1254,
+                "x": 2097,
                 "y": 2221
               },
               {
                 "map": "moschet_manor__e2",
-                "x": 1254,
+                "x": 2097,
                 "y": 2221
               },
               {
                 "map": "moschet_manor__e3",
-                "x": 1254,
+                "x": 2097,
                 "y": 2221
               },
               {
                 "map": "moschet_manor__h",
-                "x": 1254,
+                "x": 2097,
                 "y": 2221
               },
               {
                 "map": "moschet_manor__he",
-                "x": 1254,
+                "x": 2097,
                 "y": 2221
               },
               {
                 "map": "moschet_manor__he1",
-                "x": 1254,
+                "x": 2097,
                 "y": 2221
               },
               {
                 "map": "moschet_manor__he2",
-                "x": 1254,
+                "x": 2097,
                 "y": 2221
               },
               {
                 "map": "moschet_manor__he3",
-                "x": 1254,
+                "x": 2097,
                 "y": 2221
               }
             ]
@@ -5045,21 +5073,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|mk"
+                  "$stage_key|mk,$river|mk"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_mk_c2,$stage_key|mk"
+                  "cycle_mk_c2,$stage_key|mk,$river|mk"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_mk_c3,$stage_key|mk"
+                  "cycle_mk_c3,$stage_key|mk,$river|mk"
                 ]
               }
             ],
@@ -5122,17 +5150,24 @@
             "chest_opened_img": "images/chest_opened.png",
             "sections": [
               {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "$stage_key|mk,$river|mk"
+                ]
+              },
+              {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_mk_c2,$stage_key|mk"
+                  "cycle_mk_c2,$stage_key|mk,$river|mk"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_mk_c3,$stage_key|mk"
+                  "cycle_mk_c3,$stage_key|mk,$river|mk"
                 ]
               }
             ],
@@ -5198,21 +5233,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|mk"
+                  "$stage_key|mk,$river|mk"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_mk_c2,$stage_key|mk"
+                  "cycle_mk_c2,$stage_key|mk,$river|mk"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_mk_c3,$stage_key|mk"
+                  "cycle_mk_c3,$stage_key|mk,$river|mk"
                 ]
               }
             ],
@@ -5278,21 +5313,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|mk"
+                  "$stage_key|mk,$river|mk"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_mk_c2,$stage_key|mk"
+                  "cycle_mk_c2,$stage_key|mk,$river|mk"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_mk_c3,$stage_key|mk"
+                  "cycle_mk_c3,$stage_key|mk,$river|mk"
                 ]
               }
             ],
@@ -5358,21 +5393,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|mk"
+                  "$stage_key|mk,$river|mk"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_mk_c2,$stage_key|mk"
+                  "cycle_mk_c2,$stage_key|mk,$river|mk"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_mk_c3,$stage_key|mk"
+                  "cycle_mk_c3,$stage_key|mk,$river|mk"
                 ]
               }
             ],
@@ -5438,21 +5473,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|mk"
+                  "$stage_key|mk,$river|mk"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_mk_c2,$stage_key|mk"
+                  "cycle_mk_c2,$stage_key|mk,$river|mk"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_mk_c3,$stage_key|mk"
+                  "cycle_mk_c3,$stage_key|mk,$river|mk"
                 ]
               }
             ],
@@ -5515,10 +5550,24 @@
             "chest_opened_img": "images/chest_opened.png",
             "sections": [
               {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "$stage_key|mk,$river|mk"
+                ]
+              },
+              {
+                "name": "Cycle 2",
+                "item_count": 1,
+                "access_rules": [
+                  "cycle_mk_c2,$stage_key|mk,$river|mk"
+                ]
+              },
+              {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_mk_c3,$stage_key|mk"
+                  "cycle_mk_c3,$stage_key|mk,$river|mk"
                 ]
               }
             ],
@@ -5581,17 +5630,24 @@
             "chest_opened_img": "images/chest_opened.png",
             "sections": [
               {
+                "name": "Cycle 1",
+                "item_count": 1,
+                "access_rules": [
+                  "$stage_key|mk,$river|mk"
+                ]
+              },
+              {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_mk_c2,$stage_key|mk"
+                  "cycle_mk_c2,$stage_key|mk,$river|mk"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_mk_c3,$stage_key|mk"
+                  "cycle_mk_c3,$stage_key|mk,$river|mk"
                 ]
               }
             ],
@@ -5657,21 +5713,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|mk"
+                  "$stage_key|mk,$river|mk"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_mk_c2,$stage_key|mk"
+                  "cycle_mk_c2,$stage_key|mk,$river|mk"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_mk_c3,$stage_key|mk"
+                  "cycle_mk_c3,$stage_key|mk,$river|mk"
                 ]
               }
             ],
@@ -5743,21 +5799,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|dc"
+                  "$stage_key|dc,$river|dc"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_dc_c2,$stage_key|dc"
+                  "cycle_dc_c2,$stage_key|dc,$river|dc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_dc_c3,$stage_key|dc"
+                  "cycle_dc_c3,$stage_key|dc,$river|dc"
                 ]
               }
             ],
@@ -5823,21 +5879,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|dc"
+                  "$stage_key|dc,$river|dc"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_dc_c2,$stage_key|dc"
+                  "cycle_dc_c2,$stage_key|dc,$river|dc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_dc_c3,$stage_key|dc"
+                  "cycle_dc_c3,$stage_key|dc,$river|dc"
                 ]
               }
             ],
@@ -5903,21 +5959,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|dc"
+                  "$stage_key|dc,$river|dc"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_dc_c2,$stage_key|dc"
+                  "cycle_dc_c2,$stage_key|dc,$river|dc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_dc_c3,$stage_key|dc"
+                  "cycle_dc_c3,$stage_key|dc,$river|dc"
                 ]
               }
             ],
@@ -5983,21 +6039,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|dc"
+                  "$stage_key|dc,$river|dc"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_dc_c2,$stage_key|dc"
+                  "cycle_dc_c2,$stage_key|dc,$river|dc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_dc_c3,$stage_key|dc"
+                  "cycle_dc_c3,$stage_key|dc,$river|dc"
                 ]
               }
             ],
@@ -6063,21 +6119,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|dc"
+                  "$stage_key|dc,$river|dc"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_dc_c2,$stage_key|dc"
+                  "cycle_dc_c2,$stage_key|dc,$river|dc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_dc_c3,$stage_key|dc"
+                  "cycle_dc_c3,$stage_key|dc,$river|dc"
                 ]
               }
             ],
@@ -6143,21 +6199,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|dc"
+                  "$stage_key|dc,$river|dc"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_dc_c2,$stage_key|dc"
+                  "cycle_dc_c2,$stage_key|dc,$river|dc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_dc_c3,$stage_key|dc"
+                  "cycle_dc_c3,$stage_key|dc,$river|dc"
                 ]
               }
             ],
@@ -6223,21 +6279,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|dc"
+                  "$stage_key|dc,$river|dc"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_dc_c2,$stage_key|dc"
+                  "cycle_dc_c2,$stage_key|dc,$river|dc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_dc_c3,$stage_key|dc"
+                  "cycle_dc_c3,$stage_key|dc,$river|dc"
                 ]
               }
             ],
@@ -6303,21 +6359,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|dc"
+                  "$stage_key|dc,$river|dc"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_dc_c2,$stage_key|dc"
+                  "cycle_dc_c2,$stage_key|dc,$river|dc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_dc_c3,$stage_key|dc"
+                  "cycle_dc_c3,$stage_key|dc,$river|dc"
                 ]
               }
             ],
@@ -6383,21 +6439,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|dc"
+                  "$stage_key|dc,$river|dc"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_dc_c2,$stage_key|dc"
+                  "cycle_dc_c2,$stage_key|dc,$river|dc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_dc_c3,$stage_key|dc"
+                  "cycle_dc_c3,$stage_key|dc,$river|dc"
                 ]
               }
             ],
@@ -6463,21 +6519,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|dc"
+                  "$stage_key|dc,$river|dc"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_dc_c2,$stage_key|dc"
+                  "cycle_dc_c2,$stage_key|dc,$river|dc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_dc_c3,$stage_key|dc"
+                  "cycle_dc_c3,$stage_key|dc,$river|dc"
                 ]
               }
             ],
@@ -6549,21 +6605,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|sc"
+                  "$stage_key|sc,$river|sc"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_sc_c2,$stage_key|sc"
+                  "cycle_sc_c2,$stage_key|sc,$river|sc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_sc_c3,$stage_key|sc"
+                  "cycle_sc_c3,$stage_key|sc,$river|sc"
                 ]
               }
             ],
@@ -6629,21 +6685,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|sc"
+                  "$stage_key|sc,$river|sc"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_sc_c2,$stage_key|sc"
+                  "cycle_sc_c2,$stage_key|sc,$river|sc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_sc_c3,$stage_key|sc"
+                  "cycle_sc_c3,$stage_key|sc,$river|sc"
                 ]
               }
             ],
@@ -6709,21 +6765,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|sc"
+                  "$stage_key|sc,$river|sc"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_sc_c2,$stage_key|sc"
+                  "cycle_sc_c2,$stage_key|sc,$river|sc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_sc_c3,$stage_key|sc"
+                  "cycle_sc_c3,$stage_key|sc,$river|sc"
                 ]
               }
             ],
@@ -6789,21 +6845,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|sc"
+                  "$stage_key|sc,$river|sc"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_sc_c2,$stage_key|sc"
+                  "cycle_sc_c2,$stage_key|sc,$river|sc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_sc_c3,$stage_key|sc"
+                  "cycle_sc_c3,$stage_key|sc,$river|sc"
                 ]
               }
             ],
@@ -6869,21 +6925,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|sc"
+                  "$stage_key|sc,$river|sc"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_sc_c2,$stage_key|sc"
+                  "cycle_sc_c2,$stage_key|sc,$river|sc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_sc_c3,$stage_key|sc"
+                  "cycle_sc_c3,$stage_key|sc,$river|sc"
                 ]
               }
             ],
@@ -6949,21 +7005,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|sc"
+                  "$stage_key|sc,$river|sc"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_sc_c2,$stage_key|sc"
+                  "cycle_sc_c2,$stage_key|sc,$river|sc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_sc_c3,$stage_key|sc"
+                  "cycle_sc_c3,$stage_key|sc,$river|sc"
                 ]
               }
             ],
@@ -7029,21 +7085,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|sc"
+                  "$stage_key|sc,$river|sc"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_sc_c2,$stage_key|sc"
+                  "cycle_sc_c2,$stage_key|sc,$river|sc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_sc_c3,$stage_key|sc"
+                  "cycle_sc_c3,$stage_key|sc,$river|sc"
                 ]
               }
             ],
@@ -7109,21 +7165,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|sc"
+                  "$stage_key|sc,$river|sc"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_sc_c2,$stage_key|sc"
+                  "cycle_sc_c2,$stage_key|sc,$river|sc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_sc_c3,$stage_key|sc"
+                  "cycle_sc_c3,$stage_key|sc,$river|sc"
                 ]
               }
             ],
@@ -7189,21 +7245,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|sc"
+                  "$stage_key|sc,$river|sc"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_sc_c2,$stage_key|sc"
+                  "cycle_sc_c2,$stage_key|sc,$river|sc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_sc_c3,$stage_key|sc"
+                  "cycle_sc_c3,$stage_key|sc,$river|sc"
                 ]
               }
             ],
@@ -7269,21 +7325,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|sc"
+                  "$stage_key|sc,$river|sc"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_sc_c2,$stage_key|sc"
+                  "cycle_sc_c2,$stage_key|sc,$river|sc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_sc_c3,$stage_key|sc"
+                  "cycle_sc_c3,$stage_key|sc,$river|sc"
                 ]
               }
             ],
@@ -7355,21 +7411,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|vls"
+                  "$stage_key|vls,$river|vls"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_vls_c2,$stage_key|vls"
+                  "cycle_vls_c2,$stage_key|vls,$river|vls"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_vls_c3,$stage_key|vls"
+                  "cycle_vls_c3,$stage_key|vls,$river|vls"
                 ]
               }
             ],
@@ -7435,21 +7491,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|vls"
+                  "$stage_key|vls,$river|vls"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_vls_c2,$stage_key|vls"
+                  "cycle_vls_c2,$stage_key|vls,$river|vls"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_vls_c3,$stage_key|vls"
+                  "cycle_vls_c3,$stage_key|vls,$river|vls"
                 ]
               }
             ],
@@ -7515,21 +7571,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|vls"
+                  "$stage_key|vls,$river|vls"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_vls_c2,$stage_key|vls"
+                  "cycle_vls_c2,$stage_key|vls,$river|vls"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_vls_c3,$stage_key|vls"
+                  "cycle_vls_c3,$stage_key|vls,$river|vls"
                 ]
               }
             ],
@@ -7595,21 +7651,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|vls"
+                  "$stage_key|vls,$river|vls"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_vls_c2,$stage_key|vls"
+                  "cycle_vls_c2,$stage_key|vls,$river|vls"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_vls_c3,$stage_key|vls"
+                  "cycle_vls_c3,$stage_key|vls,$river|vls"
                 ]
               }
             ],
@@ -7675,7 +7731,7 @@
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_vls_c2,$stage_key|vls"
+                  "cycle_vls_c2,$stage_key|vls,$river|vls"
                 ]
               }
             ],
@@ -7741,7 +7797,7 @@
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_vls_c2,$stage_key|vls"
+                  "cycle_vls_c2,$stage_key|vls,$river|vls"
                 ]
               }
             ],
@@ -7807,7 +7863,7 @@
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_vls_c2,$stage_key|vls"
+                  "cycle_vls_c2,$stage_key|vls,$river|vls"
                 ]
               }
             ],
@@ -7873,7 +7929,7 @@
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_vls_c2,$stage_key|vls"
+                  "cycle_vls_c2,$stage_key|vls,$river|vls"
                 ]
               }
             ],
@@ -7939,7 +7995,7 @@
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_vls_c2,$stage_key|vls"
+                  "cycle_vls_c2,$stage_key|vls,$river|vls"
                 ]
               }
             ],
@@ -8005,7 +8061,7 @@
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_vls_c2,$stage_key|vls"
+                  "cycle_vls_c2,$stage_key|vls,$river|vls"
                 ]
               }
             ],
@@ -8071,21 +8127,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|vls"
+                  "$stage_key|vls,$river|vls"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_vls_c2,$stage_key|vls"
+                  "cycle_vls_c2,$stage_key|vls,$river|vls"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_vls_c3,$stage_key|vls"
+                  "cycle_vls_c3,$stage_key|vls,$river|vls"
                 ]
               }
             ],
@@ -8151,7 +8207,7 @@
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_vls_c2,$stage_key|vls"
+                  "cycle_vls_c2,$stage_key|vls,$river|vls"
                 ]
               }
             ],
@@ -8217,7 +8273,7 @@
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_vls_c2,$stage_key|vls"
+                  "cycle_vls_c2,$stage_key|vls,$river|vls"
                 ]
               }
             ],
@@ -8289,21 +8345,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|ld"
+                  "$stage_key|ld,$river|ld"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_ld_c2,$stage_key|ld"
+                  "cycle_ld_c2,$stage_key|ld,$river|ld"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_ld_c3,$stage_key|ld"
+                  "cycle_ld_c3,$stage_key|ld,$river|ld"
                 ]
               }
             ],
@@ -8369,21 +8425,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|ld"
+                  "$stage_key|ld,$river|ld"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_ld_c2,$stage_key|ld"
+                  "cycle_ld_c2,$stage_key|ld,$river|ld"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_ld_c3,$stage_key|ld"
+                  "cycle_ld_c3,$stage_key|ld,$river|ld"
                 ]
               }
             ],
@@ -8449,21 +8505,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|ld"
+                  "$stage_key|ld,$river|ld"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_ld_c2,$stage_key|ld"
+                  "cycle_ld_c2,$stage_key|ld,$river|ld"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_ld_c3,$stage_key|ld"
+                  "cycle_ld_c3,$stage_key|ld,$river|ld"
                 ]
               }
             ],
@@ -8529,21 +8585,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|ld"
+                  "$stage_key|ld,$river|ld"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_ld_c2,$stage_key|ld"
+                  "cycle_ld_c2,$stage_key|ld,$river|ld"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_ld_c3,$stage_key|ld"
+                  "cycle_ld_c3,$stage_key|ld,$river|ld"
                 ]
               }
             ],
@@ -8609,21 +8665,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|ld"
+                  "$stage_key|ld,$river|ld"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_ld_c2,$stage_key|ld"
+                  "cycle_ld_c2,$stage_key|ld,$river|ld"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_ld_c3,$stage_key|ld"
+                  "cycle_ld_c3,$stage_key|ld,$river|ld"
                 ]
               }
             ],
@@ -8689,21 +8745,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|ld"
+                  "$stage_key|ld,$river|ld"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_ld_c2,$stage_key|ld"
+                  "cycle_ld_c2,$stage_key|ld,$river|ld"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_ld_c3,$stage_key|ld"
+                  "cycle_ld_c3,$stage_key|ld,$river|ld"
                 ]
               }
             ],
@@ -8769,21 +8825,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|ld"
+                  "$stage_key|ld,$river|ld"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_ld_c2,$stage_key|ld"
+                  "cycle_ld_c2,$stage_key|ld,$river|ld"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_ld_c3,$stage_key|ld"
+                  "cycle_ld_c3,$stage_key|ld,$river|ld"
                 ]
               }
             ],
@@ -8849,21 +8905,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|ld"
+                  "$stage_key|ld,$river|ld"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_ld_c2,$stage_key|ld"
+                  "cycle_ld_c2,$stage_key|ld,$river|ld"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_ld_c3,$stage_key|ld"
+                  "cycle_ld_c3,$stage_key|ld,$river|ld"
                 ]
               }
             ],
@@ -8929,21 +8985,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|ld"
+                  "$stage_key|ld,$river|ld"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_ld_c2,$stage_key|ld"
+                  "cycle_ld_c2,$stage_key|ld,$river|ld"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_ld_c3,$stage_key|ld"
+                  "cycle_ld_c3,$stage_key|ld,$river|ld"
                 ]
               }
             ],
@@ -9009,21 +9065,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|ld"
+                  "$stage_key|ld,$river|ld"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_ld_c2,$stage_key|ld"
+                  "cycle_ld_c2,$stage_key|ld,$river|ld"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_ld_c3,$stage_key|ld"
+                  "cycle_ld_c3,$stage_key|ld,$river|ld"
                 ]
               }
             ],
@@ -9095,21 +9151,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|cc"
+                  "$stage_key|cc,$river|cc"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_cc_c2,$stage_key|cc"
+                  "cycle_cc_c2,$stage_key|cc,$river|cc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_cc_c3,$stage_key|cc"
+                  "cycle_cc_c3,$stage_key|cc,$river|cc"
                 ]
               }
             ],
@@ -9175,21 +9231,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|cc"
+                  "$stage_key|cc,$river|cc"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_cc_c2,$stage_key|cc"
+                  "cycle_cc_c2,$stage_key|cc,$river|cc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_cc_c3,$stage_key|cc"
+                  "cycle_cc_c3,$stage_key|cc,$river|cc"
                 ]
               }
             ],
@@ -9255,21 +9311,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|cc"
+                  "$stage_key|cc,$river|cc"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_cc_c2,$stage_key|cc"
+                  "cycle_cc_c2,$stage_key|cc,$river|cc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_cc_c3,$stage_key|cc"
+                  "cycle_cc_c3,$stage_key|cc,$river|cc"
                 ]
               }
             ],
@@ -9335,21 +9391,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|cc"
+                  "$stage_key|cc,$river|cc"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_cc_c2,$stage_key|cc"
+                  "cycle_cc_c2,$stage_key|cc,$river|cc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_cc_c3,$stage_key|cc"
+                  "cycle_cc_c3,$stage_key|cc,$river|cc"
                 ]
               }
             ],
@@ -9415,21 +9471,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|cc"
+                  "$stage_key|cc,$river|cc"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_cc_c2,$stage_key|cc"
+                  "cycle_cc_c2,$stage_key|cc,$river|cc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_cc_c3,$stage_key|cc"
+                  "cycle_cc_c3,$stage_key|cc,$river|cc"
                 ]
               }
             ],
@@ -9495,21 +9551,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|cc"
+                  "$stage_key|cc,$river|cc"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_cc_c2,$stage_key|cc"
+                  "cycle_cc_c2,$stage_key|cc,$river|cc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_cc_c3,$stage_key|cc"
+                  "cycle_cc_c3,$stage_key|cc,$river|cc"
                 ]
               }
             ],
@@ -9575,21 +9631,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|cc"
+                  "$stage_key|cc,$river|cc"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_cc_c2,$stage_key|cc"
+                  "cycle_cc_c2,$stage_key|cc,$river|cc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_cc_c3,$stage_key|cc"
+                  "cycle_cc_c3,$stage_key|cc,$river|cc"
                 ]
               }
             ],
@@ -9655,21 +9711,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|cc"
+                  "$stage_key|cc,$river|cc"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_cc_c2,$stage_key|cc"
+                  "cycle_cc_c2,$stage_key|cc,$river|cc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_cc_c3,$stage_key|cc"
+                  "cycle_cc_c3,$stage_key|cc,$river|cc"
                 ]
               }
             ],
@@ -9735,21 +9791,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|cc"
+                  "$stage_key|cc,$river|cc"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_cc_c2,$stage_key|cc"
+                  "cycle_cc_c2,$stage_key|cc,$river|cc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_cc_c3,$stage_key|cc"
+                  "cycle_cc_c3,$stage_key|cc,$river|cc"
                 ]
               }
             ],
@@ -9815,21 +9871,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|cc"
+                  "$stage_key|cc,$river|cc"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_cc_c2,$stage_key|cc"
+                  "cycle_cc_c2,$stage_key|cc,$river|cc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_cc_c3,$stage_key|cc"
+                  "cycle_cc_c3,$stage_key|cc,$river|cc"
                 ]
               }
             ],
@@ -9895,21 +9951,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|cc"
+                  "$stage_key|cc,$river|cc"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_cc_c2,$stage_key|cc"
+                  "cycle_cc_c2,$stage_key|cc,$river|cc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_cc_c3,$stage_key|cc"
+                  "cycle_cc_c3,$stage_key|cc,$river|cc"
                 ]
               }
             ],
@@ -9975,21 +10031,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|cc"
+                  "$stage_key|cc,$river|cc,$stage_key|dc,$river|dc"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_cc_c2,$stage_key|cc"
+                  "cycle_cc_c2,$stage_key|cc,$river|cc,$stage_key|dc,$river|dc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_cc_c3,$stage_key|cc"
+                  "cycle_cc_c3,$stage_key|cc,$river|cc,$stage_key|dc,$river|dc"
                 ]
               }
             ],
@@ -10055,21 +10111,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|cc"
+                  "$stage_key|cc,$river|cc"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_cc_c2,$stage_key|cc"
+                  "cycle_cc_c2,$stage_key|cc,$river|cc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_cc_c3,$stage_key|cc"
+                  "cycle_cc_c3,$stage_key|cc,$river|cc"
                 ]
               }
             ],
@@ -10135,21 +10191,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|cc"
+                  "$stage_key|cc,$river|cc"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_cc_c2,$stage_key|cc"
+                  "cycle_cc_c2,$stage_key|cc,$river|cc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_cc_c3,$stage_key|cc"
+                  "cycle_cc_c3,$stage_key|cc,$river|cc"
                 ]
               }
             ],
@@ -10215,21 +10271,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|cc"
+                  "$stage_key|cc,$river|cc"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_cc_c2,$stage_key|cc"
+                  "cycle_cc_c2,$stage_key|cc,$river|cc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_cc_c3,$stage_key|cc"
+                  "cycle_cc_c3,$stage_key|cc,$river|cc"
                 ]
               }
             ],
@@ -10295,21 +10351,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|cc"
+                  "$stage_key|cc,$river|cc"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_cc_c2,$stage_key|cc"
+                  "cycle_cc_c2,$stage_key|cc,$river|cc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_cc_c3,$stage_key|cc"
+                  "cycle_cc_c3,$stage_key|cc,$river|cc"
                 ]
               }
             ],
@@ -10375,21 +10431,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|cc"
+                  "$stage_key|cc,$river|cc"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_cc_c2,$stage_key|cc"
+                  "cycle_cc_c2,$stage_key|cc,$river|cc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_cc_c3,$stage_key|cc"
+                  "cycle_cc_c3,$stage_key|cc,$river|cc"
                 ]
               }
             ],
@@ -10455,21 +10511,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|cc"
+                  "$stage_key|cc,$river|cc"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_cc_c2,$stage_key|cc"
+                  "cycle_cc_c2,$stage_key|cc,$river|cc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_cc_c3,$stage_key|cc"
+                  "cycle_cc_c3,$stage_key|cc,$river|cc"
                 ]
               }
             ],
@@ -10535,21 +10591,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|cc"
+                  "$stage_key|cc,$river|cc"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_cc_c2,$stage_key|cc"
+                  "cycle_cc_c2,$stage_key|cc,$river|cc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_cc_c3,$stage_key|cc"
+                  "cycle_cc_c3,$stage_key|cc,$river|cc"
                 ]
               }
             ],
@@ -10615,21 +10671,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|cc"
+                  "$stage_key|cc,$river|cc"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_cc_c2,$stage_key|cc"
+                  "cycle_cc_c2,$stage_key|cc,$river|cc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_cc_c3,$stage_key|cc"
+                  "cycle_cc_c3,$stage_key|cc,$river|cc"
                 ]
               }
             ],
@@ -10695,21 +10751,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|cc"
+                  "$stage_key|cc,$river|cc,$stage_key|dc,$river|dc"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_cc_c2,$stage_key|cc"
+                  "cycle_cc_c2,$stage_key|cc,$river|cc,$stage_key|dc,$river|dc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_cc_c3,$stage_key|cc"
+                  "cycle_cc_c3,$stage_key|cc,$river|cc,$stage_key|dc,$river|dc"
                 ]
               }
             ],
@@ -10775,21 +10831,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|cc"
+                  "$stage_key|cc,$river|cc"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_cc_c2,$stage_key|cc"
+                  "cycle_cc_c2,$stage_key|cc,$river|cc"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_cc_c3,$stage_key|cc"
+                  "cycle_cc_c3,$stage_key|cc,$river|cc"
                 ]
               }
             ],
@@ -10861,21 +10917,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|rtr"
+                  "$stage_key|rtr,$river|rtr"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_rtr_c2,$stage_key|rtr"
+                  "cycle_rtr_c2,$stage_key|rtr,$river|rtr"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_rtr_c3,$stage_key|rtr"
+                  "cycle_rtr_c3,$stage_key|rtr,$river|rtr"
                 ]
               }
             ],
@@ -10941,21 +10997,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|rtr"
+                  "$stage_key|rtr,$river|rtr"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_rtr_c2,$stage_key|rtr"
+                  "cycle_rtr_c2,$stage_key|rtr,$river|rtr"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_rtr_c3,$stage_key|rtr"
+                  "cycle_rtr_c3,$stage_key|rtr,$river|rtr"
                 ]
               }
             ],
@@ -11021,21 +11077,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|rtr"
+                  "$stage_key|rtr,$river|rtr"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_rtr_c2,$stage_key|rtr"
+                  "cycle_rtr_c2,$stage_key|rtr,$river|rtr"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_rtr_c3,$stage_key|rtr"
+                  "cycle_rtr_c3,$stage_key|rtr,$river|rtr"
                 ]
               }
             ],
@@ -11101,21 +11157,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|rtr"
+                  "$stage_key|rtr,$river|rtr"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_rtr_c2,$stage_key|rtr"
+                  "cycle_rtr_c2,$stage_key|rtr,$river|rtr"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_rtr_c3,$stage_key|rtr"
+                  "cycle_rtr_c3,$stage_key|rtr,$river|rtr"
                 ]
               }
             ],
@@ -11231,21 +11287,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|rtr"
+                  "$stage_key|rtr,$river|rtr"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_rtr_c2,$stage_key|rtr"
+                  "cycle_rtr_c2,$stage_key|rtr,$river|rtr"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_rtr_c3,$stage_key|rtr"
+                  "cycle_rtr_c3,$stage_key|rtr,$river|rtr"
                 ]
               }
             ],
@@ -11361,21 +11417,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|rtr"
+                  "$stage_key|rtr,$river|rtr,$timed_chests"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_rtr_c2,$stage_key|rtr"
+                  "cycle_rtr_c2,$stage_key|rtr,$river|rtr,$timed_chests"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_rtr_c3,$stage_key|rtr"
+                  "cycle_rtr_c3,$stage_key|rtr,$river|rtr,$timed_chests"
                 ]
               }
             ],
@@ -11591,21 +11647,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|rtr"
+                  "$stage_key|rtr,$river|rtr"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_rtr_c2,$stage_key|rtr"
+                  "cycle_rtr_c2,$stage_key|rtr,$river|rtr"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_rtr_c3,$stage_key|rtr"
+                  "cycle_rtr_c3,$stage_key|rtr,$river|rtr"
                 ]
               }
             ],
@@ -11671,21 +11727,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|rtr"
+                  "$stage_key|rtr,$river|rtr"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_rtr_c2,$stage_key|rtr"
+                  "cycle_rtr_c2,$stage_key|rtr,$river|rtr"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_rtr_c3,$stage_key|rtr"
+                  "cycle_rtr_c3,$stage_key|rtr,$river|rtr"
                 ]
               }
             ],
@@ -11751,21 +11807,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|rtr"
+                  "$stage_key|rtr,$river|rtr,$timed_chests"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_rtr_c2,$stage_key|rtr"
+                  "cycle_rtr_c2,$stage_key|rtr,$river|rtr,$timed_chests"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_rtr_c3,$stage_key|rtr"
+                  "cycle_rtr_c3,$stage_key|rtr,$river|rtr,$timed_chests"
                 ]
               }
             ],
@@ -11831,21 +11887,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|rtr"
+                  "$stage_key|rtr,$river|rtr"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_rtr_c2,$stage_key|rtr"
+                  "cycle_rtr_c2,$stage_key|rtr,$river|rtr"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_rtr_c3,$stage_key|rtr"
+                  "cycle_rtr_c3,$stage_key|rtr,$river|rtr"
                 ]
               }
             ],
@@ -11911,21 +11967,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|rtr"
+                  "$stage_key|rtr,$river|rtr"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_rtr_c2,$stage_key|rtr"
+                  "cycle_rtr_c2,$stage_key|rtr,$river|rtr"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_rtr_c3,$stage_key|rtr"
+                  "cycle_rtr_c3,$stage_key|rtr,$river|rtr"
                 ]
               }
             ],
@@ -11991,21 +12047,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|rtr"
+                  "$stage_key|rtr,$river|rtr"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_rtr_c2,$stage_key|rtr"
+                  "cycle_rtr_c2,$stage_key|rtr,$river|rtr"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_rtr_c3,$stage_key|rtr"
+                  "cycle_rtr_c3,$stage_key|rtr,$river|rtr"
                 ]
               }
             ],
@@ -12071,21 +12127,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|rtr"
+                  "$stage_key|rtr,$river|rtr"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_rtr_c2,$stage_key|rtr"
+                  "cycle_rtr_c2,$stage_key|rtr,$river|rtr"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_rtr_c3,$stage_key|rtr"
+                  "cycle_rtr_c3,$stage_key|rtr,$river|rtr"
                 ]
               }
             ],
@@ -12201,21 +12257,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|rtr"
+                  "$stage_key|rtr,$river|rtr"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_rtr_c2,$stage_key|rtr"
+                  "cycle_rtr_c2,$stage_key|rtr,$river|rtr"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_rtr_c3,$stage_key|rtr"
+                  "cycle_rtr_c3,$stage_key|rtr,$river|rtr"
                 ]
               }
             ],
@@ -12331,21 +12387,21 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|rtr"
+                  "$stage_key|rtr,$river|rtr"
                 ]
               },
               {
                 "name": "Cycle 2",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_rtr_c2,$stage_key|rtr"
+                  "cycle_rtr_c2,$stage_key|rtr,$river|rtr"
                 ]
               },
               {
                 "name": "Cycle 3",
                 "item_count": 1,
                 "access_rules": [
-                  "cycle_rtr_c3,$stage_key|rtr"
+                  "cycle_rtr_c3,$stage_key|rtr,$river|rtr"
                 ]
               }
             ],
@@ -12417,7 +12473,7 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|mv"
+                  "$stage_key|mv,$river|mv"
                 ]
               }
             ],
@@ -12483,7 +12539,7 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|mv"
+                  "$stage_key|mv,$river|mv"
                 ]
               }
             ],
@@ -12549,7 +12605,7 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|mv"
+                  "$stage_key|mv,$river|mv"
                 ]
               }
             ],
@@ -12615,7 +12671,7 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|mv"
+                  "$stage_key|mv,$river|mv"
                 ]
               }
             ],
@@ -12681,7 +12737,7 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|mv"
+                  "$stage_key|mv,$river|mv"
                 ]
               }
             ],
@@ -12747,7 +12803,7 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|mv"
+                  "$stage_key|mv,$river|mv"
                 ]
               }
             ],
@@ -12813,7 +12869,7 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|mv"
+                  "$stage_key|mv,$river|mv"
                 ]
               }
             ],
@@ -12879,7 +12935,7 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|mv"
+                  "$stage_key|mv,$river|mv"
                 ]
               }
             ],
@@ -12945,7 +13001,7 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|mv"
+                  "$stage_key|mv,$river|mv"
                 ]
               }
             ],
@@ -13011,7 +13067,7 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|mv"
+                  "$stage_key|mv,$river|mv"
                 ]
               }
             ],
@@ -13077,7 +13133,7 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|mv"
+                  "$stage_key|mv,$river|mv"
                 ]
               }
             ],
@@ -13143,7 +13199,7 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|mv"
+                  "$stage_key|mv,$river|mv"
                 ]
               }
             ],
@@ -13209,7 +13265,7 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|mv"
+                  "$stage_key|mv,$river|mv"
                 ]
               }
             ],
@@ -13275,7 +13331,7 @@
                 "name": "Cycle 1",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|mv"
+                  "$stage_key|mv,$river|mv"
                 ]
               }
             ],
