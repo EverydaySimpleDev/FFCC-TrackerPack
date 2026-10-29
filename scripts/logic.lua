@@ -38,7 +38,7 @@ local ACROSS_RIVER = {
     ["Rebena Te Ra"] = true,
     ["Mount Vellenge"] = true,
 }
-local SPOT_OF = {}      -- dungeon -> world-map spot; empty = every dungeon on its own
+local SPOT_OF = {}      -- dungeon -> world-map spot, empty = every dungeon on its own
 
 function SetWorldZones(zones)
     SPOT_OF = {}
@@ -59,7 +59,7 @@ function river(code)
 end
 
 -- $timed_chests: Rebena Te Ra chests 6 and 9 need tight timing alone. They are
--- in logic only with the "Rebena Te Ra Timed Chests" option; otherwise they
+-- in logic only with the "Rebena Te Ra Timed Chests" option. Otherwise they
 -- show as a sequence break.
 TIMED_CHESTS_ON = false
 
@@ -68,4 +68,53 @@ function timed_chests()
         return true
     end
     return AccessibilityLevel.SequenceBreak
+end
+
+-- $progression_cycle|<cycle>: cycles past the "Progression Cycles" option only
+-- hold filler, so they show as a sequence break (safe to skip).
+PROGRESSION_CYCLES = 3
+
+function progression_cycle(cycle)
+    if tonumber(cycle) <= PROGRESSION_CYCLES then
+        return true
+    end
+    return AccessibilityLevel.SequenceBreak
+end
+
+-- $chests_shown: with "Monster Hunt Checks" the enemies are the checks and
+-- the chests are gone, so their map pins are hidden.
+CHESTS_SHOWN = true
+
+function chests_shown()
+    return CHESTS_SHOWN
+end
+
+-- $shops_shown: the shop pins of "Shop Checks"
+SHOPS_SHOWN = false
+
+function shops_shown()
+    return SHOPS_SHOWN
+end
+
+-- $year|<n>: the game is in year n or later (the Year Tracker, which the
+-- client keeps up to date)
+function year(n)
+    local tracker = Tracker:FindObjectForCode("year_tracker")
+    return tracker ~= nil and tracker.CurrentStage + 1 >= tonumber(n)
+end
+
+-- $across_river: the Fields of Fum, across the Jegon River like the
+-- dungeons there (see river)
+function across_river()
+    local ring = Tracker:FindObjectForCode("ring_of_life")
+    return ring ~= nil and ring.Active and stage_key("vls")
+end
+
+-- $enemies_shown|<enemy or boss>: the enemy pins of "Monster Hunt Checks",
+-- bosses only with "Monster Hunt Bosses".
+ENEMIES_SHOWN = false
+HUNT_BOSSES = true
+
+function enemies_shown(kind)
+    return ENEMIES_SHOWN and (kind ~= "boss" or HUNT_BOSSES)
 end

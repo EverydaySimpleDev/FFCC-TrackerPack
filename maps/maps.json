@@ -838,5 +838,35 @@
     "location_size": 18,
     "location_border_thickness": 2,
     "img": "images/maps/mount_vellenge_stage_he3.jpg"
+  },
+  {
+    "name": "town_marrs_pass",
+    "location_size": 26,
+    "location_border_thickness": 3,
+    "img": "images/maps/town_marrs_pass.jpg"
+  },
+  {
+    "name": "town_alfitaria",
+    "location_size": 26,
+    "location_border_thickness": 3,
+    "img": "images/maps/town_alfitaria.jpg"
+  },
+  {
+    "name": "town_fields_of_fum",
+    "location_size": 26,
+    "location_border_thickness": 3,
+    "img": "images/maps/town_fields_of_fum.jpg"
+  },
+  {
+    "name": "town_shella",
+    "location_size": 26,
+    "location_border_thickness": 3,
+    "img": "images/maps/town_shella.jpg"
+  },
+  {
+    "name": "town_leuda",
+    "location_size": 26,
+    "location_border_thickness": 3,
+    "img": "images/maps/town_leuda.jpg"
   }
 ]

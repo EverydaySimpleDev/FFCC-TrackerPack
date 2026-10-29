@@ -14,7 +14,7 @@ function onClear(slot_data)
     SLOT_DATA = slot_data
     CUR_INDEX = -1
     for _, v in pairs(LOCATION_MAPPING) do
-        -- skip "=code:N" entries; handled separately below
+        -- skip "=code:N" entries, they are handled separately below
         if v[1] and v[1]:sub(1,1) ~= "=" then
             local obj = Tracker:FindObjectForCode(v[1])
             if obj then
@@ -53,13 +53,47 @@ function onClear(slot_data)
     SetWorldZones(slot_data and slot_data["world_zones"])
     local timed = slot_data and slot_data["rebena_te_ra_timed_chests"]
     TIMED_CHESTS_ON = timed == true or (type(timed) == "number" and timed ~= 0)
+    local cycles = slot_data and tonumber(slot_data["progression_cycles"])
+    PROGRESSION_CYCLES = cycles and math.floor(cycles) or 3
+    -- with Monster Hunt Checks the chests are gone (enemies are the checks).
+    -- 2 = Every Enemy, whose enemies have pins of their own
+    local hunt = slot_data and slot_data["monster_hunt_checks"]
+    hunt = hunt == true and 1 or tonumber(hunt) or 0
+    CHESTS_SHOWN = hunt == 0
+    ENEMIES_SHOWN = hunt ~= 0
+    -- Shop Checks: the shops' slots are checks, pinned on the town maps
+    local shops = slot_data and slot_data["shop_checks"]
+    SHOPS_SHOWN = shops == true or (type(shops) == "number" and shops ~= 0)
+    local bosses = slot_data and slot_data["monster_hunt_bosses"]
+    HUNT_BOSSES = bosses == nil or bosses == true or (type(bosses) == "number" and bosses ~= 0)
+    -- Progressive Artifact: the Nth copy is the Nth artifact of the seed's order
+    PROGRESSIVE_ARTIFACT_ORDER = (slot_data and slot_data["progressive_artifact_order"]) or {}
+    PROGRESSIVE_ARTIFACT_COUNT = 0
     LOCAL_ITEMS = {}; GLOBAL_ITEMS = {}
+end
+
+PROGRESSIVE_ARTIFACT_ID = 2322951        -- AP id of "Progressive Artifact"
+AP_ITEM_ID_BASE = 2322432                -- AP id = this + the in-game item id
+PROGRESSIVE_ARTIFACT_ORDER = {}
+PROGRESSIVE_ARTIFACT_COUNT = 0
+
+-- Light the artifact the next Progressive Artifact gives.
+local function onProgressiveArtifact()
+    PROGRESSIVE_ARTIFACT_COUNT = PROGRESSIVE_ARTIFACT_COUNT + 1
+    local artifact = PROGRESSIVE_ARTIFACT_ORDER[PROGRESSIVE_ARTIFACT_COUNT]
+    local v = artifact and ITEM_MAPPING[AP_ITEM_ID_BASE + math.floor(artifact)]
+    local obj = v and Tracker:FindObjectForCode(v[1])
+    if obj then obj.Active = true end
 end
 
 function onItem(index, item_id, item_name, player_number)
     if not AUTOTRACKER_ENABLE_ITEM_TRACKING then return end
     if index <= CUR_INDEX then return end
     CUR_INDEX = index
+    if item_id == PROGRESSIVE_ARTIFACT_ID then
+        onProgressiveArtifact()
+        return
+    end
     local v = ITEM_MAPPING[item_id]
     if not v or not v[1] then return end
     local obj = Tracker:FindObjectForCode(v[1])
@@ -106,3 +140,56 @@ end
 if AUTOTRACKER_ENABLE_ITEM_TRACKING    then Archipelago:AddItemHandler   ("item handler",     onItem)     end
 if AUTOTRACKER_ENABLE_LOCATION_TRACKING then Archipelago:AddLocationHandler("location handler", onLocation) end
 Archipelago:AddClearHandler("clear handler", onClear)
+
+-- Hints: a check in this world that has a hint (from !hint, another
+-- player's hint for their item here, or a Mog Stamp) gets PopTracker's
+-- highlight, a coloured border on its pin and section, by the hint's
+-- priority: yellow for Priority (and Unspecified, which PopTracker would
+-- otherwise not show), blue for No Priority. Hints for this player's items
+-- in other worlds have no pin here.
+-- The server keeps the slot's hints in _read_hints_<team>_<slot>.
+HINT_HIGHLIGHT = {}
+if Highlight then
+    HINT_HIGHLIGHT = {
+        [0] = Highlight.Priority,
+        [10] = Highlight.NoPriority,
+        [20] = Highlight.Avoid,
+        [30] = Highlight.Priority,
+        [40] = Highlight.None,
+    }
+end
+
+local function hints_key()
+    return "_read_hints_" .. Archipelago.TeamNumber .. "_" .. Archipelago.PlayerNumber
+end
+
+local function show_hints(hints)
+    if not Highlight or type(hints) ~= "table" then
+        return
+    end
+    for _, hint in ipairs(hints) do
+        if hint.finding_player == Archipelago.PlayerNumber then
+            local mapping = LOCATION_MAPPING[hint.location]
+            local status = hint.found and 40 or (hint.status or 0)
+            for _, code in ipairs(mapping or {}) do
+                if code:sub(1, 1) == "@" then
+                    local obj = Tracker:FindObjectForCode(code)
+                    if obj then
+                        obj.Highlight = HINT_HIGHLIGHT[status] or Highlight.Priority
+                    end
+                end
+            end
+        end
+    end
+end
+
+Archipelago:AddClearHandler("hint handler", function()
+    Archipelago:SetNotify({hints_key()})
+    Archipelago:Get({hints_key()})
+end)
+Archipelago:AddRetrievedHandler("hint handler", function(key, value)
+    if key == hints_key() then show_hints(value) end
+end)
+Archipelago:AddSetReplyHandler("hint handler", function(key, value)
+    if key == hints_key() then show_hints(value) end
+end)
