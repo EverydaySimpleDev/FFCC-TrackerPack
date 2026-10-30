@@ -744,23 +744,13 @@
           {
             "chest_unopened_img": "images/enemy.png",
             "chest_opened_img": "images/enemy_defeated.png",
-            "name": "River Belle Path - Goblin (Mage) 1 / Goblin Chieftain 5",
+            "name": "River Belle Path - Goblin (Mage) 1",
             "visibility_rules": [
               "$enemies_shown|enemy"
             ],
             "sections": [
               {
                 "name": "Goblin (Mage) 1 (all cycles)",
-                "item_count": 1,
-                "access_rules": [
-                  "$river|rbp"
-                ],
-                "visibility_rules": [
-                  "$enemies_shown|enemy"
-                ]
-              },
-              {
-                "name": "Goblin Chieftain 5 (all cycles)",
                 "item_count": 1,
                 "access_rules": [
                   "$river|rbp"
@@ -819,6 +809,78 @@
               {
                 "map": "river_belle_path__he3",
                 "x": 231,
+                "y": 250
+              }
+            ]
+          },
+          {
+            "chest_unopened_img": "images/enemy.png",
+            "chest_opened_img": "images/enemy_defeated.png",
+            "name": "River Belle Path - Goblin Chieftain 5",
+            "visibility_rules": [
+              "$enemies_shown|enemy"
+            ],
+            "sections": [
+              {
+                "name": "Goblin Chieftain 5 (all cycles)",
+                "item_count": 1,
+                "access_rules": [
+                  "$river|rbp"
+                ],
+                "visibility_rules": [
+                  "$enemies_shown|enemy"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "river_belle_path",
+                "x": 247,
+                "y": 250
+              },
+              {
+                "map": "river_belle_path__e",
+                "x": 247,
+                "y": 250
+              },
+              {
+                "map": "river_belle_path__e1",
+                "x": 247,
+                "y": 250
+              },
+              {
+                "map": "river_belle_path__e2",
+                "x": 247,
+                "y": 250
+              },
+              {
+                "map": "river_belle_path__e3",
+                "x": 247,
+                "y": 250
+              },
+              {
+                "map": "river_belle_path__h",
+                "x": 247,
+                "y": 250
+              },
+              {
+                "map": "river_belle_path__he",
+                "x": 247,
+                "y": 250
+              },
+              {
+                "map": "river_belle_path__he1",
+                "x": 247,
+                "y": 250
+              },
+              {
+                "map": "river_belle_path__he2",
+                "x": 247,
+                "y": 250
+              },
+              {
+                "map": "river_belle_path__he3",
+                "x": 247,
                 "y": 250
               }
             ]
@@ -8297,6 +8359,16 @@
                 ]
               },
               {
+                "name": "Goblin (Spear) 6 (all cycles)",
+                "item_count": 1,
+                "access_rules": [
+                  "$stage_key|gw,$river|gw"
+                ],
+                "visibility_rules": [
+                  "$enemies_shown|enemy"
+                ]
+              },
+              {
                 "name": "Goblin (Sword) 19 (all cycles)",
                 "item_count": 1,
                 "access_rules": [
@@ -8308,6 +8380,56 @@
               },
               {
                 "name": "Goblin (Mace) 8 (all cycles)",
+                "item_count": 1,
+                "access_rules": [
+                  "$stage_key|gw,$river|gw"
+                ],
+                "visibility_rules": [
+                  "$enemies_shown|enemy"
+                ]
+              },
+              {
+                "name": "Goblin (Spear) 7 (all cycles)",
+                "item_count": 1,
+                "access_rules": [
+                  "$stage_key|gw,$river|gw"
+                ],
+                "visibility_rules": [
+                  "$enemies_shown|enemy"
+                ]
+              },
+              {
+                "name": "Goblin (Spear) 8 (all cycles)",
+                "item_count": 1,
+                "access_rules": [
+                  "$stage_key|gw,$river|gw"
+                ],
+                "visibility_rules": [
+                  "$enemies_shown|enemy"
+                ]
+              },
+              {
+                "name": "Goblin (Spear) 9 (all cycles)",
+                "item_count": 1,
+                "access_rules": [
+                  "$stage_key|gw,$river|gw"
+                ],
+                "visibility_rules": [
+                  "$enemies_shown|enemy"
+                ]
+              },
+              {
+                "name": "Goblin (Spear) 10 (all cycles)",
+                "item_count": 1,
+                "access_rules": [
+                  "$stage_key|gw,$river|gw"
+                ],
+                "visibility_rules": [
+                  "$enemies_shown|enemy"
+                ]
+              },
+              {
+                "name": "Goblin (Spear) 11 (all cycles)",
                 "item_count": 1,
                 "access_rules": [
                   "$stage_key|gw,$river|gw"
@@ -16507,13 +16629,13 @@
           {
             "chest_unopened_img": "images/enemy.png",
             "chest_opened_img": "images/enemy_defeated.png",
-            "name": "The Mushroom Forest - Mushroom Forest Carrion Worm 1",
+            "name": "The Mushroom Forest - Carrion Worm 1",
             "visibility_rules": [
               "$enemies_shown|enemy"
             ],
             "sections": [
               {
-                "name": "Mushroom Forest Carrion Worm 1 (cycle 3)",
+                "name": "Carrion Worm 1 (cycle 3)",
                 "item_count": 1,
                 "access_rules": [
                   "cycle_tmf_c3,$stage_key|tmf,$river|tmf,$progression_cycle|3"
@@ -16651,13 +16773,13 @@
           {
             "chest_unopened_img": "images/enemy.png",
             "chest_opened_img": "images/enemy_defeated.png",
-            "name": "The Mushroom Forest - Mushroom Forest Carrion Worm 2",
+            "name": "The Mushroom Forest - Carrion Worm 2",
             "visibility_rules": [
               "$enemies_shown|enemy"
             ],
             "sections": [
               {
-                "name": "Mushroom Forest Carrion Worm 2 (cycle 3)",
+                "name": "Carrion Worm 2 (cycle 3)",
                 "item_count": 1,
                 "access_rules": [
                   "cycle_tmf_c3,$stage_key|tmf,$river|tmf,$progression_cycle|3"
@@ -16947,52 +17069,52 @@
               {
                 "map": "mushroom_forest",
                 "x": 795,
-                "y": 716
+                "y": 698
               },
               {
                 "map": "mushroom_forest__e",
                 "x": 795,
-                "y": 716
+                "y": 698
               },
               {
                 "map": "mushroom_forest__e1",
                 "x": 795,
-                "y": 716
+                "y": 698
               },
               {
                 "map": "mushroom_forest__e2",
                 "x": 795,
-                "y": 716
+                "y": 698
               },
               {
                 "map": "mushroom_forest__e3",
                 "x": 795,
-                "y": 716
+                "y": 698
               },
               {
                 "map": "mushroom_forest__h",
                 "x": 795,
-                "y": 716
+                "y": 698
               },
               {
                 "map": "mushroom_forest__he",
                 "x": 795,
-                "y": 716
+                "y": 698
               },
               {
                 "map": "mushroom_forest__he1",
                 "x": 795,
-                "y": 716
+                "y": 698
               },
               {
                 "map": "mushroom_forest__he2",
                 "x": 795,
-                "y": 716
+                "y": 698
               },
               {
                 "map": "mushroom_forest__he3",
                 "x": 795,
-                "y": 716
+                "y": 698
               }
             ]
           }
@@ -18372,23 +18494,13 @@
           {
             "chest_unopened_img": "images/enemy.png",
             "chest_opened_img": "images/enemy_defeated.png",
-            "name": "Tida - Skeleton (Sword) 2 / Bomb 4",
+            "name": "Tida - Skeleton (Sword) 2",
             "visibility_rules": [
               "$enemies_shown|enemy"
             ],
             "sections": [
               {
                 "name": "Skeleton (Sword) 2 (all cycles)",
-                "item_count": 1,
-                "access_rules": [
-                  "$stage_key|tida,$river|tida"
-                ],
-                "visibility_rules": [
-                  "$enemies_shown|enemy"
-                ]
-              },
-              {
-                "name": "Bomb 4 (all cycles)",
                 "item_count": 1,
                 "access_rules": [
                   "$stage_key|tida,$river|tida"
@@ -18454,13 +18566,85 @@
           {
             "chest_unopened_img": "images/enemy.png",
             "chest_opened_img": "images/enemy_defeated.png",
-            "name": "Tida - Mushroom Forest Carrion Worm 1",
+            "name": "Tida - Bomb 4",
             "visibility_rules": [
               "$enemies_shown|enemy"
             ],
             "sections": [
               {
-                "name": "Mushroom Forest Carrion Worm 1 (all cycles)",
+                "name": "Bomb 4 (all cycles)",
+                "item_count": 1,
+                "access_rules": [
+                  "$stage_key|tida,$river|tida"
+                ],
+                "visibility_rules": [
+                  "$enemies_shown|enemy"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "tida",
+                "x": 427,
+                "y": 112
+              },
+              {
+                "map": "tida__e",
+                "x": 427,
+                "y": 112
+              },
+              {
+                "map": "tida__e1",
+                "x": 427,
+                "y": 112
+              },
+              {
+                "map": "tida__e2",
+                "x": 427,
+                "y": 112
+              },
+              {
+                "map": "tida__e3",
+                "x": 427,
+                "y": 112
+              },
+              {
+                "map": "tida__h",
+                "x": 427,
+                "y": 112
+              },
+              {
+                "map": "tida__he",
+                "x": 427,
+                "y": 112
+              },
+              {
+                "map": "tida__he1",
+                "x": 427,
+                "y": 112
+              },
+              {
+                "map": "tida__he2",
+                "x": 427,
+                "y": 112
+              },
+              {
+                "map": "tida__he3",
+                "x": 427,
+                "y": 112
+              }
+            ]
+          },
+          {
+            "chest_unopened_img": "images/enemy.png",
+            "chest_opened_img": "images/enemy_defeated.png",
+            "name": "Tida - Carrion Worm 1",
+            "visibility_rules": [
+              "$enemies_shown|enemy"
+            ],
+            "sections": [
+              {
+                "name": "Carrion Worm 1 (all cycles)",
                 "item_count": 1,
                 "access_rules": [
                   "$stage_key|tida,$river|tida"
@@ -19966,13 +20150,13 @@
           {
             "chest_unopened_img": "images/enemy.png",
             "chest_opened_img": "images/enemy_defeated.png",
-            "name": "Tida - Mushroom Forest Carrion Worm 2",
+            "name": "Tida - Carrion Worm 2",
             "visibility_rules": [
               "$enemies_shown|enemy"
             ],
             "sections": [
               {
-                "name": "Mushroom Forest Carrion Worm 2 (cycles 2-3)",
+                "name": "Carrion Worm 2 (cycles 2-3)",
                 "item_count": 1,
                 "access_rules": [
                   "cycle_tida_c2,$stage_key|tida,$river|tida,$progression_cycle|2"
@@ -20366,13 +20550,13 @@
           {
             "chest_unopened_img": "images/enemy.png",
             "chest_opened_img": "images/enemy_defeated.png",
-            "name": "Tida - Mushroom Forest Carrion Worm 3",
+            "name": "Tida - Carrion Worm 3",
             "visibility_rules": [
               "$enemies_shown|enemy"
             ],
             "sections": [
               {
-                "name": "Mushroom Forest Carrion Worm 3 (all cycles)",
+                "name": "Carrion Worm 3 (all cycles)",
                 "item_count": 1,
                 "access_rules": [
                   "$stage_key|tida,$river|tida"
@@ -20438,13 +20622,13 @@
           {
             "chest_unopened_img": "images/enemy.png",
             "chest_opened_img": "images/enemy_defeated.png",
-            "name": "Tida - Mushroom Forest Carrion Worm 4",
+            "name": "Tida - Carrion Worm 4",
             "visibility_rules": [
               "$enemies_shown|enemy"
             ],
             "sections": [
               {
-                "name": "Mushroom Forest Carrion Worm 4 (all cycles)",
+                "name": "Carrion Worm 4 (all cycles)",
                 "item_count": 1,
                 "access_rules": [
                   "$stage_key|tida,$river|tida"
@@ -23030,13 +23214,13 @@
           {
             "chest_unopened_img": "images/enemy.png",
             "chest_opened_img": "images/enemy_defeated.png",
-            "name": "Tida - Mushroom Forest Carrion Worm 5 / Abaddon 1",
+            "name": "Tida - Carrion Worm 5 / Abaddon 1",
             "visibility_rules": [
               "$enemies_shown|enemy"
             ],
             "sections": [
               {
-                "name": "Mushroom Forest Carrion Worm 5 (cycle 1)",
+                "name": "Carrion Worm 5 (cycle 1)",
                 "item_count": 1,
                 "access_rules": [
                   "$stage_key|tida,$river|tida"
@@ -23184,13 +23368,13 @@
           {
             "chest_unopened_img": "images/enemy.png",
             "chest_opened_img": "images/enemy_defeated.png",
-            "name": "Tida - Mushroom Forest Carrion Worm 6 / Abaddon 3",
+            "name": "Tida - Carrion Worm 6 / Abaddon 3",
             "visibility_rules": [
               "$enemies_shown|enemy"
             ],
             "sections": [
               {
-                "name": "Mushroom Forest Carrion Worm 6 (cycle 1)",
+                "name": "Carrion Worm 6 (cycle 1)",
                 "item_count": 1,
                 "access_rules": [
                   "$stage_key|tida,$river|tida"
@@ -23338,13 +23522,13 @@
           {
             "chest_unopened_img": "images/enemy.png",
             "chest_opened_img": "images/enemy_defeated.png",
-            "name": "Tida - Mushroom Forest Carrion Worm 7",
+            "name": "Tida - Carrion Worm 7",
             "visibility_rules": [
               "$enemies_shown|enemy"
             ],
             "sections": [
               {
-                "name": "Mushroom Forest Carrion Worm 7 (all cycles)",
+                "name": "Carrion Worm 7 (all cycles)",
                 "item_count": 1,
                 "access_rules": [
                   "$stage_key|tida,$river|tida"
@@ -23410,13 +23594,13 @@
           {
             "chest_unopened_img": "images/enemy.png",
             "chest_opened_img": "images/enemy_defeated.png",
-            "name": "Tida - Mushroom Forest Carrion Worm 8",
+            "name": "Tida - Carrion Worm 8",
             "visibility_rules": [
               "$enemies_shown|enemy"
             ],
             "sections": [
               {
-                "name": "Mushroom Forest Carrion Worm 8 (all cycles)",
+                "name": "Carrion Worm 8 (all cycles)",
                 "item_count": 1,
                 "access_rules": [
                   "$stage_key|tida,$river|tida"
@@ -23931,53 +24115,53 @@
             "map_locations": [
               {
                 "map": "moschet_manor",
-                "x": 523,
-                "y": 1334
+                "x": 398,
+                "y": 1238
               },
               {
                 "map": "moschet_manor__e",
-                "x": 523,
-                "y": 1334
+                "x": 398,
+                "y": 1238
               },
               {
                 "map": "moschet_manor__e1",
-                "x": 523,
-                "y": 1334
+                "x": 398,
+                "y": 1238
               },
               {
                 "map": "moschet_manor__e2",
-                "x": 523,
-                "y": 1334
+                "x": 398,
+                "y": 1238
               },
               {
                 "map": "moschet_manor__e3",
-                "x": 523,
-                "y": 1334
+                "x": 398,
+                "y": 1238
               },
               {
                 "map": "moschet_manor__h",
-                "x": 523,
-                "y": 1334
+                "x": 398,
+                "y": 1238
               },
               {
                 "map": "moschet_manor__he",
-                "x": 523,
-                "y": 1334
+                "x": 398,
+                "y": 1238
               },
               {
                 "map": "moschet_manor__he1",
-                "x": 523,
-                "y": 1334
+                "x": 398,
+                "y": 1238
               },
               {
                 "map": "moschet_manor__he2",
-                "x": 523,
-                "y": 1334
+                "x": 398,
+                "y": 1238
               },
               {
                 "map": "moschet_manor__he3",
-                "x": 523,
-                "y": 1334
+                "x": 398,
+                "y": 1238
               }
             ]
           },
@@ -24756,53 +24940,53 @@
             "map_locations": [
               {
                 "map": "moschet_manor",
-                "x": 362,
-                "y": 1337
+                "x": 401,
+                "y": 1399
               },
               {
                 "map": "moschet_manor__e",
-                "x": 362,
-                "y": 1337
+                "x": 401,
+                "y": 1399
               },
               {
                 "map": "moschet_manor__e1",
-                "x": 362,
-                "y": 1337
+                "x": 401,
+                "y": 1399
               },
               {
                 "map": "moschet_manor__e2",
-                "x": 362,
-                "y": 1337
+                "x": 401,
+                "y": 1399
               },
               {
                 "map": "moschet_manor__e3",
-                "x": 362,
-                "y": 1337
+                "x": 401,
+                "y": 1399
               },
               {
                 "map": "moschet_manor__h",
-                "x": 362,
-                "y": 1337
+                "x": 401,
+                "y": 1399
               },
               {
                 "map": "moschet_manor__he",
-                "x": 362,
-                "y": 1337
+                "x": 401,
+                "y": 1399
               },
               {
                 "map": "moschet_manor__he1",
-                "x": 362,
-                "y": 1337
+                "x": 401,
+                "y": 1399
               },
               {
                 "map": "moschet_manor__he2",
-                "x": 362,
-                "y": 1337
+                "x": 401,
+                "y": 1399
               },
               {
                 "map": "moschet_manor__he3",
-                "x": 362,
-                "y": 1337
+                "x": 401,
+                "y": 1399
               }
             ]
           },
@@ -33520,7 +33704,7 @@
                 ]
               },
               {
-                "name": "Lizardman (Javelin) 1 (all cycles)",
+                "name": "Lizard Skirmisher 6 (all cycles)",
                 "item_count": 1,
                 "access_rules": [
                   "$stage_key|dc,$river|dc"
