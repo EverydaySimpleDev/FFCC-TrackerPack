@@ -92,4 +92,9 @@ ITEM_MAPPING = {
     [2322976] = {"prog_weapon", "consumable"},  -- Progressive Weapon
     [2322977] = {"prog_armor", "consumable"},  -- Progressive Armor
     [2322978] = {"prog_tribal", "consumable"},  -- Progressive Tribal Gear
+    [2322678] = {"ring_of_gravity", "toggle"},  -- Ring of Gravity
+    [2322679] = {"ring_of_holy", "toggle"},  -- Ring of Holy
+    [2322680] = {"ring_of_slow", "toggle"},  -- Ring of Slow
+    [2322681] = {"ring_of_stop", "toggle"},  -- Ring of Stop
+    [2322682] = {"ring_of_haste", "toggle"},  -- Ring of Haste
 }

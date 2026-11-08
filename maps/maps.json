@@ -868,5 +868,29 @@
     "location_size": 26,
     "location_border_thickness": 3,
     "img": "images/maps/town_leuda.jpg"
+  },
+  {
+    "name": "town_tipa",
+    "location_size": 26,
+    "location_border_thickness": 3,
+    "img": "images/maps/town_tipa.jpg"
+  },
+  {
+    "name": "town_port_tipa",
+    "location_size": 26,
+    "location_border_thickness": 3,
+    "img": "images/maps/town_port_tipa.jpg"
+  },
+  {
+    "name": "town_west_jegon_river",
+    "location_size": 26,
+    "location_border_thickness": 3,
+    "img": "images/maps/town_west_jegon_river.jpg"
+  },
+  {
+    "name": "town_mag_mell",
+    "location_size": 26,
+    "location_border_thickness": 3,
+    "img": "images/maps/town_mag_mell.jpg"
   }
 ]

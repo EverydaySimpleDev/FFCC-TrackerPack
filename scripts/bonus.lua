@@ -1,3 +1,5 @@
+-- The Bonus Rewards tab.
+
 BONUS_DUNGEONS = {
     ["River Belle Path"] = {code = "rbp", points = {0, 95, 119, 149}},
     ["Goblin Wall"] = {code = "gw", points = {0, 110, 138, 172}},

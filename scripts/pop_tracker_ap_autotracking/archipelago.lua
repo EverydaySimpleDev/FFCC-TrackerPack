@@ -64,6 +64,9 @@ function onClear(slot_data)
     -- Shop Checks: the shops' slots are checks, pinned on the town maps
     local shops = slot_data and slot_data["shop_checks"]
     SHOPS_SHOWN = shops == true or (type(shops) == "number" and shops ~= 0)
+    -- exits that only exist with an option (logic.lua's exit_shown)
+    local north = slot_data and slot_data["lynari_desert_north_exit"]
+    EXITS_ON = {lynari_desert_north_exit = north == true or (type(north) == "number" and north ~= 0)}
     local bosses = slot_data and slot_data["monster_hunt_bosses"]
     HUNT_BOSSES = bosses == nil or bosses == true or (type(bosses) == "number" and bosses ~= 0)
     -- Progressive Artifact: the Nth copy is the Nth artifact of the seed's order

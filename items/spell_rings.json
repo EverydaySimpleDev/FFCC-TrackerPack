@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Ring of Gravity",
+    "type": "toggle",
+    "codes": "ring_of_gravity",
+    "img": "images/items/artifact_12.png"
+  },
+  {
+    "name": "Ring of Holy",
+    "type": "toggle",
+    "codes": "ring_of_holy",
+    "img": "images/items/artifact_10.png"
+  },
+  {
+    "name": "Ring of Slow",
+    "type": "toggle",
+    "codes": "ring_of_slow",
+    "img": "images/items/artifact_9.png"
+  },
+  {
+    "name": "Ring of Stop",
+    "type": "toggle",
+    "codes": "ring_of_stop",
+    "img": "images/items/artifact_9.png"
+  },
+  {
+    "name": "Ring of Haste",
+    "type": "toggle",
+    "codes": "ring_of_haste",
+    "img": "images/items/artifact_11.png"
+  }
+]

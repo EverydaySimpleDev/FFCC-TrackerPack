@@ -1,0 +1,140 @@
+[
+  {
+    "name": "Mog Stamp - Tipa",
+    "type": "toggle",
+    "codes": "stamp_tipa",
+    "img": "images/stamps/stamp_tipa.png"
+  },
+  {
+    "name": "Mog Stamp - Port Tipa",
+    "type": "toggle",
+    "codes": "stamp_port_tipa",
+    "img": "images/stamps/stamp_port_tipa.png"
+  },
+  {
+    "name": "Mog Stamp - Marr's Pass",
+    "type": "toggle",
+    "codes": "stamp_marrs_pass",
+    "img": "images/stamps/stamp_marrs_pass.png"
+  },
+  {
+    "name": "Mog Stamp - Alfitaria",
+    "type": "toggle",
+    "codes": "stamp_alfitaria",
+    "img": "images/stamps/stamp_alfitaria.png"
+  },
+  {
+    "name": "Mog Stamp - Shella",
+    "type": "toggle",
+    "codes": "stamp_shella",
+    "img": "images/stamps/stamp_shella.png"
+  },
+  {
+    "name": "Mog Stamp - The Fields of Fum",
+    "type": "toggle",
+    "codes": "stamp_the_fields_of_fum",
+    "img": "images/stamps/stamp_the_fields_of_fum.png"
+  },
+  {
+    "name": "Mog Stamp - West Jegon River",
+    "type": "toggle",
+    "codes": "stamp_west_jegon_river",
+    "img": "images/stamps/stamp_west_jegon_river.png"
+  },
+  {
+    "name": "Mog Stamp - Leuda",
+    "type": "toggle",
+    "codes": "stamp_leuda",
+    "img": "images/stamps/stamp_leuda.png"
+  },
+  {
+    "name": "Mog Stamp - Mag Mell",
+    "type": "toggle",
+    "codes": "stamp_mag_mell",
+    "img": "images/stamps/stamp_mag_mell.png"
+  },
+  {
+    "name": "Mog Stamp - River Belle Path",
+    "type": "toggle",
+    "codes": "stamp_river_belle_path",
+    "img": "images/stamps/stamp_river_belle_path.png"
+  },
+  {
+    "name": "Mog Stamp - Goblin Wall",
+    "type": "toggle",
+    "codes": "stamp_goblin_wall",
+    "img": "images/stamps/stamp_goblin_wall.png"
+  },
+  {
+    "name": "Mog Stamp - The Mine of Cathuriges",
+    "type": "toggle",
+    "codes": "stamp_the_mine_of_cathuriges",
+    "img": "images/stamps/stamp_the_mine_of_cathuriges.png"
+  },
+  {
+    "name": "Mog Stamp - The Mushroom Forest",
+    "type": "toggle",
+    "codes": "stamp_the_mushroom_forest",
+    "img": "images/stamps/stamp_the_mushroom_forest.png"
+  },
+  {
+    "name": "Mog Stamp - Tida",
+    "type": "toggle",
+    "codes": "stamp_tida",
+    "img": "images/stamps/stamp_tida.png"
+  },
+  {
+    "name": "Mog Stamp - Moschet Manor",
+    "type": "toggle",
+    "codes": "stamp_moschet_manor",
+    "img": "images/stamps/stamp_moschet_manor.png"
+  },
+  {
+    "name": "Mog Stamp - Mount Kilanda",
+    "type": "toggle",
+    "codes": "stamp_mount_kilanda",
+    "img": "images/stamps/stamp_mount_kilanda.png"
+  },
+  {
+    "name": "Mog Stamp - Daemon's Court",
+    "type": "toggle",
+    "codes": "stamp_daemons_court",
+    "img": "images/stamps/stamp_daemons_court.png"
+  },
+  {
+    "name": "Mog Stamp - Selepation Cave",
+    "type": "toggle",
+    "codes": "stamp_selepation_cave",
+    "img": "images/stamps/stamp_selepation_cave.png"
+  },
+  {
+    "name": "Mog Stamp - Veo Lu Sluice",
+    "type": "toggle",
+    "codes": "stamp_veo_lu_sluice",
+    "img": "images/stamps/stamp_veo_lu_sluice.png"
+  },
+  {
+    "name": "Mog Stamp - Lynari Desert",
+    "type": "toggle",
+    "codes": "stamp_lynari_desert",
+    "img": "images/stamps/stamp_lynari_desert.png"
+  },
+  {
+    "name": "Mog Stamp - Conall Curach",
+    "type": "toggle",
+    "codes": "stamp_conall_curach",
+    "img": "images/stamps/stamp_conall_curach.png"
+  },
+  {
+    "name": "Mog Stamp - Rebena Te Ra",
+    "type": "toggle",
+    "codes": "stamp_rebena_te_ra",
+    "img": "images/stamps/stamp_rebena_te_ra.png"
+  },
+  {
+    "name": "Mog Stamp - Mount Vellenge",
+    "type": "toggle",
+    "codes": "stamp_mount_vellenge",
+    "img": "images/stamps/stamp_mount_vellenge.png"
+  }
+]

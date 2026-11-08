@@ -99,6 +99,66 @@
             },
             {
               "type": "group",
+              "header": "Extra Spell Rings",
+              "dock": "top",
+              "content": {
+                "type": "itemgrid",
+                "item_margin": "4,1",
+                "h_alignment": "left",
+                "rows": [
+                  [
+                    "ring_of_gravity",
+                    "ring_of_holy",
+                    "ring_of_slow",
+                    "ring_of_stop",
+                    "ring_of_haste"
+                  ]
+                ]
+              }
+            },
+            {
+              "type": "group",
+              "header": "Mog Stamps",
+              "dock": "top",
+              "content": {
+                "type": "itemgrid",
+                "item_margin": "4,1",
+                "h_alignment": "left",
+                "rows": [
+                  [
+                    "stamp_tipa",
+                    "stamp_port_tipa",
+                    "stamp_marrs_pass",
+                    "stamp_alfitaria",
+                    "stamp_shella",
+                    "stamp_the_fields_of_fum",
+                    "stamp_west_jegon_river",
+                    "stamp_leuda"
+                  ],
+                  [
+                    "stamp_mag_mell",
+                    "stamp_river_belle_path",
+                    "stamp_goblin_wall",
+                    "stamp_the_mine_of_cathuriges",
+                    "stamp_the_mushroom_forest",
+                    "stamp_tida",
+                    "stamp_moschet_manor",
+                    "stamp_mount_kilanda"
+                  ],
+                  [
+                    "stamp_daemons_court",
+                    "stamp_selepation_cave",
+                    "stamp_veo_lu_sluice",
+                    "stamp_lynari_desert",
+                    "stamp_conall_curach",
+                    "stamp_rebena_te_ra",
+                    "stamp_mount_vellenge"
+                  ]
+                ]
+              }
+            },
+            {
+              "type": "group",
               "header": "Map Options",
               "dock": "top",
               "content": {

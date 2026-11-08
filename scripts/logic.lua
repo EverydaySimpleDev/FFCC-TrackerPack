@@ -118,3 +118,12 @@ HUNT_BOSSES = true
 function enemies_shown(kind)
     return ENEMIES_SHOWN and (kind ~= "boss" or HUNT_BOSSES)
 end
+
+-- $exit_shown|<option>: the pin of an exit that only exists with that
+-- option (Lynari Desert North Exit). archipelago.lua fills EXITS_ON from
+-- the slot data.
+EXITS_ON = {}
+
+function exit_shown(option)
+    return EXITS_ON[option] == true
+end

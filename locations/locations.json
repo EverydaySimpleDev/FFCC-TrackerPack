@@ -744,294 +744,6 @@
           {
             "chest_unopened_img": "images/enemy.png",
             "chest_opened_img": "images/enemy_defeated.png",
-            "name": "River Belle Path - Goblin (Mage) 1",
-            "visibility_rules": [
-              "$enemies_shown|enemy"
-            ],
-            "sections": [
-              {
-                "name": "Goblin (Mage) 1 (all cycles)",
-                "item_count": 1,
-                "access_rules": [
-                  "$river|rbp"
-                ],
-                "visibility_rules": [
-                  "$enemies_shown|enemy"
-                ]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "river_belle_path",
-                "x": 231,
-                "y": 250
-              },
-              {
-                "map": "river_belle_path__e",
-                "x": 231,
-                "y": 250
-              },
-              {
-                "map": "river_belle_path__e1",
-                "x": 231,
-                "y": 250
-              },
-              {
-                "map": "river_belle_path__e2",
-                "x": 231,
-                "y": 250
-              },
-              {
-                "map": "river_belle_path__e3",
-                "x": 231,
-                "y": 250
-              },
-              {
-                "map": "river_belle_path__h",
-                "x": 231,
-                "y": 250
-              },
-              {
-                "map": "river_belle_path__he",
-                "x": 231,
-                "y": 250
-              },
-              {
-                "map": "river_belle_path__he1",
-                "x": 231,
-                "y": 250
-              },
-              {
-                "map": "river_belle_path__he2",
-                "x": 231,
-                "y": 250
-              },
-              {
-                "map": "river_belle_path__he3",
-                "x": 231,
-                "y": 250
-              }
-            ]
-          },
-          {
-            "chest_unopened_img": "images/enemy.png",
-            "chest_opened_img": "images/enemy_defeated.png",
-            "name": "River Belle Path - Goblin Chieftain 5",
-            "visibility_rules": [
-              "$enemies_shown|enemy"
-            ],
-            "sections": [
-              {
-                "name": "Goblin Chieftain 5 (all cycles)",
-                "item_count": 1,
-                "access_rules": [
-                  "$river|rbp"
-                ],
-                "visibility_rules": [
-                  "$enemies_shown|enemy"
-                ]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "river_belle_path",
-                "x": 247,
-                "y": 250
-              },
-              {
-                "map": "river_belle_path__e",
-                "x": 247,
-                "y": 250
-              },
-              {
-                "map": "river_belle_path__e1",
-                "x": 247,
-                "y": 250
-              },
-              {
-                "map": "river_belle_path__e2",
-                "x": 247,
-                "y": 250
-              },
-              {
-                "map": "river_belle_path__e3",
-                "x": 247,
-                "y": 250
-              },
-              {
-                "map": "river_belle_path__h",
-                "x": 247,
-                "y": 250
-              },
-              {
-                "map": "river_belle_path__he",
-                "x": 247,
-                "y": 250
-              },
-              {
-                "map": "river_belle_path__he1",
-                "x": 247,
-                "y": 250
-              },
-              {
-                "map": "river_belle_path__he2",
-                "x": 247,
-                "y": 250
-              },
-              {
-                "map": "river_belle_path__he3",
-                "x": 247,
-                "y": 250
-              }
-            ]
-          },
-          {
-            "chest_unopened_img": "images/enemy.png",
-            "chest_opened_img": "images/enemy_defeated.png",
-            "name": "River Belle Path - Mu 1",
-            "visibility_rules": [
-              "$enemies_shown|enemy"
-            ],
-            "sections": [
-              {
-                "name": "Mu 1 (all cycles)",
-                "item_count": 1,
-                "access_rules": [
-                  "$river|rbp"
-                ],
-                "visibility_rules": [
-                  "$enemies_shown|enemy"
-                ]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "river_belle_path",
-                "x": 176,
-                "y": 277
-              },
-              {
-                "map": "river_belle_path__e",
-                "x": 176,
-                "y": 277
-              },
-              {
-                "map": "river_belle_path__e1",
-                "x": 176,
-                "y": 277
-              },
-              {
-                "map": "river_belle_path__e2",
-                "x": 176,
-                "y": 277
-              },
-              {
-                "map": "river_belle_path__e3",
-                "x": 176,
-                "y": 277
-              },
-              {
-                "map": "river_belle_path__h",
-                "x": 176,
-                "y": 277
-              },
-              {
-                "map": "river_belle_path__he",
-                "x": 176,
-                "y": 277
-              },
-              {
-                "map": "river_belle_path__he1",
-                "x": 176,
-                "y": 277
-              },
-              {
-                "map": "river_belle_path__he2",
-                "x": 176,
-                "y": 277
-              },
-              {
-                "map": "river_belle_path__he3",
-                "x": 176,
-                "y": 277
-              }
-            ]
-          },
-          {
-            "chest_unopened_img": "images/enemy.png",
-            "chest_opened_img": "images/enemy_defeated.png",
-            "name": "River Belle Path - Goblin Chieftain 1",
-            "visibility_rules": [
-              "$enemies_shown|enemy"
-            ],
-            "sections": [
-              {
-                "name": "Goblin Chieftain 1 (all cycles)",
-                "item_count": 1,
-                "access_rules": [
-                  "$river|rbp"
-                ],
-                "visibility_rules": [
-                  "$enemies_shown|enemy"
-                ]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "river_belle_path",
-                "x": 257,
-                "y": 221
-              },
-              {
-                "map": "river_belle_path__e",
-                "x": 257,
-                "y": 221
-              },
-              {
-                "map": "river_belle_path__e1",
-                "x": 257,
-                "y": 221
-              },
-              {
-                "map": "river_belle_path__e2",
-                "x": 257,
-                "y": 221
-              },
-              {
-                "map": "river_belle_path__e3",
-                "x": 257,
-                "y": 221
-              },
-              {
-                "map": "river_belle_path__h",
-                "x": 257,
-                "y": 221
-              },
-              {
-                "map": "river_belle_path__he",
-                "x": 257,
-                "y": 221
-              },
-              {
-                "map": "river_belle_path__he1",
-                "x": 257,
-                "y": 221
-              },
-              {
-                "map": "river_belle_path__he2",
-                "x": 257,
-                "y": 221
-              },
-              {
-                "map": "river_belle_path__he3",
-                "x": 257,
-                "y": 221
-              }
-            ]
-          },
-          {
-            "chest_unopened_img": "images/enemy.png",
-            "chest_opened_img": "images/enemy_defeated.png",
             "name": "River Belle Path - Goblin (Sword) 2",
             "visibility_rules": [
               "$enemies_shown|enemy"
@@ -3066,6 +2778,78 @@
           {
             "chest_unopened_img": "images/enemy.png",
             "chest_opened_img": "images/enemy_defeated.png",
+            "name": "River Belle Path - Goblin Chieftain 5",
+            "visibility_rules": [
+              "$enemies_shown|enemy"
+            ],
+            "sections": [
+              {
+                "name": "Goblin Chieftain 5 (all cycles)",
+                "item_count": 1,
+                "access_rules": [
+                  "$river|rbp"
+                ],
+                "visibility_rules": [
+                  "$enemies_shown|enemy"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "river_belle_path",
+                "x": 231,
+                "y": 250
+              },
+              {
+                "map": "river_belle_path__e",
+                "x": 231,
+                "y": 250
+              },
+              {
+                "map": "river_belle_path__e1",
+                "x": 231,
+                "y": 250
+              },
+              {
+                "map": "river_belle_path__e2",
+                "x": 231,
+                "y": 250
+              },
+              {
+                "map": "river_belle_path__e3",
+                "x": 231,
+                "y": 250
+              },
+              {
+                "map": "river_belle_path__h",
+                "x": 231,
+                "y": 250
+              },
+              {
+                "map": "river_belle_path__he",
+                "x": 231,
+                "y": 250
+              },
+              {
+                "map": "river_belle_path__he1",
+                "x": 231,
+                "y": 250
+              },
+              {
+                "map": "river_belle_path__he2",
+                "x": 231,
+                "y": 250
+              },
+              {
+                "map": "river_belle_path__he3",
+                "x": 231,
+                "y": 250
+              }
+            ]
+          },
+          {
+            "chest_unopened_img": "images/enemy.png",
+            "chest_opened_img": "images/enemy_defeated.png",
             "name": "River Belle Path - Mu 9",
             "visibility_rules": [
               "$enemies_shown|enemy"
@@ -3367,6 +3151,16 @@
                 ],
                 "visibility_rules": [
                   "$enemies_shown|boss"
+                ]
+              },
+              {
+                "name": "Mu 10 (all cycles)",
+                "item_count": 1,
+                "access_rules": [
+                  "$river|rbp"
+                ],
+                "visibility_rules": [
+                  "$enemies_shown|enemy"
                 ]
               }
             ],
@@ -8103,10 +7897,10 @@
             ],
             "sections": [
               {
-                "name": "Electric Jellyfish 6 (all cycles)",
+                "name": "Electric Jellyfish 6 (cycles 2-3)",
                 "item_count": 1,
                 "access_rules": [
-                  "$stage_key|gw,$river|gw"
+                  "cycle_gw_c2,$stage_key|gw,$river|gw,$progression_cycle|2"
                 ],
                 "visibility_rules": [
                   "$enemies_shown|enemy"
@@ -8169,21 +7963,11 @@
           {
             "chest_unopened_img": "images/enemy.png",
             "chest_opened_img": "images/enemy_defeated.png",
-            "name": "Goblin Wall - Goblin (Sword) 17 / Goblin (Mace) 6",
+            "name": "Goblin Wall - Goblin (Mace) 6",
             "visibility_rules": [
               "$enemies_shown|enemy"
             ],
             "sections": [
-              {
-                "name": "Goblin (Sword) 17 (cycle 1)",
-                "item_count": 1,
-                "access_rules": [
-                  "$stage_key|gw,$river|gw"
-                ],
-                "visibility_rules": [
-                  "$enemies_shown|enemy"
-                ]
-              },
               {
                 "name": "Goblin (Mace) 6 (cycles 2-3)",
                 "item_count": 1,
@@ -8349,16 +8133,6 @@
                 ]
               },
               {
-                "name": "Goblin (Mace) 7 (all cycles)",
-                "item_count": 1,
-                "access_rules": [
-                  "$stage_key|gw,$river|gw"
-                ],
-                "visibility_rules": [
-                  "$enemies_shown|enemy"
-                ]
-              },
-              {
                 "name": "Goblin (Spear) 6 (all cycles)",
                 "item_count": 1,
                 "access_rules": [
@@ -8379,16 +8153,6 @@
                 ]
               },
               {
-                "name": "Goblin (Mace) 8 (all cycles)",
-                "item_count": 1,
-                "access_rules": [
-                  "$stage_key|gw,$river|gw"
-                ],
-                "visibility_rules": [
-                  "$enemies_shown|enemy"
-                ]
-              },
-              {
                 "name": "Goblin (Spear) 7 (all cycles)",
                 "item_count": 1,
                 "access_rules": [
@@ -8400,26 +8164,6 @@
               },
               {
                 "name": "Goblin (Spear) 8 (all cycles)",
-                "item_count": 1,
-                "access_rules": [
-                  "$stage_key|gw,$river|gw"
-                ],
-                "visibility_rules": [
-                  "$enemies_shown|enemy"
-                ]
-              },
-              {
-                "name": "Goblin (Spear) 9 (all cycles)",
-                "item_count": 1,
-                "access_rules": [
-                  "$stage_key|gw,$river|gw"
-                ],
-                "visibility_rules": [
-                  "$enemies_shown|enemy"
-                ]
-              },
-              {
-                "name": "Goblin (Spear) 10 (all cycles)",
                 "item_count": 1,
                 "access_rules": [
                   "$stage_key|gw,$river|gw"
@@ -18278,78 +18022,6 @@
           {
             "chest_unopened_img": "images/enemy.png",
             "chest_opened_img": "images/enemy_defeated.png",
-            "name": "Tida - Bomb 1",
-            "visibility_rules": [
-              "$enemies_shown|enemy"
-            ],
-            "sections": [
-              {
-                "name": "Bomb 1 (all cycles)",
-                "item_count": 1,
-                "access_rules": [
-                  "$stage_key|tida,$river|tida"
-                ],
-                "visibility_rules": [
-                  "$enemies_shown|enemy"
-                ]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "tida",
-                "x": 382,
-                "y": 299
-              },
-              {
-                "map": "tida__e",
-                "x": 382,
-                "y": 299
-              },
-              {
-                "map": "tida__e1",
-                "x": 382,
-                "y": 299
-              },
-              {
-                "map": "tida__e2",
-                "x": 382,
-                "y": 299
-              },
-              {
-                "map": "tida__e3",
-                "x": 382,
-                "y": 299
-              },
-              {
-                "map": "tida__h",
-                "x": 382,
-                "y": 299
-              },
-              {
-                "map": "tida__he",
-                "x": 382,
-                "y": 299
-              },
-              {
-                "map": "tida__he1",
-                "x": 382,
-                "y": 299
-              },
-              {
-                "map": "tida__he2",
-                "x": 382,
-                "y": 299
-              },
-              {
-                "map": "tida__he3",
-                "x": 382,
-                "y": 299
-              }
-            ]
-          },
-          {
-            "chest_unopened_img": "images/enemy.png",
-            "chest_opened_img": "images/enemy_defeated.png",
             "name": "Tida - Bomb 2",
             "visibility_rules": [
               "$enemies_shown|enemy"
@@ -18488,366 +18160,6 @@
                 "map": "tida__he3",
                 "x": 331,
                 "y": 234
-              }
-            ]
-          },
-          {
-            "chest_unopened_img": "images/enemy.png",
-            "chest_opened_img": "images/enemy_defeated.png",
-            "name": "Tida - Skeleton (Sword) 2",
-            "visibility_rules": [
-              "$enemies_shown|enemy"
-            ],
-            "sections": [
-              {
-                "name": "Skeleton (Sword) 2 (all cycles)",
-                "item_count": 1,
-                "access_rules": [
-                  "$stage_key|tida,$river|tida"
-                ],
-                "visibility_rules": [
-                  "$enemies_shown|enemy"
-                ]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "tida",
-                "x": 411,
-                "y": 112
-              },
-              {
-                "map": "tida__e",
-                "x": 411,
-                "y": 112
-              },
-              {
-                "map": "tida__e1",
-                "x": 411,
-                "y": 112
-              },
-              {
-                "map": "tida__e2",
-                "x": 411,
-                "y": 112
-              },
-              {
-                "map": "tida__e3",
-                "x": 411,
-                "y": 112
-              },
-              {
-                "map": "tida__h",
-                "x": 411,
-                "y": 112
-              },
-              {
-                "map": "tida__he",
-                "x": 411,
-                "y": 112
-              },
-              {
-                "map": "tida__he1",
-                "x": 411,
-                "y": 112
-              },
-              {
-                "map": "tida__he2",
-                "x": 411,
-                "y": 112
-              },
-              {
-                "map": "tida__he3",
-                "x": 411,
-                "y": 112
-              }
-            ]
-          },
-          {
-            "chest_unopened_img": "images/enemy.png",
-            "chest_opened_img": "images/enemy_defeated.png",
-            "name": "Tida - Bomb 4",
-            "visibility_rules": [
-              "$enemies_shown|enemy"
-            ],
-            "sections": [
-              {
-                "name": "Bomb 4 (all cycles)",
-                "item_count": 1,
-                "access_rules": [
-                  "$stage_key|tida,$river|tida"
-                ],
-                "visibility_rules": [
-                  "$enemies_shown|enemy"
-                ]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "tida",
-                "x": 427,
-                "y": 112
-              },
-              {
-                "map": "tida__e",
-                "x": 427,
-                "y": 112
-              },
-              {
-                "map": "tida__e1",
-                "x": 427,
-                "y": 112
-              },
-              {
-                "map": "tida__e2",
-                "x": 427,
-                "y": 112
-              },
-              {
-                "map": "tida__e3",
-                "x": 427,
-                "y": 112
-              },
-              {
-                "map": "tida__h",
-                "x": 427,
-                "y": 112
-              },
-              {
-                "map": "tida__he",
-                "x": 427,
-                "y": 112
-              },
-              {
-                "map": "tida__he1",
-                "x": 427,
-                "y": 112
-              },
-              {
-                "map": "tida__he2",
-                "x": 427,
-                "y": 112
-              },
-              {
-                "map": "tida__he3",
-                "x": 427,
-                "y": 112
-              }
-            ]
-          },
-          {
-            "chest_unopened_img": "images/enemy.png",
-            "chest_opened_img": "images/enemy_defeated.png",
-            "name": "Tida - Carrion Worm 1",
-            "visibility_rules": [
-              "$enemies_shown|enemy"
-            ],
-            "sections": [
-              {
-                "name": "Carrion Worm 1 (all cycles)",
-                "item_count": 1,
-                "access_rules": [
-                  "$stage_key|tida,$river|tida"
-                ],
-                "visibility_rules": [
-                  "$enemies_shown|enemy"
-                ]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "tida",
-                "x": 484,
-                "y": 140
-              },
-              {
-                "map": "tida__e",
-                "x": 484,
-                "y": 140
-              },
-              {
-                "map": "tida__e1",
-                "x": 484,
-                "y": 140
-              },
-              {
-                "map": "tida__e2",
-                "x": 484,
-                "y": 140
-              },
-              {
-                "map": "tida__e3",
-                "x": 484,
-                "y": 140
-              },
-              {
-                "map": "tida__h",
-                "x": 484,
-                "y": 140
-              },
-              {
-                "map": "tida__he",
-                "x": 484,
-                "y": 140
-              },
-              {
-                "map": "tida__he1",
-                "x": 484,
-                "y": 140
-              },
-              {
-                "map": "tida__he2",
-                "x": 484,
-                "y": 140
-              },
-              {
-                "map": "tida__he3",
-                "x": 484,
-                "y": 140
-              }
-            ]
-          },
-          {
-            "chest_unopened_img": "images/enemy.png",
-            "chest_opened_img": "images/enemy_defeated.png",
-            "name": "Tida - Hell Plant 2",
-            "visibility_rules": [
-              "$enemies_shown|enemy"
-            ],
-            "sections": [
-              {
-                "name": "Hell Plant 2 (all cycles)",
-                "item_count": 1,
-                "access_rules": [
-                  "$stage_key|tida,$river|tida"
-                ],
-                "visibility_rules": [
-                  "$enemies_shown|enemy"
-                ]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "tida",
-                "x": 614,
-                "y": 118
-              },
-              {
-                "map": "tida__e",
-                "x": 614,
-                "y": 118
-              },
-              {
-                "map": "tida__e1",
-                "x": 614,
-                "y": 118
-              },
-              {
-                "map": "tida__e2",
-                "x": 614,
-                "y": 118
-              },
-              {
-                "map": "tida__e3",
-                "x": 614,
-                "y": 118
-              },
-              {
-                "map": "tida__h",
-                "x": 614,
-                "y": 118
-              },
-              {
-                "map": "tida__he",
-                "x": 614,
-                "y": 118
-              },
-              {
-                "map": "tida__he1",
-                "x": 614,
-                "y": 118
-              },
-              {
-                "map": "tida__he2",
-                "x": 614,
-                "y": 118
-              },
-              {
-                "map": "tida__he3",
-                "x": 614,
-                "y": 118
-              }
-            ]
-          },
-          {
-            "chest_unopened_img": "images/enemy.png",
-            "chest_opened_img": "images/enemy_defeated.png",
-            "name": "Tida - Hell Plant 3",
-            "visibility_rules": [
-              "$enemies_shown|enemy"
-            ],
-            "sections": [
-              {
-                "name": "Hell Plant 3 (all cycles)",
-                "item_count": 1,
-                "access_rules": [
-                  "$stage_key|tida,$river|tida"
-                ],
-                "visibility_rules": [
-                  "$enemies_shown|enemy"
-                ]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "tida",
-                "x": 614,
-                "y": 145
-              },
-              {
-                "map": "tida__e",
-                "x": 614,
-                "y": 145
-              },
-              {
-                "map": "tida__e1",
-                "x": 614,
-                "y": 145
-              },
-              {
-                "map": "tida__e2",
-                "x": 614,
-                "y": 145
-              },
-              {
-                "map": "tida__e3",
-                "x": 614,
-                "y": 145
-              },
-              {
-                "map": "tida__h",
-                "x": 614,
-                "y": 145
-              },
-              {
-                "map": "tida__he",
-                "x": 614,
-                "y": 145
-              },
-              {
-                "map": "tida__he1",
-                "x": 614,
-                "y": 145
-              },
-              {
-                "map": "tida__he2",
-                "x": 614,
-                "y": 145
-              },
-              {
-                "map": "tida__he3",
-                "x": 614,
-                "y": 145
               }
             ]
           },
@@ -20616,6 +19928,78 @@
                 "map": "tida__he3",
                 "x": 449,
                 "y": 135
+              }
+            ]
+          },
+          {
+            "chest_unopened_img": "images/enemy.png",
+            "chest_opened_img": "images/enemy_defeated.png",
+            "name": "Tida - Bomb 4",
+            "visibility_rules": [
+              "$enemies_shown|enemy"
+            ],
+            "sections": [
+              {
+                "name": "Bomb 4 (all cycles)",
+                "item_count": 1,
+                "access_rules": [
+                  "$stage_key|tida,$river|tida"
+                ],
+                "visibility_rules": [
+                  "$enemies_shown|enemy"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "tida",
+                "x": 411,
+                "y": 112
+              },
+              {
+                "map": "tida__e",
+                "x": 411,
+                "y": 112
+              },
+              {
+                "map": "tida__e1",
+                "x": 411,
+                "y": 112
+              },
+              {
+                "map": "tida__e2",
+                "x": 411,
+                "y": 112
+              },
+              {
+                "map": "tida__e3",
+                "x": 411,
+                "y": 112
+              },
+              {
+                "map": "tida__h",
+                "x": 411,
+                "y": 112
+              },
+              {
+                "map": "tida__he",
+                "x": 411,
+                "y": 112
+              },
+              {
+                "map": "tida__he1",
+                "x": 411,
+                "y": 112
+              },
+              {
+                "map": "tida__he2",
+                "x": 411,
+                "y": 112
+              },
+              {
+                "map": "tida__he3",
+                "x": 411,
+                "y": 112
               }
             ]
           },
@@ -30782,150 +30166,6 @@
                 "map": "daemons_court__he3",
                 "x": 656,
                 "y": 373
-              }
-            ]
-          },
-          {
-            "chest_unopened_img": "images/enemy.png",
-            "chest_opened_img": "images/enemy_defeated.png",
-            "name": "Daemon's Court - Gold Lizard Skirmisher 2",
-            "visibility_rules": [
-              "$enemies_shown|enemy"
-            ],
-            "sections": [
-              {
-                "name": "Gold Lizard Skirmisher 2 (all cycles)",
-                "item_count": 1,
-                "access_rules": [
-                  "$stage_key|dc,$river|dc"
-                ],
-                "visibility_rules": [
-                  "$enemies_shown|enemy"
-                ]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "daemons_court",
-                "x": 598,
-                "y": 123
-              },
-              {
-                "map": "daemons_court__e",
-                "x": 598,
-                "y": 123
-              },
-              {
-                "map": "daemons_court__e1",
-                "x": 598,
-                "y": 123
-              },
-              {
-                "map": "daemons_court__e2",
-                "x": 598,
-                "y": 123
-              },
-              {
-                "map": "daemons_court__e3",
-                "x": 598,
-                "y": 123
-              },
-              {
-                "map": "daemons_court__h",
-                "x": 598,
-                "y": 123
-              },
-              {
-                "map": "daemons_court__he",
-                "x": 598,
-                "y": 123
-              },
-              {
-                "map": "daemons_court__he1",
-                "x": 598,
-                "y": 123
-              },
-              {
-                "map": "daemons_court__he2",
-                "x": 598,
-                "y": 123
-              },
-              {
-                "map": "daemons_court__he3",
-                "x": 598,
-                "y": 123
-              }
-            ]
-          },
-          {
-            "chest_unopened_img": "images/enemy.png",
-            "chest_opened_img": "images/enemy_defeated.png",
-            "name": "Daemon's Court - Gold Lizard Skirmisher 3",
-            "visibility_rules": [
-              "$enemies_shown|enemy"
-            ],
-            "sections": [
-              {
-                "name": "Gold Lizard Skirmisher 3 (all cycles)",
-                "item_count": 1,
-                "access_rules": [
-                  "$stage_key|dc,$river|dc"
-                ],
-                "visibility_rules": [
-                  "$enemies_shown|enemy"
-                ]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "daemons_court",
-                "x": 354,
-                "y": 121
-              },
-              {
-                "map": "daemons_court__e",
-                "x": 354,
-                "y": 121
-              },
-              {
-                "map": "daemons_court__e1",
-                "x": 354,
-                "y": 121
-              },
-              {
-                "map": "daemons_court__e2",
-                "x": 354,
-                "y": 121
-              },
-              {
-                "map": "daemons_court__e3",
-                "x": 354,
-                "y": 121
-              },
-              {
-                "map": "daemons_court__h",
-                "x": 354,
-                "y": 121
-              },
-              {
-                "map": "daemons_court__he",
-                "x": 354,
-                "y": 121
-              },
-              {
-                "map": "daemons_court__he1",
-                "x": 354,
-                "y": 121
-              },
-              {
-                "map": "daemons_court__he2",
-                "x": 354,
-                "y": 121
-              },
-              {
-                "map": "daemons_court__he3",
-                "x": 354,
-                "y": 121
               }
             ]
           },
@@ -41101,582 +40341,6 @@
           {
             "chest_unopened_img": "images/enemy.png",
             "chest_opened_img": "images/enemy_defeated.png",
-            "name": "Veo Lu Sluice - Lizardman (Axe) 1",
-            "visibility_rules": [
-              "$enemies_shown|enemy"
-            ],
-            "sections": [
-              {
-                "name": "Lizardman (Axe) 1 (all cycles)",
-                "item_count": 1,
-                "access_rules": [
-                  "$stage_key|vls,$river|vls"
-                ],
-                "visibility_rules": [
-                  "$enemies_shown|enemy"
-                ]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "veo_lu_sluice",
-                "x": 85,
-                "y": 258
-              },
-              {
-                "map": "veo_lu_sluice__e",
-                "x": 85,
-                "y": 258
-              },
-              {
-                "map": "veo_lu_sluice__e1",
-                "x": 85,
-                "y": 258
-              },
-              {
-                "map": "veo_lu_sluice__e2",
-                "x": 85,
-                "y": 258
-              },
-              {
-                "map": "veo_lu_sluice__e3",
-                "x": 85,
-                "y": 258
-              },
-              {
-                "map": "veo_lu_sluice__h",
-                "x": 85,
-                "y": 258
-              },
-              {
-                "map": "veo_lu_sluice__he",
-                "x": 85,
-                "y": 258
-              },
-              {
-                "map": "veo_lu_sluice__he1",
-                "x": 85,
-                "y": 258
-              },
-              {
-                "map": "veo_lu_sluice__he2",
-                "x": 85,
-                "y": 258
-              },
-              {
-                "map": "veo_lu_sluice__he3",
-                "x": 85,
-                "y": 258
-              }
-            ]
-          },
-          {
-            "chest_unopened_img": "images/enemy.png",
-            "chest_opened_img": "images/enemy_defeated.png",
-            "name": "Veo Lu Sluice - Lizardman (Mage) 1",
-            "visibility_rules": [
-              "$enemies_shown|enemy"
-            ],
-            "sections": [
-              {
-                "name": "Lizardman (Mage) 1 (all cycles)",
-                "item_count": 1,
-                "access_rules": [
-                  "$stage_key|vls,$river|vls"
-                ],
-                "visibility_rules": [
-                  "$enemies_shown|enemy"
-                ]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "veo_lu_sluice",
-                "x": 85,
-                "y": 273
-              },
-              {
-                "map": "veo_lu_sluice__e",
-                "x": 85,
-                "y": 273
-              },
-              {
-                "map": "veo_lu_sluice__e1",
-                "x": 85,
-                "y": 273
-              },
-              {
-                "map": "veo_lu_sluice__e2",
-                "x": 85,
-                "y": 273
-              },
-              {
-                "map": "veo_lu_sluice__e3",
-                "x": 85,
-                "y": 273
-              },
-              {
-                "map": "veo_lu_sluice__h",
-                "x": 85,
-                "y": 273
-              },
-              {
-                "map": "veo_lu_sluice__he",
-                "x": 85,
-                "y": 273
-              },
-              {
-                "map": "veo_lu_sluice__he1",
-                "x": 85,
-                "y": 273
-              },
-              {
-                "map": "veo_lu_sluice__he2",
-                "x": 85,
-                "y": 273
-              },
-              {
-                "map": "veo_lu_sluice__he3",
-                "x": 85,
-                "y": 273
-              }
-            ]
-          },
-          {
-            "chest_unopened_img": "images/enemy.png",
-            "chest_opened_img": "images/enemy_defeated.png",
-            "name": "Veo Lu Sluice - Gigan Toad 1",
-            "visibility_rules": [
-              "$enemies_shown|enemy"
-            ],
-            "sections": [
-              {
-                "name": "Gigan Toad 1 (all cycles)",
-                "item_count": 1,
-                "access_rules": [
-                  "$stage_key|vls,$river|vls"
-                ],
-                "visibility_rules": [
-                  "$enemies_shown|enemy"
-                ]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "veo_lu_sluice",
-                "x": 151,
-                "y": 343
-              },
-              {
-                "map": "veo_lu_sluice__e",
-                "x": 151,
-                "y": 343
-              },
-              {
-                "map": "veo_lu_sluice__e1",
-                "x": 151,
-                "y": 343
-              },
-              {
-                "map": "veo_lu_sluice__e2",
-                "x": 151,
-                "y": 343
-              },
-              {
-                "map": "veo_lu_sluice__e3",
-                "x": 151,
-                "y": 343
-              },
-              {
-                "map": "veo_lu_sluice__h",
-                "x": 151,
-                "y": 343
-              },
-              {
-                "map": "veo_lu_sluice__he",
-                "x": 151,
-                "y": 343
-              },
-              {
-                "map": "veo_lu_sluice__he1",
-                "x": 151,
-                "y": 343
-              },
-              {
-                "map": "veo_lu_sluice__he2",
-                "x": 151,
-                "y": 343
-              },
-              {
-                "map": "veo_lu_sluice__he3",
-                "x": 151,
-                "y": 343
-              }
-            ]
-          },
-          {
-            "chest_unopened_img": "images/enemy.png",
-            "chest_opened_img": "images/enemy_defeated.png",
-            "name": "Veo Lu Sluice - Lizardman (Mage) 2",
-            "visibility_rules": [
-              "$enemies_shown|enemy"
-            ],
-            "sections": [
-              {
-                "name": "Lizardman (Mage) 2 (all cycles)",
-                "item_count": 1,
-                "access_rules": [
-                  "$stage_key|vls,$river|vls"
-                ],
-                "visibility_rules": [
-                  "$enemies_shown|enemy"
-                ]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "veo_lu_sluice",
-                "x": 133,
-                "y": 346
-              },
-              {
-                "map": "veo_lu_sluice__e",
-                "x": 133,
-                "y": 346
-              },
-              {
-                "map": "veo_lu_sluice__e1",
-                "x": 133,
-                "y": 346
-              },
-              {
-                "map": "veo_lu_sluice__e2",
-                "x": 133,
-                "y": 346
-              },
-              {
-                "map": "veo_lu_sluice__e3",
-                "x": 133,
-                "y": 346
-              },
-              {
-                "map": "veo_lu_sluice__h",
-                "x": 133,
-                "y": 346
-              },
-              {
-                "map": "veo_lu_sluice__he",
-                "x": 133,
-                "y": 346
-              },
-              {
-                "map": "veo_lu_sluice__he1",
-                "x": 133,
-                "y": 346
-              },
-              {
-                "map": "veo_lu_sluice__he2",
-                "x": 133,
-                "y": 346
-              },
-              {
-                "map": "veo_lu_sluice__he3",
-                "x": 133,
-                "y": 346
-              }
-            ]
-          },
-          {
-            "chest_unopened_img": "images/enemy.png",
-            "chest_opened_img": "images/enemy_defeated.png",
-            "name": "Veo Lu Sluice - Water Flan 1",
-            "visibility_rules": [
-              "$enemies_shown|enemy"
-            ],
-            "sections": [
-              {
-                "name": "Water Flan 1 (all cycles)",
-                "item_count": 1,
-                "access_rules": [
-                  "$stage_key|vls,$river|vls"
-                ],
-                "visibility_rules": [
-                  "$enemies_shown|enemy"
-                ]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "veo_lu_sluice",
-                "x": 314,
-                "y": 414
-              },
-              {
-                "map": "veo_lu_sluice__e",
-                "x": 314,
-                "y": 414
-              },
-              {
-                "map": "veo_lu_sluice__e1",
-                "x": 314,
-                "y": 414
-              },
-              {
-                "map": "veo_lu_sluice__e2",
-                "x": 314,
-                "y": 414
-              },
-              {
-                "map": "veo_lu_sluice__e3",
-                "x": 314,
-                "y": 414
-              },
-              {
-                "map": "veo_lu_sluice__h",
-                "x": 314,
-                "y": 414
-              },
-              {
-                "map": "veo_lu_sluice__he",
-                "x": 314,
-                "y": 414
-              },
-              {
-                "map": "veo_lu_sluice__he1",
-                "x": 314,
-                "y": 414
-              },
-              {
-                "map": "veo_lu_sluice__he2",
-                "x": 314,
-                "y": 414
-              },
-              {
-                "map": "veo_lu_sluice__he3",
-                "x": 314,
-                "y": 414
-              }
-            ]
-          },
-          {
-            "chest_unopened_img": "images/enemy.png",
-            "chest_opened_img": "images/enemy_defeated.png",
-            "name": "Veo Lu Sluice - Lizardman (Axe) 2",
-            "visibility_rules": [
-              "$enemies_shown|enemy"
-            ],
-            "sections": [
-              {
-                "name": "Lizardman (Axe) 2 (all cycles)",
-                "item_count": 1,
-                "access_rules": [
-                  "$stage_key|vls,$river|vls"
-                ],
-                "visibility_rules": [
-                  "$enemies_shown|enemy"
-                ]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "veo_lu_sluice",
-                "x": 248,
-                "y": 442
-              },
-              {
-                "map": "veo_lu_sluice__e",
-                "x": 248,
-                "y": 442
-              },
-              {
-                "map": "veo_lu_sluice__e1",
-                "x": 248,
-                "y": 442
-              },
-              {
-                "map": "veo_lu_sluice__e2",
-                "x": 248,
-                "y": 442
-              },
-              {
-                "map": "veo_lu_sluice__e3",
-                "x": 248,
-                "y": 442
-              },
-              {
-                "map": "veo_lu_sluice__h",
-                "x": 248,
-                "y": 442
-              },
-              {
-                "map": "veo_lu_sluice__he",
-                "x": 248,
-                "y": 442
-              },
-              {
-                "map": "veo_lu_sluice__he1",
-                "x": 248,
-                "y": 442
-              },
-              {
-                "map": "veo_lu_sluice__he2",
-                "x": 248,
-                "y": 442
-              },
-              {
-                "map": "veo_lu_sluice__he3",
-                "x": 248,
-                "y": 442
-              }
-            ]
-          },
-          {
-            "chest_unopened_img": "images/enemy.png",
-            "chest_opened_img": "images/enemy_defeated.png",
-            "name": "Veo Lu Sluice - Lizardman (Axe) 3",
-            "visibility_rules": [
-              "$enemies_shown|enemy"
-            ],
-            "sections": [
-              {
-                "name": "Lizardman (Axe) 3 (all cycles)",
-                "item_count": 1,
-                "access_rules": [
-                  "$stage_key|vls,$river|vls"
-                ],
-                "visibility_rules": [
-                  "$enemies_shown|enemy"
-                ]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "veo_lu_sluice",
-                "x": 322,
-                "y": 440
-              },
-              {
-                "map": "veo_lu_sluice__e",
-                "x": 322,
-                "y": 440
-              },
-              {
-                "map": "veo_lu_sluice__e1",
-                "x": 322,
-                "y": 440
-              },
-              {
-                "map": "veo_lu_sluice__e2",
-                "x": 322,
-                "y": 440
-              },
-              {
-                "map": "veo_lu_sluice__e3",
-                "x": 322,
-                "y": 440
-              },
-              {
-                "map": "veo_lu_sluice__h",
-                "x": 322,
-                "y": 440
-              },
-              {
-                "map": "veo_lu_sluice__he",
-                "x": 322,
-                "y": 440
-              },
-              {
-                "map": "veo_lu_sluice__he1",
-                "x": 322,
-                "y": 440
-              },
-              {
-                "map": "veo_lu_sluice__he2",
-                "x": 322,
-                "y": 440
-              },
-              {
-                "map": "veo_lu_sluice__he3",
-                "x": 322,
-                "y": 440
-              }
-            ]
-          },
-          {
-            "chest_unopened_img": "images/enemy.png",
-            "chest_opened_img": "images/enemy_defeated.png",
-            "name": "Veo Lu Sluice - Griffin 1",
-            "visibility_rules": [
-              "$enemies_shown|enemy"
-            ],
-            "sections": [
-              {
-                "name": "Griffin 1 (all cycles)",
-                "item_count": 1,
-                "access_rules": [
-                  "$stage_key|vls,$river|vls"
-                ],
-                "visibility_rules": [
-                  "$enemies_shown|enemy"
-                ]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "veo_lu_sluice",
-                "x": 286,
-                "y": 466
-              },
-              {
-                "map": "veo_lu_sluice__e",
-                "x": 286,
-                "y": 466
-              },
-              {
-                "map": "veo_lu_sluice__e1",
-                "x": 286,
-                "y": 466
-              },
-              {
-                "map": "veo_lu_sluice__e2",
-                "x": 286,
-                "y": 466
-              },
-              {
-                "map": "veo_lu_sluice__e3",
-                "x": 286,
-                "y": 466
-              },
-              {
-                "map": "veo_lu_sluice__h",
-                "x": 286,
-                "y": 466
-              },
-              {
-                "map": "veo_lu_sluice__he",
-                "x": 286,
-                "y": 466
-              },
-              {
-                "map": "veo_lu_sluice__he1",
-                "x": 286,
-                "y": 466
-              },
-              {
-                "map": "veo_lu_sluice__he2",
-                "x": 286,
-                "y": 466
-              },
-              {
-                "map": "veo_lu_sluice__he3",
-                "x": 286,
-                "y": 466
-              }
-            ]
-          },
-          {
-            "chest_unopened_img": "images/enemy.png",
-            "chest_opened_img": "images/enemy_defeated.png",
             "name": "Veo Lu Sluice - Lizardman (Axe) 4 / Lizardman (Mace) 1",
             "visibility_rules": [
               "$enemies_shown|enemy"
@@ -51355,6 +50019,72 @@
                 "map": "lynari_desert__he3",
                 "x": 1359,
                 "y": 891
+              }
+            ]
+          },
+          {
+            "name": "Lynari Desert - North Exit",
+            "chest_unopened_img": "images/exit.png",
+            "chest_opened_img": "images/exit.png",
+            "visibility_rules": [
+              "$exit_shown|lynari_desert_north_exit"
+            ],
+            "sections": [
+              {
+                "name": "Quicksand to Area 2",
+                "item_count": 0
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "lynari_desert",
+                "x": 293,
+                "y": 94
+              },
+              {
+                "map": "lynari_desert__e",
+                "x": 293,
+                "y": 94
+              },
+              {
+                "map": "lynari_desert__e1",
+                "x": 293,
+                "y": 94
+              },
+              {
+                "map": "lynari_desert__e2",
+                "x": 293,
+                "y": 94
+              },
+              {
+                "map": "lynari_desert__e3",
+                "x": 293,
+                "y": 94
+              },
+              {
+                "map": "lynari_desert__h",
+                "x": 293,
+                "y": 94
+              },
+              {
+                "map": "lynari_desert__he",
+                "x": 293,
+                "y": 94
+              },
+              {
+                "map": "lynari_desert__he1",
+                "x": 293,
+                "y": 94
+              },
+              {
+                "map": "lynari_desert__he2",
+                "x": 293,
+                "y": 94
+              },
+              {
+                "map": "lynari_desert__he3",
+                "x": 293,
+                "y": 94
               }
             ]
           }
@@ -70250,78 +68980,6 @@
           {
             "chest_unopened_img": "images/enemy.png",
             "chest_opened_img": "images/enemy_defeated.png",
-            "name": "Rebena Te Ra - Mimic 12",
-            "visibility_rules": [
-              "$enemies_shown|enemy"
-            ],
-            "sections": [
-              {
-                "name": "Mimic 12 (all cycles)",
-                "item_count": 1,
-                "access_rules": [
-                  "$stage_key|rtr,$river|rtr"
-                ],
-                "visibility_rules": [
-                  "$enemies_shown|enemy"
-                ]
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "rebena_te_ra",
-                "x": 945,
-                "y": 187
-              },
-              {
-                "map": "rebena_te_ra__e",
-                "x": 945,
-                "y": 187
-              },
-              {
-                "map": "rebena_te_ra__e1",
-                "x": 945,
-                "y": 187
-              },
-              {
-                "map": "rebena_te_ra__e2",
-                "x": 945,
-                "y": 187
-              },
-              {
-                "map": "rebena_te_ra__e3",
-                "x": 945,
-                "y": 187
-              },
-              {
-                "map": "rebena_te_ra__h",
-                "x": 945,
-                "y": 187
-              },
-              {
-                "map": "rebena_te_ra__he",
-                "x": 945,
-                "y": 187
-              },
-              {
-                "map": "rebena_te_ra__he1",
-                "x": 945,
-                "y": 187
-              },
-              {
-                "map": "rebena_te_ra__he2",
-                "x": 945,
-                "y": 187
-              },
-              {
-                "map": "rebena_te_ra__he3",
-                "x": 945,
-                "y": 187
-              }
-            ]
-          },
-          {
-            "chest_unopened_img": "images/enemy.png",
-            "chest_opened_img": "images/enemy_defeated.png",
             "name": "Rebena Te Ra - Boss Fight",
             "visibility_rules": [
               "$enemies_shown|enemy"
@@ -77075,6 +75733,1184 @@
             "map": "town_leuda",
             "x": 451,
             "y": 157
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "FFCC Mog Stamps",
+    "children": [
+      {
+        "name": "Mog Stamp - Tipa",
+        "chest_unopened_img": "images/stamps/pin.png",
+        "chest_opened_img": "images/stamps/pin_collected.png",
+        "visibility_rules": [
+          "$stamps_shown"
+        ],
+        "sections": [
+          {
+            "name": "Mog Stamp",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "town_tipa",
+            "x": 329,
+            "y": 152
+          }
+        ]
+      },
+      {
+        "name": "Mog Stamp - Port Tipa",
+        "chest_unopened_img": "images/stamps/pin.png",
+        "chest_opened_img": "images/stamps/pin_collected.png",
+        "visibility_rules": [
+          "$stamps_shown"
+        ],
+        "sections": [
+          {
+            "name": "Mog Stamp",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "town_port_tipa",
+            "x": 583,
+            "y": 208
+          }
+        ]
+      },
+      {
+        "name": "Mog Stamp - Marr's Pass",
+        "chest_unopened_img": "images/stamps/pin.png",
+        "chest_opened_img": "images/stamps/pin_collected.png",
+        "visibility_rules": [
+          "$stamps_shown"
+        ],
+        "sections": [
+          {
+            "name": "Mog Stamp",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "town_marrs_pass",
+            "x": 224,
+            "y": 535
+          }
+        ]
+      },
+      {
+        "name": "Mog Stamp - Alfitaria",
+        "chest_unopened_img": "images/stamps/pin.png",
+        "chest_opened_img": "images/stamps/pin_collected.png",
+        "visibility_rules": [
+          "$stamps_shown"
+        ],
+        "sections": [
+          {
+            "name": "Mog Stamp",
+            "item_count": 1,
+            "access_rules": [
+              "$year|2"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "town_alfitaria",
+            "x": 534,
+            "y": 433
+          }
+        ]
+      },
+      {
+        "name": "Mog Stamp - Shella",
+        "chest_unopened_img": "images/stamps/pin.png",
+        "chest_opened_img": "images/stamps/pin_collected.png",
+        "visibility_rules": [
+          "$stamps_shown"
+        ],
+        "sections": [
+          {
+            "name": "Mog Stamp",
+            "item_count": 1,
+            "access_rules": [
+              "$year|2,$stage_key|vls"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "town_shella",
+            "x": 118,
+            "y": 565
+          }
+        ]
+      },
+      {
+        "name": "Mog Stamp - The Fields of Fum",
+        "chest_unopened_img": "images/stamps/pin.png",
+        "chest_opened_img": "images/stamps/pin_collected.png",
+        "visibility_rules": [
+          "$stamps_shown"
+        ],
+        "sections": [
+          {
+            "name": "Mog Stamp",
+            "item_count": 1,
+            "access_rules": [
+              "$year|3,$across_river"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "town_fields_of_fum",
+            "x": 639,
+            "y": 562
+          }
+        ]
+      },
+      {
+        "name": "Mog Stamp - West Jegon River",
+        "chest_unopened_img": "images/stamps/pin.png",
+        "chest_opened_img": "images/stamps/pin_collected.png",
+        "visibility_rules": [
+          "$stamps_shown"
+        ],
+        "sections": [
+          {
+            "name": "Mog Stamp",
+            "item_count": 1,
+            "access_rules": [
+              "$year|3,$across_river"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "town_west_jegon_river",
+            "x": 315,
+            "y": 117
+          }
+        ]
+      },
+      {
+        "name": "Mog Stamp - Leuda",
+        "chest_unopened_img": "images/stamps/pin.png",
+        "chest_opened_img": "images/stamps/pin_collected.png",
+        "visibility_rules": [
+          "$stamps_shown"
+        ],
+        "sections": [
+          {
+            "name": "Mog Stamp",
+            "item_count": 1,
+            "access_rules": [
+              "$year|5"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "town_leuda",
+            "x": 131,
+            "y": 35
+          }
+        ]
+      },
+      {
+        "name": "Mog Stamp - Mag Mell",
+        "chest_unopened_img": "images/stamps/pin.png",
+        "chest_opened_img": "images/stamps/pin_collected.png",
+        "visibility_rules": [
+          "$stamps_shown"
+        ],
+        "sections": [
+          {
+            "name": "Mog Stamp",
+            "item_count": 1,
+            "access_rules": [
+              "$stage_key|mv,$river|mv"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "town_mag_mell",
+            "x": 150,
+            "y": 393
+          }
+        ]
+      },
+      {
+        "name": "Mog Stamp - River Belle Path",
+        "chest_unopened_img": "images/stamps/pin.png",
+        "chest_opened_img": "images/stamps/pin_collected.png",
+        "visibility_rules": [
+          "$stamps_shown"
+        ],
+        "sections": [
+          {
+            "name": "Mog Stamp",
+            "item_count": 1,
+            "access_rules": [
+              "$river|rbp"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "river_belle_path",
+            "x": 416,
+            "y": 438
+          },
+          {
+            "map": "river_belle_path__e",
+            "x": 416,
+            "y": 438
+          },
+          {
+            "map": "river_belle_path__e1",
+            "x": 416,
+            "y": 438
+          },
+          {
+            "map": "river_belle_path__e2",
+            "x": 416,
+            "y": 438
+          },
+          {
+            "map": "river_belle_path__e3",
+            "x": 416,
+            "y": 438
+          },
+          {
+            "map": "river_belle_path__h",
+            "x": 416,
+            "y": 438
+          },
+          {
+            "map": "river_belle_path__he",
+            "x": 416,
+            "y": 438
+          },
+          {
+            "map": "river_belle_path__he1",
+            "x": 416,
+            "y": 438
+          },
+          {
+            "map": "river_belle_path__he2",
+            "x": 416,
+            "y": 438
+          },
+          {
+            "map": "river_belle_path__he3",
+            "x": 416,
+            "y": 438
+          }
+        ]
+      },
+      {
+        "name": "Mog Stamp - Goblin Wall",
+        "chest_unopened_img": "images/stamps/pin.png",
+        "chest_opened_img": "images/stamps/pin_collected.png",
+        "visibility_rules": [
+          "$stamps_shown"
+        ],
+        "sections": [
+          {
+            "name": "Mog Stamp",
+            "item_count": 1,
+            "access_rules": [
+              "$stage_key|gw,$river|gw"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "goblin_wall",
+            "x": 100,
+            "y": 263
+          },
+          {
+            "map": "goblin_wall__e",
+            "x": 100,
+            "y": 263
+          },
+          {
+            "map": "goblin_wall__e1",
+            "x": 100,
+            "y": 263
+          },
+          {
+            "map": "goblin_wall__e2",
+            "x": 100,
+            "y": 263
+          },
+          {
+            "map": "goblin_wall__e3",
+            "x": 100,
+            "y": 263
+          },
+          {
+            "map": "goblin_wall__h",
+            "x": 100,
+            "y": 263
+          },
+          {
+            "map": "goblin_wall__he",
+            "x": 100,
+            "y": 263
+          },
+          {
+            "map": "goblin_wall__he1",
+            "x": 100,
+            "y": 263
+          },
+          {
+            "map": "goblin_wall__he2",
+            "x": 100,
+            "y": 263
+          },
+          {
+            "map": "goblin_wall__he3",
+            "x": 100,
+            "y": 263
+          }
+        ]
+      },
+      {
+        "name": "Mog Stamp - The Mine of Cathuriges",
+        "chest_unopened_img": "images/stamps/pin.png",
+        "chest_opened_img": "images/stamps/pin_collected.png",
+        "visibility_rules": [
+          "$stamps_shown"
+        ],
+        "sections": [
+          {
+            "name": "Mog Stamp",
+            "item_count": 1,
+            "access_rules": [
+              "$stage_key|moc,$river|moc"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "mine_of_cathuriges",
+            "x": 1688,
+            "y": 388
+          },
+          {
+            "map": "mine_of_cathuriges__e",
+            "x": 1688,
+            "y": 388
+          },
+          {
+            "map": "mine_of_cathuriges__e1",
+            "x": 1688,
+            "y": 388
+          },
+          {
+            "map": "mine_of_cathuriges__e2",
+            "x": 1688,
+            "y": 388
+          },
+          {
+            "map": "mine_of_cathuriges__e3",
+            "x": 1688,
+            "y": 388
+          },
+          {
+            "map": "mine_of_cathuriges__h",
+            "x": 1688,
+            "y": 388
+          },
+          {
+            "map": "mine_of_cathuriges__he",
+            "x": 1688,
+            "y": 388
+          },
+          {
+            "map": "mine_of_cathuriges__he1",
+            "x": 1688,
+            "y": 388
+          },
+          {
+            "map": "mine_of_cathuriges__he2",
+            "x": 1688,
+            "y": 388
+          },
+          {
+            "map": "mine_of_cathuriges__he3",
+            "x": 1688,
+            "y": 388
+          }
+        ]
+      },
+      {
+        "name": "Mog Stamp - The Mushroom Forest",
+        "chest_unopened_img": "images/stamps/pin.png",
+        "chest_opened_img": "images/stamps/pin_collected.png",
+        "visibility_rules": [
+          "$stamps_shown"
+        ],
+        "sections": [
+          {
+            "name": "Mog Stamp",
+            "item_count": 1,
+            "access_rules": [
+              "$stage_key|tmf,$river|tmf"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "mushroom_forest",
+            "x": 623,
+            "y": 195
+          },
+          {
+            "map": "mushroom_forest__e",
+            "x": 623,
+            "y": 195
+          },
+          {
+            "map": "mushroom_forest__e1",
+            "x": 623,
+            "y": 195
+          },
+          {
+            "map": "mushroom_forest__e2",
+            "x": 623,
+            "y": 195
+          },
+          {
+            "map": "mushroom_forest__e3",
+            "x": 623,
+            "y": 195
+          },
+          {
+            "map": "mushroom_forest__h",
+            "x": 623,
+            "y": 195
+          },
+          {
+            "map": "mushroom_forest__he",
+            "x": 623,
+            "y": 195
+          },
+          {
+            "map": "mushroom_forest__he1",
+            "x": 623,
+            "y": 195
+          },
+          {
+            "map": "mushroom_forest__he2",
+            "x": 623,
+            "y": 195
+          },
+          {
+            "map": "mushroom_forest__he3",
+            "x": 623,
+            "y": 195
+          }
+        ]
+      },
+      {
+        "name": "Mog Stamp - Tida",
+        "chest_unopened_img": "images/stamps/pin.png",
+        "chest_opened_img": "images/stamps/pin_collected.png",
+        "visibility_rules": [
+          "$stamps_shown"
+        ],
+        "sections": [
+          {
+            "name": "Mog Stamp",
+            "item_count": 1,
+            "access_rules": [
+              "$stage_key|tida,$river|tida"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "tida",
+            "x": 468,
+            "y": 329
+          },
+          {
+            "map": "tida__e",
+            "x": 468,
+            "y": 329
+          },
+          {
+            "map": "tida__e1",
+            "x": 468,
+            "y": 329
+          },
+          {
+            "map": "tida__e2",
+            "x": 468,
+            "y": 329
+          },
+          {
+            "map": "tida__e3",
+            "x": 468,
+            "y": 329
+          },
+          {
+            "map": "tida__h",
+            "x": 468,
+            "y": 329
+          },
+          {
+            "map": "tida__he",
+            "x": 468,
+            "y": 329
+          },
+          {
+            "map": "tida__he1",
+            "x": 468,
+            "y": 329
+          },
+          {
+            "map": "tida__he2",
+            "x": 468,
+            "y": 329
+          },
+          {
+            "map": "tida__he3",
+            "x": 468,
+            "y": 329
+          }
+        ]
+      },
+      {
+        "name": "Mog Stamp - Moschet Manor",
+        "chest_unopened_img": "images/stamps/pin.png",
+        "chest_opened_img": "images/stamps/pin_collected.png",
+        "visibility_rules": [
+          "$stamps_shown"
+        ],
+        "sections": [
+          {
+            "name": "Mog Stamp",
+            "item_count": 1,
+            "access_rules": [
+              "$stage_key|mm,$river|mm"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "moschet_manor",
+            "x": 427,
+            "y": 1313
+          },
+          {
+            "map": "moschet_manor__e",
+            "x": 427,
+            "y": 1313
+          },
+          {
+            "map": "moschet_manor__e1",
+            "x": 427,
+            "y": 1313
+          },
+          {
+            "map": "moschet_manor__e2",
+            "x": 427,
+            "y": 1313
+          },
+          {
+            "map": "moschet_manor__e3",
+            "x": 427,
+            "y": 1313
+          },
+          {
+            "map": "moschet_manor__h",
+            "x": 427,
+            "y": 1313
+          },
+          {
+            "map": "moschet_manor__he",
+            "x": 427,
+            "y": 1313
+          },
+          {
+            "map": "moschet_manor__he1",
+            "x": 427,
+            "y": 1313
+          },
+          {
+            "map": "moschet_manor__he2",
+            "x": 427,
+            "y": 1313
+          },
+          {
+            "map": "moschet_manor__he3",
+            "x": 427,
+            "y": 1313
+          }
+        ]
+      },
+      {
+        "name": "Mog Stamp - Mount Kilanda",
+        "chest_unopened_img": "images/stamps/pin.png",
+        "chest_opened_img": "images/stamps/pin_collected.png",
+        "visibility_rules": [
+          "$stamps_shown"
+        ],
+        "sections": [
+          {
+            "name": "Mog Stamp",
+            "item_count": 1,
+            "access_rules": [
+              "$stage_key|mk,$river|mk"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "mount_kilanda",
+            "x": 544,
+            "y": 158
+          },
+          {
+            "map": "mount_kilanda__e",
+            "x": 544,
+            "y": 158
+          },
+          {
+            "map": "mount_kilanda__e1",
+            "x": 544,
+            "y": 158
+          },
+          {
+            "map": "mount_kilanda__e2",
+            "x": 544,
+            "y": 158
+          },
+          {
+            "map": "mount_kilanda__e3",
+            "x": 544,
+            "y": 158
+          },
+          {
+            "map": "mount_kilanda__h",
+            "x": 544,
+            "y": 158
+          },
+          {
+            "map": "mount_kilanda__he",
+            "x": 544,
+            "y": 158
+          },
+          {
+            "map": "mount_kilanda__he1",
+            "x": 544,
+            "y": 158
+          },
+          {
+            "map": "mount_kilanda__he2",
+            "x": 544,
+            "y": 158
+          },
+          {
+            "map": "mount_kilanda__he3",
+            "x": 544,
+            "y": 158
+          }
+        ]
+      },
+      {
+        "name": "Mog Stamp - Daemon's Court",
+        "chest_unopened_img": "images/stamps/pin.png",
+        "chest_opened_img": "images/stamps/pin_collected.png",
+        "visibility_rules": [
+          "$stamps_shown"
+        ],
+        "sections": [
+          {
+            "name": "Mog Stamp",
+            "item_count": 1,
+            "access_rules": [
+              "$stage_key|dc,$river|dc"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "daemons_court",
+            "x": 298,
+            "y": 138
+          },
+          {
+            "map": "daemons_court__e",
+            "x": 298,
+            "y": 138
+          },
+          {
+            "map": "daemons_court__e1",
+            "x": 298,
+            "y": 138
+          },
+          {
+            "map": "daemons_court__e2",
+            "x": 298,
+            "y": 138
+          },
+          {
+            "map": "daemons_court__e3",
+            "x": 298,
+            "y": 138
+          },
+          {
+            "map": "daemons_court__h",
+            "x": 298,
+            "y": 138
+          },
+          {
+            "map": "daemons_court__he",
+            "x": 298,
+            "y": 138
+          },
+          {
+            "map": "daemons_court__he1",
+            "x": 298,
+            "y": 138
+          },
+          {
+            "map": "daemons_court__he2",
+            "x": 298,
+            "y": 138
+          },
+          {
+            "map": "daemons_court__he3",
+            "x": 298,
+            "y": 138
+          }
+        ]
+      },
+      {
+        "name": "Mog Stamp - Selepation Cave",
+        "chest_unopened_img": "images/stamps/pin.png",
+        "chest_opened_img": "images/stamps/pin_collected.png",
+        "visibility_rules": [
+          "$stamps_shown"
+        ],
+        "sections": [
+          {
+            "name": "Mog Stamp",
+            "item_count": 1,
+            "access_rules": [
+              "$stage_key|sc,$river|sc"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "selepation_cave",
+            "x": 447,
+            "y": 407
+          },
+          {
+            "map": "selepation_cave__e",
+            "x": 447,
+            "y": 407
+          },
+          {
+            "map": "selepation_cave__e1",
+            "x": 447,
+            "y": 407
+          },
+          {
+            "map": "selepation_cave__e2",
+            "x": 447,
+            "y": 407
+          },
+          {
+            "map": "selepation_cave__e3",
+            "x": 447,
+            "y": 407
+          },
+          {
+            "map": "selepation_cave__h",
+            "x": 447,
+            "y": 407
+          },
+          {
+            "map": "selepation_cave__he",
+            "x": 447,
+            "y": 407
+          },
+          {
+            "map": "selepation_cave__he1",
+            "x": 447,
+            "y": 407
+          },
+          {
+            "map": "selepation_cave__he2",
+            "x": 447,
+            "y": 407
+          },
+          {
+            "map": "selepation_cave__he3",
+            "x": 447,
+            "y": 407
+          }
+        ]
+      },
+      {
+        "name": "Mog Stamp - Veo Lu Sluice",
+        "chest_unopened_img": "images/stamps/pin.png",
+        "chest_opened_img": "images/stamps/pin_collected.png",
+        "visibility_rules": [
+          "$stamps_shown"
+        ],
+        "sections": [
+          {
+            "name": "Mog Stamp",
+            "item_count": 1,
+            "access_rules": [
+              "$stage_key|vls,$river|vls"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "veo_lu_sluice",
+            "x": 266,
+            "y": 212
+          },
+          {
+            "map": "veo_lu_sluice__e",
+            "x": 266,
+            "y": 212
+          },
+          {
+            "map": "veo_lu_sluice__e1",
+            "x": 266,
+            "y": 212
+          },
+          {
+            "map": "veo_lu_sluice__e2",
+            "x": 266,
+            "y": 212
+          },
+          {
+            "map": "veo_lu_sluice__e3",
+            "x": 266,
+            "y": 212
+          },
+          {
+            "map": "veo_lu_sluice__h",
+            "x": 266,
+            "y": 212
+          },
+          {
+            "map": "veo_lu_sluice__he",
+            "x": 266,
+            "y": 212
+          },
+          {
+            "map": "veo_lu_sluice__he1",
+            "x": 266,
+            "y": 212
+          },
+          {
+            "map": "veo_lu_sluice__he2",
+            "x": 266,
+            "y": 212
+          },
+          {
+            "map": "veo_lu_sluice__he3",
+            "x": 266,
+            "y": 212
+          }
+        ]
+      },
+      {
+        "name": "Mog Stamp - Lynari Desert",
+        "chest_unopened_img": "images/stamps/pin.png",
+        "chest_opened_img": "images/stamps/pin_collected.png",
+        "visibility_rules": [
+          "$stamps_shown"
+        ],
+        "sections": [
+          {
+            "name": "Mog Stamp",
+            "item_count": 1,
+            "access_rules": [
+              "$stage_key|ld,$river|ld"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lynari_desert",
+            "x": 128,
+            "y": 571
+          },
+          {
+            "map": "lynari_desert__e",
+            "x": 128,
+            "y": 571
+          },
+          {
+            "map": "lynari_desert__e1",
+            "x": 128,
+            "y": 571
+          },
+          {
+            "map": "lynari_desert__e2",
+            "x": 128,
+            "y": 571
+          },
+          {
+            "map": "lynari_desert__e3",
+            "x": 128,
+            "y": 571
+          },
+          {
+            "map": "lynari_desert__h",
+            "x": 128,
+            "y": 571
+          },
+          {
+            "map": "lynari_desert__he",
+            "x": 128,
+            "y": 571
+          },
+          {
+            "map": "lynari_desert__he1",
+            "x": 128,
+            "y": 571
+          },
+          {
+            "map": "lynari_desert__he2",
+            "x": 128,
+            "y": 571
+          },
+          {
+            "map": "lynari_desert__he3",
+            "x": 128,
+            "y": 571
+          }
+        ]
+      },
+      {
+        "name": "Mog Stamp - Conall Curach",
+        "chest_unopened_img": "images/stamps/pin.png",
+        "chest_opened_img": "images/stamps/pin_collected.png",
+        "visibility_rules": [
+          "$stamps_shown"
+        ],
+        "sections": [
+          {
+            "name": "Mog Stamp",
+            "item_count": 1,
+            "access_rules": [
+              "$stage_key|cc,$river|cc"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "conall_curach",
+            "x": 1178,
+            "y": 497
+          },
+          {
+            "map": "conall_curach__e",
+            "x": 1178,
+            "y": 497
+          },
+          {
+            "map": "conall_curach__e1",
+            "x": 1178,
+            "y": 497
+          },
+          {
+            "map": "conall_curach__e2",
+            "x": 1178,
+            "y": 497
+          },
+          {
+            "map": "conall_curach__e3",
+            "x": 1178,
+            "y": 497
+          },
+          {
+            "map": "conall_curach__h",
+            "x": 1178,
+            "y": 497
+          },
+          {
+            "map": "conall_curach__he",
+            "x": 1178,
+            "y": 497
+          },
+          {
+            "map": "conall_curach__he1",
+            "x": 1178,
+            "y": 497
+          },
+          {
+            "map": "conall_curach__he2",
+            "x": 1178,
+            "y": 497
+          },
+          {
+            "map": "conall_curach__he3",
+            "x": 1178,
+            "y": 497
+          }
+        ]
+      },
+      {
+        "name": "Mog Stamp - Rebena Te Ra",
+        "chest_unopened_img": "images/stamps/pin.png",
+        "chest_opened_img": "images/stamps/pin_collected.png",
+        "visibility_rules": [
+          "$stamps_shown"
+        ],
+        "sections": [
+          {
+            "name": "Mog Stamp",
+            "item_count": 1,
+            "access_rules": [
+              "$stage_key|rtr,$river|rtr"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "rebena_te_ra",
+            "x": 1328,
+            "y": 223
+          },
+          {
+            "map": "rebena_te_ra__e",
+            "x": 1328,
+            "y": 223
+          },
+          {
+            "map": "rebena_te_ra__e1",
+            "x": 1328,
+            "y": 223
+          },
+          {
+            "map": "rebena_te_ra__e2",
+            "x": 1328,
+            "y": 223
+          },
+          {
+            "map": "rebena_te_ra__e3",
+            "x": 1328,
+            "y": 223
+          },
+          {
+            "map": "rebena_te_ra__h",
+            "x": 1328,
+            "y": 223
+          },
+          {
+            "map": "rebena_te_ra__he",
+            "x": 1328,
+            "y": 223
+          },
+          {
+            "map": "rebena_te_ra__he1",
+            "x": 1328,
+            "y": 223
+          },
+          {
+            "map": "rebena_te_ra__he2",
+            "x": 1328,
+            "y": 223
+          },
+          {
+            "map": "rebena_te_ra__he3",
+            "x": 1328,
+            "y": 223
+          }
+        ]
+      },
+      {
+        "name": "Mog Stamp - Mount Vellenge",
+        "chest_unopened_img": "images/stamps/pin.png",
+        "chest_opened_img": "images/stamps/pin_collected.png",
+        "visibility_rules": [
+          "$stamps_shown"
+        ],
+        "sections": [
+          {
+            "name": "Mog Stamp",
+            "item_count": 1,
+            "access_rules": [
+              "$stage_key|mv,$river|mv"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "mount_vellenge",
+            "x": 1204,
+            "y": 566
+          },
+          {
+            "map": "mount_vellenge__e",
+            "x": 1204,
+            "y": 566
+          },
+          {
+            "map": "mount_vellenge__e1",
+            "x": 1204,
+            "y": 566
+          },
+          {
+            "map": "mount_vellenge__e2",
+            "x": 1204,
+            "y": 566
+          },
+          {
+            "map": "mount_vellenge__e3",
+            "x": 1204,
+            "y": 566
+          },
+          {
+            "map": "mount_vellenge__h",
+            "x": 1204,
+            "y": 566
+          },
+          {
+            "map": "mount_vellenge__he",
+            "x": 1204,
+            "y": 566
+          },
+          {
+            "map": "mount_vellenge__he1",
+            "x": 1204,
+            "y": 566
+          },
+          {
+            "map": "mount_vellenge__he2",
+            "x": 1204,
+            "y": 566
+          },
+          {
+            "map": "mount_vellenge__he3",
+            "x": 1204,
+            "y": 566
           }
         ]
       }

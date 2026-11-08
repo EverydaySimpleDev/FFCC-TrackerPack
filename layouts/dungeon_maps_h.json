@@ -129,10 +129,28 @@
         }
       },
       {
-        "title": "Shops",
+        "title": "Towns",
         "content": {
           "type": "tabbed",
           "tabs": [
+            {
+              "title": "Tipa",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "town_tipa"
+                ]
+              }
+            },
+            {
+              "title": "Port Tipa",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "town_port_tipa"
+                ]
+              }
+            },
             {
               "title": "Marr's Pass",
               "content": {
@@ -148,6 +166,15 @@
                 "type": "map",
                 "maps": [
                   "town_alfitaria"
+                ]
+              }
+            },
+            {
+              "title": "West Jegon River",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "town_west_jegon_river"
                 ]
               }
             },
@@ -175,6 +202,15 @@
                 "type": "map",
                 "maps": [
                   "town_leuda"
+                ]
+              }
+            },
+            {
+              "title": "Mag Mell",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "town_mag_mell"
                 ]
               }
             }
@@ -950,18 +986,19 @@
                           "hunt_1039"
                         ],
                         [
-                          "hunt_1040",
-                          "hunt_1041"
+                          "hunt_1050",
+                          "hunt_1040"
                         ],
                         [
-                          "hunt_1042",
-                          "hunt_1043"
+                          "hunt_1041",
+                          "hunt_1042"
                         ],
                         [
-                          "hunt_1044",
-                          "hunt_1045"
+                          "hunt_1043",
+                          "hunt_1044"
                         ],
                         [
+                          "hunt_1045",
                           "hunt_1102"
                         ]
                       ]
@@ -985,10 +1022,7 @@
                           "hunt_1049"
                         ],
                         [
-                          "hunt_1050",
-                          "hunt_1051"
-                        ],
-                        [
+                          "hunt_1051",
                           "hunt_1103"
                         ]
                       ]
