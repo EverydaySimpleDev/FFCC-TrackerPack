@@ -66,9 +66,20 @@ end
 
 if Archipelago and Archipelago.AddSetReplyHandler then
     Archipelago:AddClearHandler("mog stamps", function(slot_data)
-        local goal = slot_data and tonumber(slot_data["victory_goal"])
+        -- the Mog Stamps goal (3) as the Victory Goal or one of the Multiple
+        -- Goals: slot data "victory_goals" lists every goal, seeds made
+        -- before it only have "victory_goal"
+        local stamps_goal = false
+        local goals = slot_data and slot_data["victory_goals"]
+        if type(goals) == "table" then
+            for _, goal in pairs(goals) do
+                if tonumber(goal) == 3 then stamps_goal = true end
+            end
+        else
+            stamps_goal = slot_data ~= nil and tonumber(slot_data["victory_goal"]) == 3
+        end
         local hints = slot_data and slot_data["mog_stamp_hints"]
-        STAMPS_SHOWN = goal == 3 or hints == true or (type(hints) == "number" and hints ~= 0)
+        STAMPS_SHOWN = stamps_goal or hints == true or (type(hints) == "number" and hints ~= 0)
         for _, stamp in ipairs(STAMPS) do
             local item = Tracker:FindObjectForCode(stamp.code)
             if item then

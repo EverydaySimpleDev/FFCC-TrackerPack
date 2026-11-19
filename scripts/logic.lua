@@ -81,8 +81,8 @@ function progression_cycle(cycle)
     return AccessibilityLevel.SequenceBreak
 end
 
--- $chests_shown: with "Monster Hunt Checks" the enemies are the checks and
--- the chests are gone, so their map pins are hidden.
+-- $chests_shown: with "Monster Hunt Checks" and "Chest Checks" off the
+-- enemies are the only checks and the chests are gone, so their map pins are hidden.
 CHESTS_SHOWN = true
 
 function chests_shown()
